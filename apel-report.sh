@@ -3,7 +3,12 @@
 function res_rg() {
 nlimit=2
 rg="NULL"
-tmp=`mysql -u root oim -s <<< "select b.name from resource a, resource_group b where a.name='$1' and a.resource_group_id=b.id ;"`
+tmp=`mysql -u root oim -s <<< "
+  select b.name
+    from resource a
+       , resource_group b
+   where a.name='$1'
+     and a.resource_group_id=b.id ;"`
 size=${#tmp}
 if [ "$size" -gt "$nlimit" ] ; then
     rg=$tmp
@@ -60,7 +65,14 @@ for cores in "1" "8" ; do
        echo "APEL-summary-job-message: v0.3"
 
 ## count users for this month
-       nusers=`echo "use gratia ; select count(distinct KeyInfoContent) from JobUsageRecord where ReportableVOName='$vo' and Processors=$cores and Year(EndTime)=$year and Month(EndTime)=$month ;" | mysql --defaults-extra-file=/home/steige/qqq | grep -v count`
+       nusers=`echo "use gratia ;
+         select count(distinct KeyInfoContent)
+           from JobUsageRecord
+          where ReportableVOName='$vo'
+            and Processors=$cores
+            and Year(EndTime)=$year
+            and Month(EndTime)=$month ;
+       " | mysql --defaults-extra-file=/home/steige/qqq | grep -v count`
 
        now=`date`
        echo "$now : Found $nusers users">>/var/log/multicore.log
@@ -69,7 +81,15 @@ for cores in "1" "8" ; do
 
            now=`date`
            echo "$now : Getting user list">>/var/log/multicore.log
-           user=`echo "use gratia ; select distinct KeyInfoContent from JobUsageRecord where ReportableVOName='$vo' and Processors=$cores and Year(EndTime)=$year and Month(EndTime)=$month limit $user_index,1 ; " | mysql --defaults-extra-file=/home/steige/qqq | grep -v KeyInfoContent`
+           user=`echo "use gratia ;
+             select distinct KeyInfoContent
+               from JobUsageRecord
+              where ReportableVOName='$vo'
+                and Processors=$cores
+                and Year(EndTime)=$year
+                and Month(EndTime)=$month
+              limit $user_index,1 ;
+           " | mysql --defaults-extra-file=/home/steige/qqq | grep -v KeyInfoContent`
 
            if [ -z "$user" ] ; then
 ## emplty user name, account as "generic"
@@ -78,7 +98,17 @@ for cores in "1" "8" ; do
 ## find all resources used by this user
            now=`date`
            echo "$now : Getting resource list for user $user">>/var/log/multicore.log
-           resources=`echo "use gratia ; select distinct b.ReportedSiteName from JobUsageRecord a , JobUsageRecord_Meta b  where a.dbid=b.dbid and a.ReportableVOName='$vo' and a.Processors=$cores and a.KeyInfoContent='$user' and Month(a.EndTime)=$month and Year(a.EndTime)=$year ; " | mysql --defaults-extra-file=/home/steige/qqq | grep -v Name`
+           resources=`echo "use gratia ;
+             select distinct b.ReportedSiteName
+               from JobUsageRecord a
+                  , JobUsageRecord_Meta b
+              where a.dbid=b.dbid
+                and a.ReportableVOName='$vo'
+                and a.Processors=$cores
+                and a.KeyInfoContent='$user'
+                and Month(a.EndTime)=$month
+                and Year(a.EndTime)=$year ;
+           " | mysql --defaults-extra-file=/home/steige/qqq | grep -v Name`
            size=${#resources}
            if [ "$size" -gt "$nlimit" ] ; then
 ## have a non-null resources list, find the resource groups of the resources
@@ -101,7 +131,13 @@ for cores in "1" "8" ; do
 
 ## Normalization factor
 ## attempt to get a normalization factor from oim
-                           nftest=`mysql -u root oim -s <<< "select b.apel_normal_factor from resource a , resource_wlcg b where b.resource_id=a.id and a.name='$resource';"`
+                           nftest=`mysql -u root oim -s <<< "
+                             select b.apel_normal_factor
+                               from resource a
+                                  , resource_wlcg b
+                              where b.resource_id=a.id
+                                and a.name='$resource';
+                           "`
 ## sanity checks on the normalization factor
                            if [ $(echo " $nftest < $nmax && $nftest > $zero" | bc) -eq 1 ] ; then
                                nf=$nftest
@@ -122,13 +158,54 @@ for cores in "1" "8" ; do
 ## get summed CPU and Wall time for this user on this resource
                            now=`date`
                            echo "$now : Getting results">>/var/log/multicore.log
-                           results=`echo "use gratia ; select sums.norm as WghtdWall , sums.su as CpuUser, sums.ss as CpuSyst, sums.su/sums.norm as UserEff, sums.ss/sums.norm as SystEff, sums.njobs, sums.norm*$nf, sums.su*$nf from (select sum(term.wall)/1 as norm , sum(term.user)/1 as su, sum(term.syst)/1 as ss, count(term.wall) as njobs from (select WallDuration as wall, CpuUserDuration as user, CpuSystemDuration as syst from JobUsageRecord a, JobUsageRecord_Meta b  where a.dbid=b.dbid and Month(a.EndTime)=$month and Year(a.EndTime)=$year and a.Processors=$cores and a.ReportableVOName='$vo' and b.ReportedSiteName='$resource' and a.KeyInfoContent='$user' ) term ) sums; " | mysql --defaults-extra-file=/home/steige/qqq | grep -v WghtdWall`
+                           results=`echo "use gratia ;
+                             select sums.norm as WghtdWall
+                                  , sums.su as CpuUser
+                                  , sums.ss as CpuSyst
+                                  , sums.su/sums.norm as UserEff
+                                  , sums.ss/sums.norm as SystEff
+                                  , sums.njobs
+                                  , sums.norm*$nf
+                                  , sums.su*$nf
+                               from (
+                                    select sum(term.wall)/1 as norm
+                                         , sum(term.user)/1 as su
+                                         , sum(term.syst)/1 as ss
+                                         , count(term.wall) as njobs
+                                      from (
+                                           select WallDuration as wall
+                                                , CpuUserDuration as user
+                                                , CpuSystemDuration as syst
+                                             from JobUsageRecord a
+                                                , JobUsageRecord_Meta b
+                                            where a.dbid=b.dbid
+                                              and Month(a.EndTime)=$month
+                                              and Year(a.EndTime)=$year
+                                              and a.Processors=$cores
+                                              and a.ReportableVOName='$vo'
+                                              and b.ReportedSiteName='$resource'
+                                              and a.KeyInfoContent='$user'
+                                           ) term
+                                    ) sums;
+                           " | mysql --defaults-extra-file=/home/steige/qqq | grep -v WghtdWall`
 
 ## find the max and min job end times for the jobs defining usage.
 ## This is per request from APEL and is different that John W report
                            now=`date`
                            echo "$now : Getting times $resource">>/var/log/multicore.log
-                           times=`echo "use gratia ; select min(a.EndTime), max(a.EndTime) from JobUsageRecord a, JobUsageRecord_Meta b  where a.dbid=b.dbid and Month(a.EndTime)=$month and Year(a.EndTime)=$year and a.Processors=$cores and a.ReportableVOName='$vo' and b.ReportedSiteName='$resource' and a.KeyInfoContent='$user'; " | mysql --defaults-extra-file=/home/steige/qqq | grep -v WghtdWall`
+                           times=`echo "use gratia ;
+                             select min(a.EndTime)
+                                  , max(a.EndTime)
+                               from JobUsageRecord a
+                                  , JobUsageRecord_Meta b
+                              where a.dbid=b.dbid
+                                and Month(a.EndTime)=$month
+                                and Year(a.EndTime)=$year
+                                and a.Processors=$cores
+                                and a.ReportableVOName='$vo'
+                                and b.ReportedSiteName='$resource'
+                                and a.KeyInfoContent='$user';
+                           " | mysql --defaults-extra-file=/home/steige/qqq | grep -v WghtdWall`
 
                            echo $results | grep NULL >/dev/null
 ## sum up the results for this user, there may be more than one resource in this resource group
