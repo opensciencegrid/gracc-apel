@@ -13,6 +13,15 @@ if [[ $1 = -t ]]; then
   mkdir -p tmp send
 fi
 
+_mlog () {
+    echo "$@" >>$logdir/multicore.log
+}
+
+mlog () {
+    now=`date`
+    _mlog "$now :" "$@"
+}
+
 get_tmp_rg_name_by_rname () {
     tmp=`mysql -u root oim -s <<< "
       select b.name
@@ -39,8 +48,7 @@ get_tmp_rg_name_by_table () {
    else
 ##         lookup failed, default resource group to resource name
        rg=$1
-       now=`date`
-       echo "$now : resource $1 defaulted to resource group">>$logdir/multicore.log
+       mlog "resource $1 defaulted to resource group"
    fi
 }
 
@@ -107,8 +115,7 @@ log_init () {
 }
 
 print_report_record () {
-    now=`date`
-    echo "$now : Writing output of $vo $unique_rg">>$logdir/multicore.log
+    mlog "Writing output of $vo $unique_rg"
 ## output use summation here
     echo "Site: $unique_rg"
     echo "VO: $vo"
@@ -187,11 +194,9 @@ get_nf_tabular () {
    nf=`grep ${rg} $loc/normal_hepspec | awk '{print $2}'`
    if [ "$?" -ne "$zero" ] ; then
        nf=12
-       now=`date`
-       echo "$now : Warning: Using global default normalization factor $nf for $resource">>$logdir/multicore.log
+       mlog "Warning: Using global default normalization factor $nf for $resource"
    else
-       now=`date`
-       echo "$now : Warning: Using tabular default normalization factor $nf for $resource">>$logdir/multicore.log
+       mlog "Warning: Using tabular default normalization factor $nf for $resource"
    fi
 }
 
@@ -200,8 +205,7 @@ get_nf () {
    get_nftest  ## attempt to get a normalization factor from oim
    if [ -z "$nftest" ] ; then
        nftest=12
-       now=`date`
-       echo "$now : Warning: Using tabular default normalization factor $nf for $resource">>$logdir/multicore.log
+       mlog "Warning: Using tabular default normalization factor $nf for $resource"
    fi
 ## sanity checks on the normalization factor
    if [ $(echo " $nftest < $nmax && $nftest > $zero" | bc) -eq 1 ] ; then
@@ -212,15 +216,13 @@ get_nf () {
 ## if all else has failed...
    if [ -z "$nf" ] ; then
        nf=12
-       now=`date`
-       echo "$now : Warning: Using global default normalization factor $nf for $resource">>$logdir/multicore.log
+       mlog "Warning: Using global default normalization factor $nf for $resource"
    fi
 }
 
 get_results () {
 ## get summed CPU and Wall time for this user on this resource
-   now=`date`
-   echo "$now : Getting results">>$logdir/multicore.log
+   mlog "Getting results"
 
 ### (ApplicationExitCode=0 and
 
@@ -248,8 +250,7 @@ get_results () {
 get_times () {
 ## find the max and min job end times for the jobs defining usage.
 ## This is per request from APEL and is different that John W report
-   now=`date`
-   echo "$now : Getting times $resource">>$logdir/multicore.log
+   mlog "Getting times $resource"
    times=`echo "use gratia ;
      select min(EndTime)
           , max(EndTime)
@@ -316,8 +317,7 @@ do_resource () {
 }
 
 get_user () {
-   now=`date`
-   echo "$now : Getting user list">>$logdir/multicore.log
+   mlog "Getting user list"
    user=`echo "use gratia ;
      select distinct m.DistinguishedName
        from MasterSummaryData m
@@ -333,8 +333,7 @@ get_user () {
 
 get_resources () {
 ## find all resources used by this user
-   now=`date`
-   echo "$now : Getting resource list for user $user">>$logdir/multicore.log
+   mlog "Getting resource list for user $user"
    resources=`echo "use gratia ;
      select distinct s.SiteName
        from MasterSummaryData m
@@ -391,19 +390,17 @@ get_nusers () {
 }
 
 do_vo () {
-   now=`date`
-   echo "$now : Starting an $cores core report for $vo">>$logdir/multicore.log
+   mlog "Starting an $cores core report for $vo"
 
 ## count users for this month
    get_nusers
 
-   now=`date`
-   echo "$now : Found $nusers users">>$logdir/multicore.log
+   mlog "Found $nusers users"
 
    for user_index in `seq 0 $nusers` ; do
        do_user_index
    done
-   echo "$now : Finished an $cores core report for $vo">>$logdir/multicore.log
+   mlog "Finished an $cores core report for $vo"
 }
 
 get_coreslist () {
