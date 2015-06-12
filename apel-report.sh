@@ -415,11 +415,7 @@ get_coreslist () {
     " | mysql --defaults-extra-file=$loc/qqq | tail -n +2`
 }
 
-main () {
-    date_init
-    param_init
-    log_init
-
+do_report () {
     {
     ## add header, once per upload
     echo "APEL-summary-job-message: v0.3"
@@ -436,10 +432,20 @@ main () {
     done
 
     }>$pubdir/send/${month}_$year.apel
+}
 
+do_post () {
     ## post generation section
     chmod ugoa+rw $pubdir/send/${month}_$year.apel
     cp $pubdir/send/${month}_$year.apel $pubdir/tmp/current.apel
+}
+
+main () {
+    date_init
+    param_init
+    log_init
+    do_report
+    do_post
 }
 
 main
