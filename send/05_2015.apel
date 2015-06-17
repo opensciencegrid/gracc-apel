@@ -1,8 +1,8 @@
 APEL-summary-job-message: v0.3
 Site: AGLT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -17,8 +17,8 @@ NumberOfJobs: 2412
 %%
 Site: BNL-ATLAS
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -33,8 +33,8 @@ NumberOfJobs: 8792
 %%
 Site: BU_ATLAS_Tier2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -43,14 +43,14 @@ Processors: 1
 NodeCount: 1
 WallDuration: 220870
 CpuDuration: 10566
-NormalisedWallDuration: 2058508
-NormalisedCpuDuration: 98482
+NormalisedWallDuration: 2168943
+NormalisedCpuDuration: 103766
 NumberOfJobs: 2534
 %%
 Site: MWT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -65,8 +65,8 @@ NumberOfJobs: 10328
 %%
 Site: OU_OCHEP_SWT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -81,8 +81,8 @@ NumberOfJobs: 2101
 %%
 Site: SWT2_CPB
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -97,8 +97,8 @@ NumberOfJobs: 1706
 %%
 Site: WT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -113,8 +113,8 @@ NumberOfJobs: 2812
 %%
 Site: AGLT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -129,8 +129,8 @@ NumberOfJobs: 10353
 %%
 Site: AGLT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -145,8 +145,8 @@ NumberOfJobs: 47782
 %%
 Site: BNL-ATLAS
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -161,8 +161,8 @@ NumberOfJobs: 479699
 %%
 Site: BU_ATLAS_Tier2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -171,14 +171,14 @@ Processors: 1
 NodeCount: 1
 WallDuration: 413126644
 CpuDuration: 313597713
-NormalisedWallDuration: 3850340322
-NormalisedCpuDuration: 2922730692
+NormalisedWallDuration: 4056903644
+NormalisedCpuDuration: 3079529549
 NumberOfJobs: 89771
 %%
 Site: CIT_CMS_T2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431993600
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -193,8 +193,8 @@ NumberOfJobs: 4055
 %%
 Site: FNAL_GPGRID_1
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431993600
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -209,8 +209,8 @@ NumberOfJobs: 6743
 %%
 Site: GLOW
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431993600
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -225,8 +225,8 @@ NumberOfJobs: 1847
 %%
 Site: HU_ATLAS_Tier2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -241,8 +241,8 @@ NumberOfJobs: 24171
 %%
 Site: LUCILLE
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -258,7 +258,7 @@ NumberOfJobs: 22783
 Site: LUHEP_OSG
 VO: atlas
 EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -273,8 +273,8 @@ NumberOfJobs: 8
 %%
 Site: MIT_CMS
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431993600
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -289,8 +289,8 @@ NumberOfJobs: 2733
 %%
 Site: MWT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -305,8 +305,8 @@ NumberOfJobs: 80398
 %%
 Site: NYSGRID_CORNELL_NYS1
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431993600
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -321,8 +321,8 @@ NumberOfJobs: 1172
 %%
 Site: OUHEP_OSG
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431993600
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -337,8 +337,8 @@ NumberOfJobs: 379
 %%
 Site: OU_OCHEP_SWT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -353,8 +353,8 @@ NumberOfJobs: 29357
 %%
 Site: OU_OSCER_ATLAS
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -369,8 +369,8 @@ NumberOfJobs: 34636
 %%
 Site: SMU_HPC
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431993600
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -385,8 +385,8 @@ NumberOfJobs: 374
 %%
 Site: SWT2_CPB
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -401,8 +401,8 @@ NumberOfJobs: 97612
 %%
 Site: UCSDT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1432166400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -417,8 +417,8 @@ NumberOfJobs: 2232
 %%
 Site: USCMS-FNAL-WC1
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1432080000
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -433,8 +433,8 @@ NumberOfJobs: 225
 %%
 Site: UTA_SWT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -449,8 +449,8 @@ NumberOfJobs: 7241
 %%
 Site: AGLT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -465,8 +465,8 @@ NumberOfJobs: 135453
 %%
 Site: BNL-ATLAS
 VO: atlas
-EarliestEndTime: 1430697600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -481,8 +481,8 @@ NumberOfJobs: 1193360
 %%
 Site: BU_ATLAS_Tier2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -491,14 +491,14 @@ Processors: 1
 NodeCount: 1
 WallDuration: 1341281885
 CpuDuration: 1106738185
-NormalisedWallDuration: 12500747168
-NormalisedCpuDuration: 10314799890
+NormalisedWallDuration: 13171388110
+NormalisedCpuDuration: 10868168983
 NumberOfJobs: 225183
 %%
 Site: HU_ATLAS_Tier2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -513,8 +513,8 @@ NumberOfJobs: 55517
 %%
 Site: LUCILLE
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -530,7 +530,7 @@ NumberOfJobs: 24377
 Site: LUHEP_OSG
 VO: atlas
 EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -545,8 +545,8 @@ NumberOfJobs: 42
 %%
 Site: MWT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -561,8 +561,8 @@ NumberOfJobs: 189421
 %%
 Site: OU_OCHEP_SWT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -577,8 +577,8 @@ NumberOfJobs: 66890
 %%
 Site: SWT2_CPB
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -593,8 +593,8 @@ NumberOfJobs: 277094
 %%
 Site: UTA_SWT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -610,7 +610,7 @@ NumberOfJobs: 21444
 Site: BNL-ATLAS
 VO: atlas
 EarliestEndTime: 1430438400
-LatestEndTime: 1433980800
+LatestEndTime: 1430438400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -625,8 +625,8 @@ NumberOfJobs: 1
 %%
 Site: BNL-ATLAS
 VO: atlas
-EarliestEndTime: 1431993600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430956800
+LatestEndTime: 1432857600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -642,7 +642,7 @@ NumberOfJobs: 6
 Site: MWT2
 VO: atlas
 EarliestEndTime: 1431993600
-LatestEndTime: 1433980800
+LatestEndTime: 1431993600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -657,8 +657,8 @@ NumberOfJobs: 1
 %%
 Site: UTA_SWT2
 VO: atlas
-EarliestEndTime: 1432684800
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1432684800
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -673,8 +673,8 @@ NumberOfJobs: 18
 %%
 Site: AGLT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -689,8 +689,8 @@ NumberOfJobs: 90
 %%
 Site: BNL-ATLAS
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431388800
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -705,8 +705,8 @@ NumberOfJobs: 145
 %%
 Site: BU_ATLAS_Tier2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431302400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -715,14 +715,14 @@ Processors: 1
 NodeCount: 1
 WallDuration: 133
 CpuDuration: 41
-NormalisedWallDuration: 1239
-NormalisedCpuDuration: 388
+NormalisedWallDuration: 1306
+NormalisedCpuDuration: 409
 NumberOfJobs: 2623
 %%
 Site: LUCILLE
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431388800
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -737,8 +737,8 @@ NumberOfJobs: 49
 %%
 Site: MWT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431388800
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -753,8 +753,8 @@ NumberOfJobs: 73
 %%
 Site: OU_OCHEP_SWT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431388800
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -769,8 +769,8 @@ NumberOfJobs: 19
 %%
 Site: OU_OSCER_ATLAS
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431388800
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -785,8 +785,8 @@ NumberOfJobs: 19
 %%
 Site: SWT2_CPB
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431388800
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -801,8 +801,8 @@ NumberOfJobs: 19
 %%
 Site: UTA_SWT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431388800
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -817,8 +817,8 @@ NumberOfJobs: 19
 %%
 Site: WT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431388800
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -833,8 +833,8 @@ NumberOfJobs: 19
 %%
 Site: AGLT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -849,8 +849,8 @@ NumberOfJobs: 2565
 %%
 Site: AGLT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -865,8 +865,8 @@ NumberOfJobs: 30098
 %%
 Site: AGLT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -881,8 +881,8 @@ NumberOfJobs: 9794
 %%
 Site: AGLT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -897,8 +897,8 @@ NumberOfJobs: 82281
 %%
 Site: MWT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -913,8 +913,8 @@ NumberOfJobs: 2242086
 %%
 Site: AGLT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -930,7 +930,7 @@ NumberOfJobs: 1275
 Site: AGLT2
 VO: atlas
 EarliestEndTime: 1430697600
-LatestEndTime: 1433980800
+LatestEndTime: 1430697600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -946,7 +946,7 @@ NumberOfJobs: 1
 Site: BNL-ATLAS
 VO: atlas
 EarliestEndTime: 1430697600
-LatestEndTime: 1433980800
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -961,8 +961,8 @@ NumberOfJobs: 313
 %%
 Site: AGLT2
 VO: atlas
-EarliestEndTime: 1431993600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430697600
+LatestEndTime: 1431993600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -978,7 +978,7 @@ NumberOfJobs: 27
 Site: OUHEP_OSG
 VO: atlas
 EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -994,7 +994,7 @@ NumberOfJobs: 162
 Site: OU_OSCER_ATLAS
 VO: atlas
 EarliestEndTime: 1430697600
-LatestEndTime: 1433980800
+LatestEndTime: 1430697600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1009,8 +1009,8 @@ NumberOfJobs: 2
 %%
 Site: HU_ATLAS_Tier2
 VO: atlas
-EarliestEndTime: 1431302400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430697600
+LatestEndTime: 1431302400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1025,8 +1025,8 @@ NumberOfJobs: 1263
 %%
 Site: AGLT2
 VO: atlas
-EarliestEndTime: 1432339200
-LatestEndTime: 1433980800
+EarliestEndTime: 1430784000
+LatestEndTime: 1432339200
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1041,8 +1041,8 @@ NumberOfJobs: 116
 %%
 Site: WT2
 VO: atlas
-EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430956800
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1058,7 +1058,7 @@ NumberOfJobs: 2
 Site: AGLT2
 VO: atlas
 EarliestEndTime: 1430956800
-LatestEndTime: 1433980800
+LatestEndTime: 1430956800
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1073,8 +1073,8 @@ NumberOfJobs: 1
 %%
 Site: AGLT2
 VO: atlas
-EarliestEndTime: 1432512000
-LatestEndTime: 1433980800
+EarliestEndTime: 1430956800
+LatestEndTime: 1432512000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1089,8 +1089,8 @@ NumberOfJobs: 531
 %%
 Site: AGLT2
 VO: atlas
-EarliestEndTime: 1432771200
-LatestEndTime: 1433980800
+EarliestEndTime: 1431648000
+LatestEndTime: 1432771200
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1106,7 +1106,7 @@ NumberOfJobs: 9
 Site: AGLT2
 VO: atlas
 EarliestEndTime: 1431648000
-LatestEndTime: 1433980800
+LatestEndTime: 1431648000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1121,8 +1121,8 @@ NumberOfJobs: 1
 %%
 Site: GLOW
 VO: cms
-EarliestEndTime: 1432425600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1432425600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1137,8 +1137,8 @@ NumberOfJobs: 2895
 %%
 Site: GLOW
 VO: cms
-EarliestEndTime: 1432425600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1432425600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1154,7 +1154,7 @@ NumberOfJobs: 151311
 Site: GLOW
 VO: cms
 EarliestEndTime: 1430438400
-LatestEndTime: 1433980800
+LatestEndTime: 1430438400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1169,8 +1169,8 @@ NumberOfJobs: 1367
 %%
 Site: GLOW
 VO: cms
-EarliestEndTime: 1432857600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1432857600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1185,8 +1185,8 @@ NumberOfJobs: 16191
 %%
 Site: GLOW
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1201,8 +1201,8 @@ NumberOfJobs: 6564
 %%
 Site: UCSDT2
 VO: cms
-EarliestEndTime: 1431043200
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1431475200
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1217,8 +1217,8 @@ NumberOfJobs: 124
 %%
 Site: Baylor-Tier3
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1233,8 +1233,8 @@ NumberOfJobs: 3492
 %%
 Site: cinvestav
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1249,8 +1249,8 @@ NumberOfJobs: 3795
 %%
 Site: CIT_CMS_T2
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1265,8 +1265,8 @@ NumberOfJobs: 8419
 %%
 Site: FLTECH
 VO: cms
-EarliestEndTime: 1432598400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1432598400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1281,8 +1281,8 @@ NumberOfJobs: 3603
 %%
 Site: GLOW
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1297,8 +1297,8 @@ NumberOfJobs: 12692
 %%
 Site: MIT_CMS
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1313,8 +1313,8 @@ NumberOfJobs: 8680
 %%
 Site: Nebraska
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1329,8 +1329,8 @@ NumberOfJobs: 13033
 %%
 Site: NWICG_NDCMS
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1345,8 +1345,8 @@ NumberOfJobs: 4037
 %%
 Site: NYSGRID_CORNELL_NYS1
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1361,8 +1361,8 @@ NumberOfJobs: 3511
 %%
 Site: Purdue-Carter
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1377,8 +1377,8 @@ NumberOfJobs: 3043
 %%
 Site: Purdue-Hadoop
 VO: cms
-EarliestEndTime: 1432857600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1393,8 +1393,8 @@ NumberOfJobs: 12399
 %%
 Site: Purdue-Hammer
 VO: cms
-EarliestEndTime: 1432857600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1432857600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1409,8 +1409,8 @@ NumberOfJobs: 1935
 %%
 Site: Purdue-Hansen
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1425,8 +1425,8 @@ NumberOfJobs: 2215
 %%
 Site: Purdue-Rossmann
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1441,8 +1441,8 @@ NumberOfJobs: 3928
 %%
 Site: rutgers-cms
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1457,8 +1457,8 @@ NumberOfJobs: 4395
 %%
 Site: SPRACE
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1473,8 +1473,8 @@ NumberOfJobs: 4068
 %%
 Site: TAMU_BRAZOS
 VO: cms
-EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1489,8 +1489,8 @@ NumberOfJobs: 81
 %%
 Site: UCR-HEP
 VO: cms
-EarliestEndTime: 1432857600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1432857600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1505,8 +1505,8 @@ NumberOfJobs: 4029
 %%
 Site: UCSDT2
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1521,8 +1521,8 @@ NumberOfJobs: 6841
 %%
 Site: UERJ
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1537,8 +1537,8 @@ NumberOfJobs: 4371
 %%
 Site: UFlorida-HPC
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1553,8 +1553,8 @@ NumberOfJobs: 1018
 %%
 Site: umd-cms
 VO: cms
-EarliestEndTime: 1431388800
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1431388800
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1569,8 +1569,8 @@ NumberOfJobs: 1502
 %%
 Site: UMissHEP
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1585,8 +1585,8 @@ NumberOfJobs: 4355
 %%
 Site: uprm-cms
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1601,8 +1601,8 @@ NumberOfJobs: 4403
 %%
 Site: USCMS-FNAL-WC1
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1617,8 +1617,8 @@ NumberOfJobs: 12792
 %%
 Site: CIT_CMS_T2
 VO: cms
-EarliestEndTime: 1431648000
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1431648000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1634,7 +1634,7 @@ NumberOfJobs: 175
 Site: GLOW
 VO: cms
 EarliestEndTime: 1431648000
-LatestEndTime: 1433980800
+LatestEndTime: 1431648000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1649,8 +1649,8 @@ NumberOfJobs: 28
 %%
 Site: MIT_CMS
 VO: cms
-EarliestEndTime: 1431648000
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1431648000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1665,8 +1665,8 @@ NumberOfJobs: 18
 %%
 Site: Nebraska
 VO: cms
-EarliestEndTime: 1431648000
-LatestEndTime: 1433980800
+EarliestEndTime: 1430870400
+LatestEndTime: 1431648000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1681,8 +1681,8 @@ NumberOfJobs: 125
 %%
 Site: Purdue-Hadoop
 VO: cms
-EarliestEndTime: 1431648000
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1431648000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1697,8 +1697,8 @@ NumberOfJobs: 57
 %%
 Site: SPRACE
 VO: cms
-EarliestEndTime: 1431648000
-LatestEndTime: 1433980800
+EarliestEndTime: 1431475200
+LatestEndTime: 1431648000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1714,7 +1714,7 @@ NumberOfJobs: 120
 Site: UColorado_HEP
 VO: cms
 EarliestEndTime: 1431648000
-LatestEndTime: 1433980800
+LatestEndTime: 1431648000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1729,8 +1729,8 @@ NumberOfJobs: 4
 %%
 Site: UCSDT2
 VO: cms
-EarliestEndTime: 1431648000
-LatestEndTime: 1433980800
+EarliestEndTime: 1430870400
+LatestEndTime: 1431648000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1746,7 +1746,7 @@ NumberOfJobs: 101
 Site: UFlorida-HPC
 VO: cms
 EarliestEndTime: 1431475200
-LatestEndTime: 1433980800
+LatestEndTime: 1431648000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1761,8 +1761,8 @@ NumberOfJobs: 37
 %%
 Site: USCMS-FNAL-WC1
 VO: cms
-EarliestEndTime: 1431043200
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1431043200
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1777,8 +1777,8 @@ NumberOfJobs: 16599
 %%
 Site: UCSDT2
 VO: cms
-EarliestEndTime: 1432598400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1432598400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1793,8 +1793,8 @@ NumberOfJobs: 42216
 %%
 Site: CIT_CMS_T2
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1809,8 +1809,8 @@ NumberOfJobs: 1491
 %%
 Site: GLOW
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1825,8 +1825,8 @@ NumberOfJobs: 1780
 %%
 Site: MIT_CMS
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1841,8 +1841,8 @@ NumberOfJobs: 955
 %%
 Site: Nebraska
 VO: cms
-EarliestEndTime: 1432944000
-LatestEndTime: 1433980800
+EarliestEndTime: 1430611200
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1857,8 +1857,8 @@ NumberOfJobs: 809
 %%
 Site: Purdue-Hadoop
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1873,8 +1873,8 @@ NumberOfJobs: 691
 %%
 Site: UCSDT2
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1889,8 +1889,8 @@ NumberOfJobs: 13787
 %%
 Site: UFlorida-HPC
 VO: cms
-EarliestEndTime: 1432944000
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1905,8 +1905,8 @@ NumberOfJobs: 442
 %%
 Site: Baylor-Tier3
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1921,8 +1921,8 @@ NumberOfJobs: 6198
 %%
 Site: cinvestav
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1937,8 +1937,8 @@ NumberOfJobs: 2066
 %%
 Site: CIT_CMS_T2
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1953,8 +1953,8 @@ NumberOfJobs: 170997
 %%
 Site: Crane
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1969,8 +1969,8 @@ NumberOfJobs: 1690
 %%
 Site: FLTECH
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -1985,8 +1985,8 @@ NumberOfJobs: 12091
 %%
 Site: GLOW
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2001,8 +2001,8 @@ NumberOfJobs: 331921
 %%
 Site: MIT_CMS
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2017,8 +2017,8 @@ NumberOfJobs: 399618
 %%
 Site: Nebraska
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2033,8 +2033,8 @@ NumberOfJobs: 215635
 %%
 Site: NWICG_NDCMS
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2049,8 +2049,8 @@ NumberOfJobs: 3232
 %%
 Site: Purdue-Hadoop
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2065,8 +2065,8 @@ NumberOfJobs: 63668
 %%
 Site: rutgers-cms
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2081,8 +2081,8 @@ NumberOfJobs: 2438
 %%
 Site: SPRACE
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2097,8 +2097,8 @@ NumberOfJobs: 73152
 %%
 Site: UColorado_HEP
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2113,8 +2113,8 @@ NumberOfJobs: 47774
 %%
 Site: UCR-HEP
 VO: cms
-EarliestEndTime: 1432857600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1432857600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2129,8 +2129,8 @@ NumberOfJobs: 3269
 %%
 Site: UCSDT2
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2145,8 +2145,8 @@ NumberOfJobs: 207433
 %%
 Site: UERJ
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431475200
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2161,8 +2161,8 @@ NumberOfJobs: 11400
 %%
 Site: UFlorida-HPC
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2177,8 +2177,8 @@ NumberOfJobs: 116068
 %%
 Site: umd-cms
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2193,8 +2193,8 @@ NumberOfJobs: 2361
 %%
 Site: UMissHEP
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2209,8 +2209,8 @@ NumberOfJobs: 3514
 %%
 Site: uprm-cms
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2226,7 +2226,7 @@ NumberOfJobs: 3267
 Site: USCMS-FNAL-WC1
 VO: cms
 EarliestEndTime: 1431043200
-LatestEndTime: 1433980800
+LatestEndTime: 1431043200
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2241,8 +2241,8 @@ NumberOfJobs: 7
 %%
 Site: umd-cms
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2257,8 +2257,8 @@ NumberOfJobs: 519
 %%
 Site: TAMU_BRAZOS
 VO: cms
-EarliestEndTime: 1431734400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430524800
+LatestEndTime: 1431734400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2273,8 +2273,8 @@ NumberOfJobs: 159
 %%
 Site: umd-cms
 VO: cms
-EarliestEndTime: 1430697600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430611200
+LatestEndTime: 1430697600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2289,8 +2289,8 @@ NumberOfJobs: 11
 %%
 Site: GLOW
 VO: cms
-EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430697600
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2305,8 +2305,8 @@ NumberOfJobs: 7885
 %%
 Site: GLOW
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430697600
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2321,8 +2321,8 @@ NumberOfJobs: 4379
 %%
 Site: GLOW
 VO: cms
-EarliestEndTime: 1432944000
-LatestEndTime: 1433980800
+EarliestEndTime: 1430784000
+LatestEndTime: 1432944000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2337,8 +2337,8 @@ NumberOfJobs: 333081
 %%
 Site: GLOW
 VO: cms
-EarliestEndTime: 1431734400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430784000
+LatestEndTime: 1431734400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2354,7 +2354,7 @@ NumberOfJobs: 463
 Site: BNL-ATLAS
 VO: cms
 EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2370,7 +2370,7 @@ NumberOfJobs: 2
 Site: cinvestav
 VO: cms
 EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2386,7 +2386,7 @@ NumberOfJobs: 3
 Site: CIT_CMS_T2
 VO: cms
 EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2401,8 +2401,8 @@ NumberOfJobs: 6
 %%
 Site: FLTECH
 VO: cms
-EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+EarliestEndTime: 1431475200
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2418,7 +2418,7 @@ NumberOfJobs: 7
 Site: FNAL_GPGRID_1
 VO: cms
 EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2434,7 +2434,7 @@ NumberOfJobs: 3
 Site: GLOW
 VO: cms
 EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2450,7 +2450,7 @@ NumberOfJobs: 5
 Site: MIT_CMS
 VO: cms
 EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2466,7 +2466,7 @@ NumberOfJobs: 2
 Site: Nebraska
 VO: cms
 EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2482,7 +2482,7 @@ NumberOfJobs: 6
 Site: NWICG_NDCMS
 VO: cms
 EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2497,8 +2497,8 @@ NumberOfJobs: 3
 %%
 Site: NYSGRID_CORNELL_NYS1
 VO: cms
-EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+EarliestEndTime: 1431475200
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2514,7 +2514,7 @@ NumberOfJobs: 2
 Site: SPRACE
 VO: cms
 EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2530,7 +2530,7 @@ NumberOfJobs: 2
 Site: UCR-HEP
 VO: cms
 EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2545,8 +2545,8 @@ NumberOfJobs: 1
 %%
 Site: UCSDT2
 VO: cms
-EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430870400
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2562,7 +2562,7 @@ NumberOfJobs: 29
 Site: UERJ
 VO: cms
 EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2578,7 +2578,7 @@ NumberOfJobs: 3
 Site: UFlorida-HPC
 VO: cms
 EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2594,7 +2594,7 @@ NumberOfJobs: 1
 Site: umd-cms
 VO: cms
 EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2610,7 +2610,7 @@ NumberOfJobs: 2
 Site: UMissHEP
 VO: cms
 EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2626,7 +2626,7 @@ NumberOfJobs: 1
 Site: uprm-cms
 VO: cms
 EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2641,8 +2641,8 @@ NumberOfJobs: 1
 %%
 Site: MIT_CMS
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430956800
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2658,7 +2658,7 @@ NumberOfJobs: 335
 Site: USCMS-FNAL-WC1
 VO: cms
 EarliestEndTime: 1431043200
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2674,7 +2674,7 @@ NumberOfJobs: 7
 Site: gpce01.fnal.gov
 VO: cms
 EarliestEndTime: 1432684800
-LatestEndTime: 1433980800
+LatestEndTime: 1432684800
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2690,7 +2690,7 @@ NumberOfJobs: 2
 Site: gpce02.fnal.gov
 VO: cms
 EarliestEndTime: 1432771200
-LatestEndTime: 1433980800
+LatestEndTime: 1432771200
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2705,8 +2705,8 @@ NumberOfJobs: 1
 %%
 Site: USCMS-FNAL-WC1
 VO: cms
-EarliestEndTime: 1431388800
-LatestEndTime: 1433980800
+EarliestEndTime: 1431043200
+LatestEndTime: 1431388800
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2721,8 +2721,8 @@ NumberOfJobs: 10
 %%
 Site: Purdue-Hadoop
 VO: cms
-EarliestEndTime: 1431129600
-LatestEndTime: 1433980800
+EarliestEndTime: 1431043200
+LatestEndTime: 1431129600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2737,8 +2737,8 @@ NumberOfJobs: 2
 %%
 Site: ucsb-cms
 VO: cms
-EarliestEndTime: 1432857600
-LatestEndTime: 1433980800
+EarliestEndTime: 1431216000
+LatestEndTime: 1432857600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2753,8 +2753,8 @@ NumberOfJobs: 21
 %%
 Site: ucsb-cms
 VO: cms
-EarliestEndTime: 1431388800
-LatestEndTime: 1433980800
+EarliestEndTime: 1431302400
+LatestEndTime: 1431388800
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2769,8 +2769,8 @@ NumberOfJobs: 4
 %%
 Site: GLOW
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431388800
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2785,8 +2785,8 @@ NumberOfJobs: 44369
 %%
 Site: Purdue-Hadoop
 VO: cms
-EarliestEndTime: 1432857600
-LatestEndTime: 1433980800
+EarliestEndTime: 1431388800
+LatestEndTime: 1432857600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2801,8 +2801,8 @@ NumberOfJobs: 16897
 %%
 Site: UFlorida-HPC
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431388800
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2818,7 +2818,7 @@ NumberOfJobs: 23895
 Site: ucsb-cms
 VO: cms
 EarliestEndTime: 1431388800
-LatestEndTime: 1433980800
+LatestEndTime: 1431388800
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2833,8 +2833,8 @@ NumberOfJobs: 2
 %%
 Site: uprm-cms
 VO: cms
-EarliestEndTime: 1432080000
-LatestEndTime: 1433980800
+EarliestEndTime: 1431388800
+LatestEndTime: 1432080000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2850,7 +2850,7 @@ NumberOfJobs: 16
 Site: USCMS-FNAL-WC1
 VO: cms
 EarliestEndTime: 1431475200
-LatestEndTime: 1433980800
+LatestEndTime: 1431475200
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2866,7 +2866,7 @@ NumberOfJobs: 1
 Site: CIT_CMS_T2
 VO: cms
 EarliestEndTime: 1431907200
-LatestEndTime: 1433980800
+LatestEndTime: 1431907200
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2882,7 +2882,7 @@ NumberOfJobs: 6
 Site: GLOW
 VO: cms
 EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2897,8 +2897,8 @@ NumberOfJobs: 4
 %%
 Site: Purdue-Hadoop
 VO: cms
-EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431993600
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2914,7 +2914,7 @@ NumberOfJobs: 14
 Site: TTU-ANTAEUS
 VO: cms
 EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2929,8 +2929,8 @@ NumberOfJobs: 2
 %%
 Site: UFlorida-HPC
 VO: cms
-EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431993600
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2946,7 +2946,7 @@ NumberOfJobs: 11
 Site: uprm-cms
 VO: cms
 EarliestEndTime: 1432080000
-LatestEndTime: 1433980800
+LatestEndTime: 1432080000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2962,7 +2962,7 @@ NumberOfJobs: 8
 Site: ucsb-cms
 VO: cms
 EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2978,7 +2978,7 @@ NumberOfJobs: 1
 Site: Baylor-Tier3
 VO: cms
 EarliestEndTime: 1432252800
-LatestEndTime: 1433980800
+LatestEndTime: 1432252800
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -2994,7 +2994,7 @@ NumberOfJobs: 4
 Site: gpce01.fnal.gov
 VO: cms
 EarliestEndTime: 1432684800
-LatestEndTime: 1433980800
+LatestEndTime: 1432684800
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3010,7 +3010,7 @@ NumberOfJobs: 4
 Site: FLTECH
 VO: cms
 EarliestEndTime: 1432684800
-LatestEndTime: 1433980800
+LatestEndTime: 1432684800
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3025,8 +3025,8 @@ NumberOfJobs: 1
 %%
 Site: CIT_CMS_T2
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1432857600
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3041,8 +3041,8 @@ NumberOfJobs: 277
 %%
 Site: Purdue-Carter
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1432857600
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3057,8 +3057,8 @@ NumberOfJobs: 75
 %%
 Site: Purdue-Hadoop
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1432857600
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3073,8 +3073,8 @@ NumberOfJobs: 992
 %%
 Site: Purdue-Hammer
 VO: cms
-EarliestEndTime: 1432944000
-LatestEndTime: 1433980800
+EarliestEndTime: 1432857600
+LatestEndTime: 1432944000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3089,8 +3089,8 @@ NumberOfJobs: 28
 %%
 Site: Purdue-Hansen
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1432857600
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3105,8 +3105,8 @@ NumberOfJobs: 58
 %%
 Site: Purdue-Rossmann
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1432857600
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3121,8 +3121,8 @@ NumberOfJobs: 88
 %%
 Site: UCSDT2
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1432771200
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3137,8 +3137,8 @@ NumberOfJobs: 127
 %%
 Site: UFlorida-HPC
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1432944000
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3154,7 +3154,7 @@ NumberOfJobs: 50
 Site: NWICG_Earth
 VO: cms
 EarliestEndTime: 1432857600
-LatestEndTime: 1433980800
+LatestEndTime: 1432857600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3169,8 +3169,8 @@ NumberOfJobs: 1
 %%
 Site: FNAL_GPGRID_1
 VO: enmr.eu
-EarliestEndTime: 1430524800
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1430524800
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3185,8 +3185,8 @@ NumberOfJobs: 39
 %%
 Site: None
 VO: enmr.eu
-EarliestEndTime: 1430524800
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1430524800
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3202,7 +3202,7 @@ NumberOfJobs: 38
 Site: FNAL_GPGRID_1
 VO: enmr.eu
 EarliestEndTime: 1432252800
-LatestEndTime: 1433980800
+LatestEndTime: 1432252800
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3217,8 +3217,8 @@ NumberOfJobs: 4
 %%
 Site: BNL-ATLAS
 VO: atlas
-EarliestEndTime: 1430524800
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3233,8 +3233,8 @@ NumberOfJobs: 89729
 %%
 Site: BNL-ATLAS
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3250,7 +3250,7 @@ NumberOfJobs: 37579
 Site: CIT_CMS_T2
 VO: atlas
 EarliestEndTime: 1432857600
-LatestEndTime: 1433980800
+LatestEndTime: 1432857600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3266,7 +3266,7 @@ NumberOfJobs: 2
 Site: BNL-ATLAS
 VO: atlas
 EarliestEndTime: 1430438400
-LatestEndTime: 1433980800
+LatestEndTime: 1430438400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3281,8 +3281,8 @@ NumberOfJobs: 1
 %%
 Site: CIT_CMS_T2
 VO: cms
-EarliestEndTime: 1432684800
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1432857600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3297,8 +3297,8 @@ NumberOfJobs: 61
 %%
 Site: Tusker
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3314,7 +3314,7 @@ NumberOfJobs: 16839
 Site: CIT_CMS_T2
 VO: cms
 EarliestEndTime: 1430438400
-LatestEndTime: 1433980800
+LatestEndTime: 1430438400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3329,8 +3329,8 @@ NumberOfJobs: 1
 %%
 Site: Tusker
 VO: cms
-EarliestEndTime: 1432425600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430697600
+LatestEndTime: 1432425600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3346,7 +3346,7 @@ NumberOfJobs: 55
 Site: Tusker
 VO: cms
 EarliestEndTime: 1430870400
-LatestEndTime: 1433980800
+LatestEndTime: 1430870400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3361,8 +3361,8 @@ NumberOfJobs: 6
 %%
 Site: AGLT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3377,8 +3377,8 @@ NumberOfJobs: 58039
 %%
 Site: BNL-ATLAS
 VO: atlas
-EarliestEndTime: 1430524800
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3393,8 +3393,8 @@ NumberOfJobs: 733426
 %%
 Site: BU_ATLAS_Tier2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3403,14 +3403,14 @@ Processors: 8
 NodeCount: 1
 WallDuration: 2921641016
 CpuDuration: 2330159765
-NormalisedWallDuration: 27229694269
-NormalisedCpuDuration: 21717089013
+NormalisedWallDuration: 28690514777
+NormalisedCpuDuration: 22882168895
 NumberOfJobs: 45390
 %%
 Site: HU_ATLAS_Tier2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3425,8 +3425,8 @@ NumberOfJobs: 38011
 %%
 Site: LUCILLE
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431561600
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3442,7 +3442,7 @@ NumberOfJobs: 4110
 Site: LUHEP_OSG
 VO: atlas
 EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3457,8 +3457,8 @@ NumberOfJobs: 15
 %%
 Site: MWT2
 VO: atlas
-EarliestEndTime: 1432684800
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3473,8 +3473,8 @@ NumberOfJobs: 93862
 %%
 Site: SWT2_CPB
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3489,8 +3489,8 @@ NumberOfJobs: 67558
 %%
 Site: UTA_SWT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3505,8 +3505,8 @@ NumberOfJobs: 12676
 %%
 Site: AGLT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3521,8 +3521,8 @@ NumberOfJobs: 18289
 %%
 Site: BNL-ATLAS
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3537,8 +3537,8 @@ NumberOfJobs: 293241
 %%
 Site: BU_ATLAS_Tier2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3547,14 +3547,14 @@ Processors: 8
 NodeCount: 1
 WallDuration: 935970416
 CpuDuration: 734036135
-NormalisedWallDuration: 8723244277
-NormalisedCpuDuration: 6841216785
+NormalisedWallDuration: 9191229485
+NormalisedCpuDuration: 7208234853
 NumberOfJobs: 14838
 %%
 Site: HU_ATLAS_Tier2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3569,8 +3569,8 @@ NumberOfJobs: 26574
 %%
 Site: LUCILLE
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3586,7 +3586,7 @@ NumberOfJobs: 4135
 Site: LUHEP_OSG
 VO: atlas
 EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3601,8 +3601,8 @@ NumberOfJobs: 3
 %%
 Site: MWT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3617,8 +3617,8 @@ NumberOfJobs: 44102
 %%
 Site: SWT2_CPB
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3633,8 +3633,8 @@ NumberOfJobs: 20831
 %%
 Site: UTA_SWT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3649,8 +3649,8 @@ NumberOfJobs: 4264
 %%
 Site: MWT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3666,7 +3666,7 @@ NumberOfJobs: 196389
 Site: BNL-ATLAS
 VO: atlas
 EarliestEndTime: 1430697600
-LatestEndTime: 1433980800
+LatestEndTime: 1430697600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3681,8 +3681,8 @@ NumberOfJobs: 2
 %%
 Site: LUCILLE
 VO: atlas
-EarliestEndTime: 1432857600
-LatestEndTime: 1433980800
+EarliestEndTime: 1431820800
+LatestEndTime: 1432857600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3697,8 +3697,8 @@ NumberOfJobs: 8
 %%
 Site: Purdue-Carter
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3713,8 +3713,8 @@ NumberOfJobs: 12503
 %%
 Site: Purdue-Hammer
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3729,8 +3729,8 @@ NumberOfJobs: 12938
 %%
 Site: Purdue-Hansen
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3745,8 +3745,8 @@ NumberOfJobs: 3660
 %%
 Site: Purdue-Rossmann
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3761,8 +3761,8 @@ NumberOfJobs: 23874
 %%
 Site: USCMS-FNAL-WC1
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3777,8 +3777,8 @@ NumberOfJobs: 44939
 %%
 Site: Purdue-Hadoop
 VO: cms
-EarliestEndTime: 1431129600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1431129600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3793,8 +3793,8 @@ NumberOfJobs: 9
 %%
 Site: USCMS-FNAL-WC1
 VO: cms
-EarliestEndTime: 1432944000
-LatestEndTime: 1433980800
+EarliestEndTime: 1431388800
+LatestEndTime: 1432944000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3809,8 +3809,8 @@ NumberOfJobs: 299
 %%
 Site: USCMS-FNAL-WC1
 VO: cms
-EarliestEndTime: 1432857600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1432944000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3825,8 +3825,8 @@ NumberOfJobs: 1402
 %%
 Site: Purdue-Carter
 VO: cms
-EarliestEndTime: 1431648000
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1431648000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3842,7 +3842,7 @@ NumberOfJobs: 26
 Site: Purdue-Hadoop
 VO: cms
 EarliestEndTime: 1431561600
-LatestEndTime: 1433980800
+LatestEndTime: 1431561600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3857,8 +3857,8 @@ NumberOfJobs: 1
 %%
 Site: Purdue-Hammer
 VO: cms
-EarliestEndTime: 1431648000
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1431648000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3873,8 +3873,8 @@ NumberOfJobs: 35
 %%
 Site: Purdue-Hansen
 VO: cms
-EarliestEndTime: 1431043200
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1431043200
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3889,8 +3889,8 @@ NumberOfJobs: 8
 %%
 Site: Purdue-Rossmann
 VO: cms
-EarliestEndTime: 1431648000
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1431648000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3905,8 +3905,8 @@ NumberOfJobs: 31
 %%
 Site: USCMS-FNAL-WC1
 VO: cms
-EarliestEndTime: 1432339200
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1432339200
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3921,8 +3921,8 @@ NumberOfJobs: 3161
 %%
 Site: Purdue-Carter
 VO: cms
-EarliestEndTime: 1432857600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1432857600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3937,8 +3937,8 @@ NumberOfJobs: 151
 %%
 Site: Purdue-Hammer
 VO: cms
-EarliestEndTime: 1432857600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1432857600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3953,8 +3953,8 @@ NumberOfJobs: 179
 %%
 Site: Purdue-Hansen
 VO: cms
-EarliestEndTime: 1432857600
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1432857600
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3969,8 +3969,8 @@ NumberOfJobs: 127
 %%
 Site: Purdue-Rossmann
 VO: cms
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -3986,7 +3986,7 @@ NumberOfJobs: 308
 Site: Purdue-Hadoop
 VO: cms
 EarliestEndTime: 1430956800
-LatestEndTime: 1433980800
+LatestEndTime: 1430956800
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -4002,7 +4002,7 @@ NumberOfJobs: 1
 Site: Purdue-Carter
 VO: cms
 EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -4018,7 +4018,7 @@ NumberOfJobs: 2
 Site: Purdue-Hadoop
 VO: cms
 EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -4034,7 +4034,7 @@ NumberOfJobs: 1
 Site: Purdue-Hammer
 VO: cms
 EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -4050,7 +4050,7 @@ NumberOfJobs: 2
 Site: Purdue-Hansen
 VO: cms
 EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -4065,8 +4065,8 @@ NumberOfJobs: 1
 %%
 Site: Purdue-Rossmann
 VO: cms
-EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+EarliestEndTime: 1431993600
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -4082,7 +4082,7 @@ NumberOfJobs: 5
 Site: USCMS-FNAL-WC1
 VO: cms
 EarliestEndTime: 1432166400
-LatestEndTime: 1433980800
+LatestEndTime: 1432166400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -4097,8 +4097,8 @@ NumberOfJobs: 2
 %%
 Site: OU_OSCER_ATLAS
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -4114,7 +4114,7 @@ NumberOfJobs: 1329
 Site: GLOW
 VO: cms
 EarliestEndTime: 1430611200
-LatestEndTime: 1433980800
+LatestEndTime: 1430611200
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -4130,7 +4130,7 @@ NumberOfJobs: 68
 Site: GLOW
 VO: cms
 EarliestEndTime: 1431475200
-LatestEndTime: 1433980800
+LatestEndTime: 1431475200
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -4145,8 +4145,8 @@ NumberOfJobs: 9
 %%
 Site: MWT2
 VO: atlas
-EarliestEndTime: 1433030400
-LatestEndTime: 1433980800
+EarliestEndTime: 1432598400
+LatestEndTime: 1433030400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -4161,8 +4161,8 @@ NumberOfJobs: 685
 %%
 Site: GLOW
 VO: cms
-EarliestEndTime: 1431216000
-LatestEndTime: 1433980800
+EarliestEndTime: 1430611200
+LatestEndTime: 1431216000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -4178,7 +4178,7 @@ NumberOfJobs: 161
 Site: GLOW
 VO: cms
 EarliestEndTime: 1431388800
-LatestEndTime: 1433980800
+LatestEndTime: 1431388800
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -4194,7 +4194,7 @@ NumberOfJobs: 2
 Site: GLOW
 VO: cms
 EarliestEndTime: 1431475200
-LatestEndTime: 1433980800
+LatestEndTime: 1431475200
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -4210,7 +4210,7 @@ NumberOfJobs: 12
 Site: GLOW
 VO: cms
 EarliestEndTime: 1431216000
-LatestEndTime: 1433980800
+LatestEndTime: 1431216000
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -4226,7 +4226,7 @@ NumberOfJobs: 14
 Site: SMU_HPC
 VO: atlas
 EarliestEndTime: 1432252800
-LatestEndTime: 1433980800
+LatestEndTime: 1432252800
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
@@ -4242,7 +4242,7 @@ NumberOfJobs: 2
 Site: MWT2
 VO: atlas
 EarliestEndTime: 1432598400
-LatestEndTime: 1433980800
+LatestEndTime: 1432598400
 Month: 05
 Year: 2015
 Infrastructure: Gratia-OSG
