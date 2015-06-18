@@ -9,6 +9,7 @@ mktsv () {
 }
 
 ./pull-oim-tables.sh > tsv/oim-tables.tsv
+./run-oneshot.sh     > tsv/gratia_summary.tsv
 mktsv RGMap          > tsv/RGMap.tsv
 mktsv normal_hepspec > tsv/normal_hepspec.tsv
 
