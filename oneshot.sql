@@ -2,6 +2,9 @@
 use gratia ;
 SET time_zone = '+00:00';   -- not sure if this is actually correct...
                             -- but it matches the current report's numbers
+SET @year = '2015';
+SET @month = '05';
+SET @month_start = concat(@year, '-', @month, '-01');
 
 select 'APEL-summary-job-message: v0.3';
 
@@ -10,8 +13,8 @@ select concat( 'Site: '                   , Site
        , '\n', 'VO: '                     , VO
        , '\n', 'EarliestEndTime: '        , UNIX_TIMESTAMP(EarliestEndTime)
        , '\n', 'LatestEndTime: '          , UNIX_TIMESTAMP(LatestEndTime)
-       , '\n', 'Month: '                  , '05'
-       , '\n', 'Year: '                   , '2015'
+       , '\n', 'Month: '                  , @month
+       , '\n', 'Year: '                   , @year
        , '\n', 'Infrastructure: '         , 'Gratia-OSG'
        , '\n', 'GlobalUserName: '         , GlobalUserName
        , '\n', 'Processors: '             , Cores
@@ -41,8 +44,8 @@ select s.SiteName               as Site
   join Site s
     on s.siteid = p.siteid
  where v.ReportableVOName in ('atlas','alice','cms','enmr.eu')
-   and m.EndTime >= '2015-05-01'
-   and m.EndTime <  '2015-05-01' + INTERVAL 1 MONTH
+   and m.EndTime >= @month_start
+   and m.EndTime <  @month_start + INTERVAL 1 MONTH
  group by v.ReportableVOName, m.Cores, m.DistinguishedName, s.SiteName
  order by v.ReportableVOName, m.Cores, m.DistinguishedName, s.SiteName
 ) main
