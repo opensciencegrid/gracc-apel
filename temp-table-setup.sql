@@ -39,6 +39,21 @@ create temporary table gratia_summary
 , LatestEndTime    int(10)
 );
 
+-- rg =
+--  s.sitename == oim_resource.resource ? oim_resource.resource_group :
+--  s.sitename == oim_resource.fqdn &&
+--          len(oim_resource.fqdn) > 2  ? oim_resource.resource_group :
+--  s.sitename == rgmap.resource ? rgmap.resource_group : s.sitename
+
+-- nf =
+--   s.sitename == oim_resource.resource
+--   && oim_resource.apel_normal_factor > 0
+--   && oim_resource.apel_normal_factor < 200
+--   ? oim_resource.apel_normal_factor :
+--   rg == normal_hepspec.resource_group ? normal_hepspec.normal_factor : 12
+
+-- Site = rg
+
 load data local infile 'tsv/oim-tables.tsv'     into table oim_resource;
 -- show warnings;
 load data local infile 'tsv/normal_hepspec.tsv' into table normal_hepspec;
