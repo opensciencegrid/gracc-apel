@@ -22,7 +22,8 @@ create temporary table rgmap
 );
 
 create temporary table volist
-( vo                  varchar(255)
+( sequence_num        int(10)
+, vo                  varchar(255)
 , PRIMARY KEY (vo)
 );
 

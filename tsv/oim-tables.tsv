@@ -1,27 +1,27 @@
-IU UITS	GOC Accounting Reporter	Accounting_Reporter	reports.grid.iu.edu	NULL	NULL
+IU UITS	GOC Accounting Reporter	Accounting_Reporter	reports.grid.iu.edu	\N	\N
 AGLT2	AGLT2	AGLT2	gate01.aglt2.org	9.67	US-AGLT2
 AGLT2	AGLT2	AGLT2_CE_2	gate02.grid.umich.edu	0	US-AGLT2
 AGLT2	AGLT2	AGLT2_SE	head01.aglt2.org	0	US-AGLT2
 AGLT2	AGLT2	AGLT2_SL6	gate04.aglt2.org	9.67	US-AGLT2
-AGLT2	AGLT2_TEST	AGLT2_TEST_CE	gate03.aglt2.org	0	NULL
-AGLT2	AGLT2	AGLT2-squid	squid.aglt2.org	NULL	NULL
-GEANT-AMS	Geant perfSONAR	AMS_GEANT LHCONE	ps01-nl.geant.nl	NULL	NULL
-ANL ASC	ANLASC	ANL-ATLAS-GRIDFTP1	atlasgridftp.hep.anl.gov	0	NULL
-ANL ASC	ANLASC	ANLASC Squid	squid.hep.anl.gov	NULL	NULL
-ANL ASC	ANLASC	ANLASC_LOCALGROUPDISK	rucio01.hep.anl.gov	NULL	NULL
-ANL ASC	ANLASC	ANLASC-ASCHEAD	aschead.hep.anl.gov	0	NULL
-ANL ASC	ANLASC	ANLASC-ASCNFS	ascnfs.hep.anl.gov	NULL	NULL
-ANL ASC	ANLASC	ANLASC-CE	atlasce.hep.anl.gov	NULL	NULL
-ANL ASC	ANLASC	ANLASC-SE	atlasgridftp02.hep.anl.gov	0	NULL
-ANL ASC	ANLASC	ANLASC-squid	squid.hep.anl.gov	NULL	NULL
-ASGC	ASGC_OSG	ASGC_OSG	osgc01.grid.sinica.edu.tw	NULL	NULL
-UAB Research Computing	Advanced Technology Lab	ATLab testing node	rocksvmfe.uabgrid.uab.edu	NULL	NULL
-Baylor University Tier3	Baylor-Tier3	Baylor-Tier3-CE	kodiak-ce.baylor.edu	0	NULL
-Baylor University Tier3	Baylor-Tier3	Baylor-Tier3-SE	kodiak-se.baylor.edu	0	NULL
-Bellarmine University	BELLARMINE-ATLAS-T3	BELLARMINE-ATLAS-T3	tier3-atlas1.bellarmine.edu	0	NULL
-PNNL_DC	PNNL_BelleII	Belle_CE_2	gridgk01.hep.pnnl.gov	NULL	NULL
-Beocat	Beocat	Beocat_CE	beocat.cis.ksu.edu	NULL	NULL
-Beocat	Beocat	Beocat_KSU_CE	osg-ce.beocat.cis.ksu.edu	NULL	NULL
+AGLT2	AGLT2_TEST	AGLT2_TEST_CE	gate03.aglt2.org	0	\N
+AGLT2	AGLT2	AGLT2-squid	squid.aglt2.org	\N	\N
+GEANT-AMS	Geant perfSONAR	AMS_GEANT LHCONE	ps01-nl.geant.nl	\N	\N
+ANL ASC	ANLASC	ANL-ATLAS-GRIDFTP1	atlasgridftp.hep.anl.gov	0	\N
+ANL ASC	ANLASC	ANLASC Squid	squid.hep.anl.gov	\N	\N
+ANL ASC	ANLASC	ANLASC_LOCALGROUPDISK	rucio01.hep.anl.gov	\N	\N
+ANL ASC	ANLASC	ANLASC-ASCHEAD	aschead.hep.anl.gov	0	\N
+ANL ASC	ANLASC	ANLASC-ASCNFS	ascnfs.hep.anl.gov	\N	\N
+ANL ASC	ANLASC	ANLASC-CE	atlasce.hep.anl.gov	\N	\N
+ANL ASC	ANLASC	ANLASC-SE	atlasgridftp02.hep.anl.gov	0	\N
+ANL ASC	ANLASC	ANLASC-squid	squid.hep.anl.gov	\N	\N
+ASGC	ASGC_OSG	ASGC_OSG	osgc01.grid.sinica.edu.tw	\N	\N
+UAB Research Computing	Advanced Technology Lab	ATLab testing node	rocksvmfe.uabgrid.uab.edu	\N	\N
+Baylor University Tier3	Baylor-Tier3	Baylor-Tier3-CE	kodiak-ce.baylor.edu	0	\N
+Baylor University Tier3	Baylor-Tier3	Baylor-Tier3-SE	kodiak-se.baylor.edu	0	\N
+Bellarmine University	BELLARMINE-ATLAS-T3	BELLARMINE-ATLAS-T3	tier3-atlas1.bellarmine.edu	0	\N
+PNNL_DC	PNNL_BelleII	Belle_CE_2	gridgk01.hep.pnnl.gov	\N	\N
+Beocat	Beocat	Beocat_CE	beocat.cis.ksu.edu	\N	\N
+Beocat	Beocat	Beocat_KSU_CE	osg-ce.beocat.cis.ksu.edu	\N	\N
 Brookhaven ATLAS Tier1	BNL-ATLAS	BNL_ATLAS_1	gridgk01.racf.bnl.gov	10.05	BNL_ATLAS_1
 Brookhaven ATLAS Tier1	BNL-ATLAS	BNL_ATLAS_2	gridgk02.racf.bnl.gov	10.05	BNL_ATLAS_1
 Brookhaven ATLAS Tier1	BNL-ATLAS	BNL_ATLAS_3	gridgk03.racf.bnl.gov	10.05	BNL_ATLAS_1
@@ -31,673 +31,673 @@ Brookhaven ATLAS Tier1	BNL-ATLAS	BNL_ATLAS_6	gridgk06.racf.bnl.gov	10.05	BNL_ATL
 Brookhaven ATLAS Tier1	BNL-ATLAS	BNL_ATLAS_7	gridgk07.racf.bnl.gov	10.05	BNL_ATLAS_1
 Brookhaven ATLAS Tier1	BNL-ATLAS	BNL_ATLAS_8	gridgk08.racf.bnl.gov	10.05	BNL_ATLAS_1
 Brookhaven ATLAS Tier1	BNL-ATLAS	BNL_ATLAS_SE	dcsrm.usatlas.bnl.gov	0	BNL_ATLAS_1
-Brookhaven ATLAS Tier1	BNL-ATLAS	BNL_ATLAS_SE_AWS_East	aws01.racf.bnl.gov	0	NULL
-Brookhaven ATLAS Tier1	BNL-ATLAS	BNL_ATLAS_SE_AWS_West	aws05.racf.bnl.gov	0	NULL
-Brookhaven ATLAS Tier1	BNL-ATLAS-ITB	BNL_ITB_Test1	gridtest01.racf.bnl.gov	0	NULL
-Brookhaven ATLAS Tier1	BNL_Test_2	BNL_Test_2_CE_1	gridtest02.racf.bnl.gov	0	NULL
-Brookhaven ATLAS Tier1	BNL-ATLAS-ITB	BNL_Test_SE	grid16.racf.bnl.gov	0	NULL
-Brookhaven ATLAS Tier1	BNL_ATLAS_1	BNL_TEST_UST3	grid37.racf.bnl.gov	0	NULL
-Brookhaven ATLAS Tier1	BNL-ATLAS	BNL-LCG2	gridgk03.racf.bnl.gov	0	NULL
-Brookhaven ATLAS Tier1	BNL-ATLAS-ITB	BNL-ps-testbed	ps-development.bnl.gov	NULL	NULL
-MANLAN	MANLAN perfSONAR	BNL/ESnet perfSONAR	quark.es.net	NULL	NULL
-SPRACE	SPRACE	BR-Sprace BW	perfsonar-bw.sprace.org.br	NULL	NULL
-SPRACE	SPRACE	BR-Sprace LT	perfsonar-lt.sprace.org.br	NULL	NULL
-Brandeis Tier 3	Brandeis-Atlas-T3	BRND-HEAD	brndt3head.hep.brandeis.edu	NULL	NULL
-Brandeis Tier 3	Brandeis-Atlas-T3	BRND-NFS	brndt3nfs.hep.brandeis.edu	NULL	NULL
-Brown-CMS	brown-cms	brown-cms	grid-0.hep.brown.edu	0	NULL
-brown-cms-new	brown-cms-new	brown-cms-new	brux3.hep.brown.edu	0	NULL
-brown-cms-new	brown-cms-new	brown-cms-new_se	srm.hep.brown.edu	0	NULL
+Brookhaven ATLAS Tier1	BNL-ATLAS	BNL_ATLAS_SE_AWS_East	aws01.racf.bnl.gov	0	\N
+Brookhaven ATLAS Tier1	BNL-ATLAS	BNL_ATLAS_SE_AWS_West	aws05.racf.bnl.gov	0	\N
+Brookhaven ATLAS Tier1	BNL-ATLAS-ITB	BNL_ITB_Test1	gridtest01.racf.bnl.gov	0	\N
+Brookhaven ATLAS Tier1	BNL_Test_2	BNL_Test_2_CE_1	gridtest02.racf.bnl.gov	0	\N
+Brookhaven ATLAS Tier1	BNL-ATLAS-ITB	BNL_Test_SE	grid16.racf.bnl.gov	0	\N
+Brookhaven ATLAS Tier1	BNL_ATLAS_1	BNL_TEST_UST3	grid37.racf.bnl.gov	0	\N
+Brookhaven ATLAS Tier1	BNL-ATLAS	BNL-LCG2	gridgk03.racf.bnl.gov	0	\N
+Brookhaven ATLAS Tier1	BNL-ATLAS-ITB	BNL-ps-testbed	ps-development.bnl.gov	\N	\N
+MANLAN	MANLAN perfSONAR	BNL/ESnet perfSONAR	quark.es.net	\N	\N
+SPRACE	SPRACE	BR-Sprace BW	perfsonar-bw.sprace.org.br	\N	\N
+SPRACE	SPRACE	BR-Sprace LT	perfsonar-lt.sprace.org.br	\N	\N
+Brandeis Tier 3	Brandeis-Atlas-T3	BRND-HEAD	brndt3head.hep.brandeis.edu	\N	\N
+Brandeis Tier 3	Brandeis-Atlas-T3	BRND-NFS	brndt3nfs.hep.brandeis.edu	\N	\N
+Brown-CMS	brown-cms	brown-cms	grid-0.hep.brown.edu	0	\N
+brown-cms-new	brown-cms-new	brown-cms-new	brux3.hep.brown.edu	0	\N
+brown-cms-new	brown-cms-new	brown-cms-new_se	srm.hep.brown.edu	0	\N
 Boston University ATLAS Tier2	BU_ATLAS_Tier2	BU_ATLAS_Tier2	net2.bu.edu	0	US-NET2
-Caltech CMS Tier2	CIT_CMS_T2	Caltech PerfSonar Bandwidth	perfsonar.ultralight.org	NULL	NULL
-Caltech CMS Tier2	CIT_CMS_T2	Caltech PerfSonar Latency	perfsonar2.ultralight.org	NULL	NULL
-CHTC	CHTC	CHTC and BATLAB OSG Mirror	mirror.batlab.org	NULL	NULL
-CHTC	CHTC	CHTC-glidein	glidein.chtc.wisc.edu	NULL	NULL
-CHTC	CHTC	CHTC-glidein2	glidein2.chtc.wisc.edu	NULL	NULL
-CHTC	CHTC	CHTC-submit-1	submit-1.chtc.wisc.edu	NULL	NULL
-CHTC	CHTC	CHTC-submit-3	submit-3.chtc.wisc.edu	NULL	NULL
-CHTC	CHTC	CHTC-submit-4	submit-4.chtc.wisc.edu	NULL	NULL
-CHTC	CHTC	CHTC-submit-5	submit-5.chtc.wisc.edu	NULL	NULL
-NCSA	CIGI-ITB	CIGI-ITB	everest.cigi.uiuc.edu	NULL	NULL
-CIGI	CIGI-OSG	CIGI-VOMS	voms.cigi.uiuc.edu	NULL	NULL
-cinvestav	cinvestav	cinvestav	proton.fis.cinvestav.mx	0	NULL
-cinvestav	cinvestav	cinvestav-SE	meson.fis.cinvestav.mx	0	NULL
-Caltech CMS Tier2	CIT_CMS_T2	CIT_CMS_perfSONAR	perfsonar2.ultralight.org	NULL	NULL
+Caltech CMS Tier2	CIT_CMS_T2	Caltech PerfSonar Bandwidth	perfsonar.ultralight.org	\N	\N
+Caltech CMS Tier2	CIT_CMS_T2	Caltech PerfSonar Latency	perfsonar2.ultralight.org	\N	\N
+CHTC	CHTC	CHTC and BATLAB OSG Mirror	mirror.batlab.org	\N	\N
+CHTC	CHTC	CHTC-glidein	glidein.chtc.wisc.edu	\N	\N
+CHTC	CHTC	CHTC-glidein2	glidein2.chtc.wisc.edu	\N	\N
+CHTC	CHTC	CHTC-submit-1	submit-1.chtc.wisc.edu	\N	\N
+CHTC	CHTC	CHTC-submit-3	submit-3.chtc.wisc.edu	\N	\N
+CHTC	CHTC	CHTC-submit-4	submit-4.chtc.wisc.edu	\N	\N
+CHTC	CHTC	CHTC-submit-5	submit-5.chtc.wisc.edu	\N	\N
+NCSA	CIGI-ITB	CIGI-ITB	everest.cigi.uiuc.edu	\N	\N
+CIGI	CIGI-OSG	CIGI-VOMS	voms.cigi.uiuc.edu	\N	\N
+cinvestav	cinvestav	cinvestav	proton.fis.cinvestav.mx	0	\N
+cinvestav	cinvestav	cinvestav-SE	meson.fis.cinvestav.mx	0	\N
+Caltech CMS Tier2	CIT_CMS_T2	CIT_CMS_perfSONAR	perfsonar2.ultralight.org	\N	\N
 Caltech CMS Tier2	CIT_CMS_T2	CIT_CMS_SE	cit-se.ultralight.org	0	T2_US_Caltech
-Caltech CMS Tier2	CIT_CMS_T2	CIT_CMS_SE2	cit-se2.ultralight.org	0	NULL
+Caltech CMS Tier2	CIT_CMS_T2	CIT_CMS_SE2	cit-se2.ultralight.org	0	\N
 Caltech CMS Tier2	CIT_CMS_T2	CIT_CMS_T2	cit-gatekeeper.ultralight.org	12.944	T2_US_Caltech
-Caltech CMS Tier2	CIT_CMS_T2	CIT_CMS_T2_Squid	cithep251.ultralight.org	NULL	NULL
+Caltech CMS Tier2	CIT_CMS_T2	CIT_CMS_T2_Squid	cithep251.ultralight.org	\N	\N
 Caltech CMS Tier2	CIT_CMS_T2	CIT_CMS_T2B	cit-gatekeeper2.ultralight.org	0	T2_US_Caltech
-Caltech CMS Tier2	CIT_CMS_T2	CIT_HEP_CE	xeon.hep.caltech.edu	0	NULL
-Caltech HEP	CIT_HEP	CIT_HEP_SE	osg-se.hep.caltech.edu	NULL	NULL
-Caltech CMS Tier2	CIT_ITB_1	CIT_ITB_1	ce-itb.ultralight.org	0	NULL
-Caltech CMS Tier2	CIT_CMS_Cloud	CIT_ITB2	samir-test-ce.cern.ch	NULL	NULL
-ClemsonCS	Clemson-Birdnest	Clemson-Birdnest	birdnest.cs.clemson.edu	NULL	NULL
-ClemsonCS	Clemson-ciTeam	Clemson-ciTeam	osgce.cs.clemson.edu	NULL	NULL
-Clemson IT	Clemson-IT	Clemson-IT	osggate.clemson.edu	NULL	NULL
-Clemson IT	Clemson-Palmetto	Clemson-Palmetto	osg-ce.clemson.edu	0	NULL
-CAS-CNIC	CNIC-CIGI-OSG	CNIC-OSG	osg.cnic.cn	NULL	NULL
-CAS-CNIC	CNIC-CIGI-OSG	CNIC-OSG-SE	se.osg.cnic.cn	NULL	NULL
-ILS	cns	cns1	cns1.cns.iu.edu	NULL	NULL
-ILS	cns	cns2	cns2.cns.iu.edu	NULL	NULL
-OSG GOC	Condor_Collectors	collector-itb	collector-itb.opensciencegrid.org	NULL	NULL
-IU UITS	Condor collectors	collector1	collector1.opensciencegrid.org	NULL	NULL
-IU UITS	Condor collectors	collector2	collector2.opensciencegrid.org	NULL	NULL
+Caltech CMS Tier2	CIT_CMS_T2	CIT_HEP_CE	xeon.hep.caltech.edu	0	\N
+Caltech HEP	CIT_HEP	CIT_HEP_SE	osg-se.hep.caltech.edu	\N	\N
+Caltech CMS Tier2	CIT_ITB_1	CIT_ITB_1	ce-itb.ultralight.org	0	\N
+Caltech CMS Tier2	CIT_CMS_Cloud	CIT_ITB2	samir-test-ce.cern.ch	\N	\N
+ClemsonCS	Clemson-Birdnest	Clemson-Birdnest	birdnest.cs.clemson.edu	\N	\N
+ClemsonCS	Clemson-ciTeam	Clemson-ciTeam	osgce.cs.clemson.edu	\N	\N
+Clemson IT	Clemson-IT	Clemson-IT	osggate.clemson.edu	\N	\N
+Clemson IT	Clemson-Palmetto	Clemson-Palmetto	osg-ce.clemson.edu	0	\N
+CAS-CNIC	CNIC-CIGI-OSG	CNIC-OSG	osg.cnic.cn	\N	\N
+CAS-CNIC	CNIC-CIGI-OSG	CNIC-OSG-SE	se.osg.cnic.cn	\N	\N
+ILS	cns	cns1	cns1.cns.iu.edu	\N	\N
+ILS	cns	cns2	cns2.cns.iu.edu	\N	\N
+OSG GOC	Condor_Collectors	collector-itb	collector-itb.opensciencegrid.org	\N	\N
+IU UITS	Condor collectors	collector1	collector1.opensciencegrid.org	\N	\N
+IU UITS	Condor collectors	collector2	collector2.opensciencegrid.org	\N	\N
 Nebraska-Omaha	Crane	Crane-CE1	crane-gw1.unl.edu	0	T2_US_Nebraska
-UCSD OSG	CrossOSG Nodes	CrossOSG-CE-UCSD	osg-glidein-ce.t2.ucsd.edu	NULL	NULL
-IU UITS	CSIU Services	CSIU Submit	csiu-submit.grid.iu.edu	NULL	NULL
-UC Davis CMS T3	Davis_CMS	Davis_CMS	cms.physics.ucdavis.edu	NULL	NULL
-AGLT2	AGLT2	DEPRECATE MSU LAT	not.used	NULL	NULL
-AGLT2	AGLT2	DEPRECATED UM LAT BW	not.used	NULL	NULL
-Discovery	Discovery	Discovery_PerfSonar_Bandwidth	perfsonar02.discovery.wisc.edu	NULL	NULL
-Discovery	Discovery	Discovery_PerfSonar_Latency	perfsonar01.discovery.wisc.edu	NULL	NULL
-DukeTier3	DukeT3	Duke_ATLAS_gridftp	atlgridftp01.phy.duke.edu	0	NULL
-DukeTier3	DukeT3	DukeT3_SQUID	atlhn02.phy.duke.edu	NULL	NULL
-DukeTier3	DukeT3	DUKET3-SE	atlfs02.phy.duke.edu	0	NULL
-GOC Staff VM	ECHISM-GOC	E_HTCCE	ece3.grid.iu.edu	NULL	NULL
-GOC Staff VM	ECHISM-GOC	ECE	echism.grid.iu.edu	NULL	NULL
-GOC Staff VM	ECHISM-GOC	ECE2	ece2.grid.iu.edu	NULL	NULL
-RENCI	Engagement Infrastructure	Engage-Submit3-Frontend	engage-submit3.renci.org	NULL	NULL
-RENCI	Engagement_VOMS	Engagement_VOMS	osg-engage.renci.org	NULL	NULL
-WIX	WIX PerfSONAR	ESnet LHCONE perfSONAR Washington	lhcone-wash-opt1.es.net	NULL	NULL
-STAR	Starlight perfSONARs	ESnet Starlight perfSONAR	lhcone-star-opt1.es.net	NULL	NULL
-FermiGrid	FNAL_FIFE_SUBMIT	FIFE_SUBMIT_1	fifebatch1.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FIFE_SUBMIT	FIFE_SUBMIT_GPSN01	gpsn01.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FIFE_SUBMIT	FIFE_UCSD_FRONTEND_01	sngpvm02.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FIFE_SUBMIT	FIFEBATCH2	fifebatch2.fnal.gov	NULL	NULL
-Nebraska-Omaha	Firefly	Firefly	ff-grid.unl.edu	0	NULL
-Nebraska-Omaha	Firefly	Firefly_SE	ff-se.unl.edu	0	NULL
-Nebraska-Omaha	Firefly	Firefly-2	ff-grid2.unl.edu	0	NULL
-Nebraska-Omaha	Firefly	Firefly-3	ff-grid3.unl.edu	NULL	NULL
-CHEPREO	FIU-PG	FIU-PG	fiupg.ampath.net	NULL	NULL
+UCSD OSG	CrossOSG Nodes	CrossOSG-CE-UCSD	osg-glidein-ce.t2.ucsd.edu	\N	\N
+IU UITS	CSIU Services	CSIU Submit	csiu-submit.grid.iu.edu	\N	\N
+UC Davis CMS T3	Davis_CMS	Davis_CMS	cms.physics.ucdavis.edu	\N	\N
+AGLT2	AGLT2	DEPRECATE MSU LAT	not.used	\N	\N
+AGLT2	AGLT2	DEPRECATED UM LAT BW	not.used	\N	\N
+Discovery	Discovery	Discovery_PerfSonar_Bandwidth	perfsonar02.discovery.wisc.edu	\N	\N
+Discovery	Discovery	Discovery_PerfSonar_Latency	perfsonar01.discovery.wisc.edu	\N	\N
+DukeTier3	DukeT3	Duke_ATLAS_gridftp	atlgridftp01.phy.duke.edu	0	\N
+DukeTier3	DukeT3	DukeT3_SQUID	atlhn02.phy.duke.edu	\N	\N
+DukeTier3	DukeT3	DUKET3-SE	atlfs02.phy.duke.edu	0	\N
+GOC Staff VM	ECHISM-GOC	E_HTCCE	ece3.grid.iu.edu	\N	\N
+GOC Staff VM	ECHISM-GOC	ECE	echism.grid.iu.edu	\N	\N
+GOC Staff VM	ECHISM-GOC	ECE2	ece2.grid.iu.edu	\N	\N
+RENCI	Engagement Infrastructure	Engage-Submit3-Frontend	engage-submit3.renci.org	\N	\N
+RENCI	Engagement_VOMS	Engagement_VOMS	osg-engage.renci.org	\N	\N
+WIX	WIX PerfSONAR	ESnet LHCONE perfSONAR Washington	lhcone-wash-opt1.es.net	\N	\N
+STAR	Starlight perfSONARs	ESnet Starlight perfSONAR	lhcone-star-opt1.es.net	\N	\N
+FermiGrid	FNAL_FIFE_SUBMIT	FIFE_SUBMIT_1	fifebatch1.fnal.gov	\N	\N
+FermiGrid	FNAL_FIFE_SUBMIT	FIFE_SUBMIT_GPSN01	gpsn01.fnal.gov	\N	\N
+FermiGrid	FNAL_FIFE_SUBMIT	FIFE_UCSD_FRONTEND_01	sngpvm02.fnal.gov	\N	\N
+FermiGrid	FNAL_FIFE_SUBMIT	FIFEBATCH2	fifebatch2.fnal.gov	\N	\N
+Nebraska-Omaha	Firefly	Firefly	ff-grid.unl.edu	0	\N
+Nebraska-Omaha	Firefly	Firefly_SE	ff-se.unl.edu	0	\N
+Nebraska-Omaha	Firefly	Firefly-2	ff-grid2.unl.edu	0	\N
+Nebraska-Omaha	Firefly	Firefly-3	ff-grid3.unl.edu	\N	\N
+CHEPREO	FIU-PG	FIU-PG	fiupg.ampath.net	\N	\N
 FIU CMS Tier3	FIUPG	FIUPG	fiupg.hep.fiu.edu	0	T3_US_FIU
-FIU CMS Tier3	FIUPG	FIUSE	srm.hep.fiu.edu	NULL	NULL
-APCR-DRDL	FloridaAMUniversity	FloridaAMUniversity_CE	xserve.physics.famu.edu	NULL	NULL
-Florida Tech	FLTECH	FLTECH	uscms1.fltech-grid3.fit.edu	0	NULL
-Florida Tech	FLTECH	FLTECH-ITB	gridtest.fit.edu	NULL	NULL
-Florida Tech	FLTECH	FLTECH-MGMT	uscms1-mgmt.fltech-grid3.fit.edu	NULL	NULL
-Florida Tech	FLTECH	FLTECH-SE	uscms1-se.fltech-grid3.fit.edu	0	NULL
-FermiGrid	FNAL_FERMIGRID	FNAL_CDFOSG_0	fcdfosg0.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FERMIGRID	FNAL_CDFOSG_1	fcdfosg1.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FERMIGRID	FNAL_CDFOSG_2	fcdfosg2.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FERMIGRID	FNAL_CDFOSG_3	fcdfosg3.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FERMIGRID	FNAL_CDFOSG_4	fcdfosg4.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FERMIGRID	FNAL_DZEROOSG_1	d0cabosg1.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FERMIGRID	FNAL_DZEROOSG_2	d0cabosg2.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FERMIGRID	FNAL_DZEROOSG_3	d0cabosg3.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FERMIGRID	FNAL_DZEROOSG_4	d0cabosg4.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FAPL_ITB_SE	FNAL_FAPL_ITB_SE	fapl032.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FERMIGRID	FNAL_FERMIGRID	fermigridosg1.fnal.gov	0	NULL
-FermiGrid	FNAL_FERMIGRID_ITB	FNAL_FERMIGRID_ITB	fgitbgkc2.fnal.gov	0	NULL
-FermiGrid	FNAL_FERMIGRID_ITB	FNAL_FERMIGRID_ITB_PBS2	fgitbgkp2.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FERMIGRID_ITB	FNAL_FERMIGRID_ITB_SGE2	fgitbgks2.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FERMIGRID_TEST	FNAL_FERMIGRID_TEST	fgtest1.fnal.gov	NULL	NULL
-FermiGrid	FNAL_GPFARM	FNAL_GPFARM	fngp-osg.fnal.gov	NULL	NULL
-FermiGrid	FNAL_GPGRID_1	FNAL_GPGRID_1	fnpcosg1.fnal.gov	0	NULL
-FermiGrid	FNAL_FERMIGRID	FNAL_GPGRID_2	fnpcfg1.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FERMIGRID	FNAL_GPGRID_3	fnpcfg2.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FERMIGRID	FNAL_GPGRID_OPP_3	fnpcfg3.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FERMIGRID	FNAL_GPGRID_QUOTA_3	fnpcfg4.fnal.gov	NULL	NULL
-FermiGrid	FNAL_IF_GRIDFTP	FNAL_IF_GRIDFTP_NOVA	if-gridftp-nova.fnal.gov	NULL	NULL
-FermiGrid	FNAL_FERMIGRID_ITB	FNAL-ITB-GIP-TEST1	fg0x5.fnal.gov	NULL	NULL
-Florida State HEP	FSU-HEP	FSU-HEP	ce.hep.fsu.edu	0	NULL
-CSU Fresno T3	FRESNO-ATLAS-T3	FSU-TEST-SE	t3nfs.atlas.csufresno.edu	NULL	NULL
-FZU	FZU	FZU_NOVA	novastore.farm.particle.cz	NULL	NULL
-OSGSC_UC	GC1	GC1_CE	gc1-ce.uchicago.edu	NULL	NULL
-OSGSC_UC	GC1	GC1_SE	gc1-se.uchicago.edu	NULL	NULL
-FermiGrid	OSG-ReSS	gc1-ce	unab.edu.co	NULL	NULL
-GC_PUJ	GCVO_PUJ	GCVO_PUJ_CE	gc1-ce.javeriana.edu.co	NULL	NULL
-GC_PUJ	GCVO_PUJ	GCVO_PUJ_CE_TEST	gc2-ce.javeriana.edu.co	NULL	NULL
-GC_PUJ	GCVO_PUJ	GCVO_PUJ_GUMS	gc1-gums.javeriana.edu.co	NULL	NULL
-GC_UAC	GCVO_UAC	GCVO_UAC_CE	gc1-ce.uac.edu.co	NULL	NULL
-GC_UAM	GCVO_UAM	GCVO_UAM_CE	ce.autonoma.edu.co	NULL	NULL
-GC_UC	GCVO_UC	GCVO_UC_CE	gc.ucatolica.edu.co	NULL	NULL
-GC_UCALDAS	GCVO_UCALDAS	GCVO_UCALDAS_CE	c-head.ucaldas.edu.co	NULL	NULL
-GC_UDEM	GCVO_UDEM	GCVO_UDEM_CE	gck-ce.udem.edu.co	NULL	NULL
-GC_UIS	GCVO_UIS	GCVO_UIS_CE	gcb-ce.uis.edu.co	NULL	NULL
-GC_UNIANDES	GCVO_Uniandes	GCVO_UNIANDES_CE	kuragua.uniandes.edu.co	NULL	NULL
-GC_UPB	GCVO_UPB	GCVO_UPB_CE	gc2-ce.medellin.upb.edu.co	NULL	NULL
-GC_UTB	GCVO_UTB	GCVO_UTB_CE	grid.unitecnologica.edu.co	NULL	NULL
-GC_UV	GCVO_UV	GCVO_UV_CE	ce-eisc-02.univalle.edu.co	NULL	NULL
-Georgia Tech	Georgia Tech LIGO	Georgia_Tech_LIGO_Submit_1	ligo-6.pace.gatech.edu	NULL	NULL
-Georgia Tech	Georgia Tech PACE	Georgia_Tech_PACE_CE_1	ligo-ce1.pace.gatech.edu	NULL	NULL
-Georgia Tech	Georgia Tech PACE	Georgia_Tech_PACE_GridFTP	ligo-gftp.pace.gatech.edu	NULL	NULL
-Georgia Tech	Georgia Tech PACE	Georgia_Tech_PACE_Squid_1	ligo-prx.pace.gatech.edu	NULL	NULL
+FIU CMS Tier3	FIUPG	FIUSE	srm.hep.fiu.edu	\N	\N
+APCR-DRDL	FloridaAMUniversity	FloridaAMUniversity_CE	xserve.physics.famu.edu	\N	\N
+Florida Tech	FLTECH	FLTECH	uscms1.fltech-grid3.fit.edu	0	\N
+Florida Tech	FLTECH	FLTECH-ITB	gridtest.fit.edu	\N	\N
+Florida Tech	FLTECH	FLTECH-MGMT	uscms1-mgmt.fltech-grid3.fit.edu	\N	\N
+Florida Tech	FLTECH	FLTECH-SE	uscms1-se.fltech-grid3.fit.edu	0	\N
+FermiGrid	FNAL_FERMIGRID	FNAL_CDFOSG_0	fcdfosg0.fnal.gov	\N	\N
+FermiGrid	FNAL_FERMIGRID	FNAL_CDFOSG_1	fcdfosg1.fnal.gov	\N	\N
+FermiGrid	FNAL_FERMIGRID	FNAL_CDFOSG_2	fcdfosg2.fnal.gov	\N	\N
+FermiGrid	FNAL_FERMIGRID	FNAL_CDFOSG_3	fcdfosg3.fnal.gov	\N	\N
+FermiGrid	FNAL_FERMIGRID	FNAL_CDFOSG_4	fcdfosg4.fnal.gov	\N	\N
+FermiGrid	FNAL_FERMIGRID	FNAL_DZEROOSG_1	d0cabosg1.fnal.gov	\N	\N
+FermiGrid	FNAL_FERMIGRID	FNAL_DZEROOSG_2	d0cabosg2.fnal.gov	\N	\N
+FermiGrid	FNAL_FERMIGRID	FNAL_DZEROOSG_3	d0cabosg3.fnal.gov	\N	\N
+FermiGrid	FNAL_FERMIGRID	FNAL_DZEROOSG_4	d0cabosg4.fnal.gov	\N	\N
+FermiGrid	FNAL_FAPL_ITB_SE	FNAL_FAPL_ITB_SE	fapl032.fnal.gov	\N	\N
+FermiGrid	FNAL_FERMIGRID	FNAL_FERMIGRID	fermigridosg1.fnal.gov	0	\N
+FermiGrid	FNAL_FERMIGRID_ITB	FNAL_FERMIGRID_ITB	fgitbgkc2.fnal.gov	0	\N
+FermiGrid	FNAL_FERMIGRID_ITB	FNAL_FERMIGRID_ITB_PBS2	fgitbgkp2.fnal.gov	\N	\N
+FermiGrid	FNAL_FERMIGRID_ITB	FNAL_FERMIGRID_ITB_SGE2	fgitbgks2.fnal.gov	\N	\N
+FermiGrid	FNAL_FERMIGRID_TEST	FNAL_FERMIGRID_TEST	fgtest1.fnal.gov	\N	\N
+FermiGrid	FNAL_GPFARM	FNAL_GPFARM	fngp-osg.fnal.gov	\N	\N
+FermiGrid	FNAL_GPGRID_1	FNAL_GPGRID_1	fnpcosg1.fnal.gov	0	\N
+FermiGrid	FNAL_FERMIGRID	FNAL_GPGRID_2	fnpcfg1.fnal.gov	\N	\N
+FermiGrid	FNAL_FERMIGRID	FNAL_GPGRID_3	fnpcfg2.fnal.gov	\N	\N
+FermiGrid	FNAL_FERMIGRID	FNAL_GPGRID_OPP_3	fnpcfg3.fnal.gov	\N	\N
+FermiGrid	FNAL_FERMIGRID	FNAL_GPGRID_QUOTA_3	fnpcfg4.fnal.gov	\N	\N
+FermiGrid	FNAL_IF_GRIDFTP	FNAL_IF_GRIDFTP_NOVA	if-gridftp-nova.fnal.gov	\N	\N
+FermiGrid	FNAL_FERMIGRID_ITB	FNAL-ITB-GIP-TEST1	fg0x5.fnal.gov	\N	\N
+Florida State HEP	FSU-HEP	FSU-HEP	ce.hep.fsu.edu	0	\N
+CSU Fresno T3	FRESNO-ATLAS-T3	FSU-TEST-SE	t3nfs.atlas.csufresno.edu	\N	\N
+FZU	FZU	FZU_NOVA	novastore.farm.particle.cz	\N	\N
+OSGSC_UC	GC1	GC1_CE	gc1-ce.uchicago.edu	\N	\N
+OSGSC_UC	GC1	GC1_SE	gc1-se.uchicago.edu	\N	\N
+FermiGrid	OSG-ReSS	gc1-ce	unab.edu.co	\N	\N
+GC_PUJ	GCVO_PUJ	GCVO_PUJ_CE	gc1-ce.javeriana.edu.co	\N	\N
+GC_PUJ	GCVO_PUJ	GCVO_PUJ_CE_TEST	gc2-ce.javeriana.edu.co	\N	\N
+GC_PUJ	GCVO_PUJ	GCVO_PUJ_GUMS	gc1-gums.javeriana.edu.co	\N	\N
+GC_UAC	GCVO_UAC	GCVO_UAC_CE	gc1-ce.uac.edu.co	\N	\N
+GC_UAM	GCVO_UAM	GCVO_UAM_CE	ce.autonoma.edu.co	\N	\N
+GC_UC	GCVO_UC	GCVO_UC_CE	gc.ucatolica.edu.co	\N	\N
+GC_UCALDAS	GCVO_UCALDAS	GCVO_UCALDAS_CE	c-head.ucaldas.edu.co	\N	\N
+GC_UDEM	GCVO_UDEM	GCVO_UDEM_CE	gck-ce.udem.edu.co	\N	\N
+GC_UIS	GCVO_UIS	GCVO_UIS_CE	gcb-ce.uis.edu.co	\N	\N
+GC_UNIANDES	GCVO_Uniandes	GCVO_UNIANDES_CE	kuragua.uniandes.edu.co	\N	\N
+GC_UPB	GCVO_UPB	GCVO_UPB_CE	gc2-ce.medellin.upb.edu.co	\N	\N
+GC_UTB	GCVO_UTB	GCVO_UTB_CE	grid.unitecnologica.edu.co	\N	\N
+GC_UV	GCVO_UV	GCVO_UV_CE	ce-eisc-02.univalle.edu.co	\N	\N
+Georgia Tech	Georgia Tech LIGO	Georgia_Tech_LIGO_Submit_1	ligo-6.pace.gatech.edu	\N	\N
+Georgia Tech	Georgia Tech PACE	Georgia_Tech_PACE_CE_1	ligo-ce1.pace.gatech.edu	\N	\N
+Georgia Tech	Georgia Tech PACE	Georgia_Tech_PACE_GridFTP	ligo-gftp.pace.gatech.edu	\N	\N
+Georgia Tech	Georgia Tech PACE	Georgia_Tech_PACE_Squid_1	ligo-prx.pace.gatech.edu	\N	\N
 GLOW	GLOW	GLOW	cmsgrid01.hep.wisc.edu	9.632	T2_US_Wisconsin
-UCSB_MRL\t	GLOW_MINIOSG_UCSB	GLOW_MINIOSG_UCSB	quiver.mrl.ucsb.edu	NULL	NULL
-GLOW	GLOW	GLOW_SQUID	frontier.hep.wisc.edu	NULL	NULL
+UCSB_MRL\t	GLOW_MINIOSG_UCSB	GLOW_MINIOSG_UCSB	quiver.mrl.ucsb.edu	\N	\N
+GLOW	GLOW	GLOW_SQUID	frontier.hep.wisc.edu	\N	\N
 GLOW	GLOW	GLOW_SUBMIT1	login01.hep.wisc.edu	0	T2_US_Wisconsin
 GLOW	GLOW	GLOW_SUBMIT2	login02.hep.wisc.edu	0	T2_US_Wisconsin
 GLOW	GLOW	GLOW_SUBMIT3	login03.hep.wisc.edu	0	T2_US_Wisconsin
 GLOW	GLOW	GLOW_SUBMIT4	login04.hep.wisc.edu	0	T2_US_Wisconsin
-GLOW ATLAS	GLOW-ATLAS	GLOW-ATLAS	higgs08.cs.wisc.edu	NULL	NULL
-GLOW ATLAS	GLOW-ATLAS-SRM	GLOW-ATLAS-SRM	atlas07.cs.wisc.edu	NULL	NULL
-CHTC	CHTC	GLOW-CHTC VOMS server	glow-voms.cs.wisc.edu	NULL	NULL
+GLOW ATLAS	GLOW-ATLAS	GLOW-ATLAS	higgs08.cs.wisc.edu	\N	\N
+GLOW ATLAS	GLOW-ATLAS-SRM	GLOW-ATLAS-SRM	atlas07.cs.wisc.edu	\N	\N
+CHTC	CHTC	GLOW-CHTC VOMS server	glow-voms.cs.wisc.edu	\N	\N
 GLOW	GLOW	GLOW-CMS	cmsgrid02.hep.wisc.edu	0	T2_US_Wisconsin
 GLOW	GLOW	GLOW-CMS-SE	cmssrm.hep.wisc.edu	0	T2_US_Wisconsin
 GLOW	GLOW	GLOW-CONDOR-CE	cmsgrid03.hep.wisc.edu	0	T2_US_Wisconsin
-GLOW	GLOW	GLOW-OSG	osggrid01.hep.wisc.edu	NULL	NULL
-UConn-OSG	UConn-OSG	Gluex_VOMRS	gryphn.phys.uconn.edu	NULL	NULL
-UConn-OSG	UConn-OSG	Gluex_VOMS	gryphn.phys.uconn.edu	NULL	NULL
-IU GOC GLIDEIN	GOC glidein	GOC glidein	glidein.grid.iu.edu	NULL	NULL
-IU UITS	GOC_VOMS	GOC Voms	voms.grid.iu.edu	NULL	NULL
-IU UITS	GOC_Authorization_Services	GOC_Auth_Services	jazmine.grid.iu.edu	NULL	NULL
-IU UITS	GOC_BDII	GOC_BDII_1	is1.grid.iu.edu	NULL	NULL
-IU UITS	GOC_BDII	GOC_BDII_2	is2.grid.iu.edu	NULL	NULL
-IU UITS	GOC_BDII_ITB	GOC_BDII_ITB_1	is-itb1.grid.iu.edu	NULL	NULL
-IU UITS	GOC_BDII_ITB	GOC_BDII_ITB_2	is-itb2.grid.iu.edu	NULL	NULL
-OSG GOC	GOC_ITB	GOC_ITB_CE	ce.grid.iu.edu	0	NULL
-IU UITS	GOC_OIM	GOC_OIM	oim.grid.iu.edu	NULL	NULL
-IU UITS	GOC Perfsonar Toolkits	GOC_Perfsonar_Bandwidth	perfsonar-bw.grid.iu.edu	NULL	NULL
-IU UITS	GOC Perfsonar Toolkits	GOC_Perfsonar_Latency	perfsonar-lt.grid.iu.edu	NULL	NULL
-IU UITS	GOC_Repo	GOC_Repo_1	repo1.grid.iu.edu	NULL	NULL
-IU UITS	GOC_Repo	GOC_Repo_2	repo2.grid.iu.edu	NULL	NULL
-IU UITS	GOC_Software_Cache	GOC_Software_Cache_1	software1.grid.iu.edu	NULL	NULL
-IU UITS	GOC_Software_Cache	GOC_Software_Cache_2	software2.grid.iu.edu	NULL	NULL
-IU UITS	GOC_Software_Cache_ITB	GOC_Software_Cache_ITB	software-itb.grid.iu.edu	NULL	NULL
-IU UITS	GOC_Ticket	GOC_Ticket_1	ticket1.grid.iu.edu	NULL	NULL
-IU UITS	GOC_Ticket	GOC_Ticket_2	ticket2.grid.iu.edu	NULL	NULL
-GPN Kansas	GPN_KSU_CLUSTER	GPN_KSU_CLUSTER	cluster.greatplains.net	NULL	NULL
-Nebraska-CMS	Nebraska	GPN-HUSKER	gpn-husker.unl.edu	NULL	NULL
-GPN Kansas	gpnjayhawk	gpnjayhawk	gpnjayhawk.cpe.engr.ku.edu	NULL	NULL
-GRASE Buffalo	GRASE-ALBANY-NYS	GRASE-ALBANY-NYS	athena.rit.albany.edu-decommissioned	NULL	NULL
-GRASE Buffalo	GRASE-BINGHAMTON	GRASE-BINGHAMTON	rommel.cs.binghamton.edu	NULL	NULL
-GRASE Buffalo	GRASE-CSE-MAGIC	GRASE-CSE-MAGIC	magic.cse.buffalo.edu	0	NULL
-GRASE-GENESEO	GRASE-GENESEO-ROCKS	GRASE-GENESEO-ROCKS	rocks.ds.geneseo.edu	NULL	NULL
-GRASE Buffalo	GRASE-HWI-IDUN	GRASE-HWI-IDUN	idun.hwi.buffalo.edu	NULL	NULL
-GRASE Buffalo	GRASE-MARIST-nysgrid11	GRASE-MARIST-nysgrid11	nysgrid11.is.marist.edu	NULL	NULL
-GRASE Niagra	GRASE-NU-CARTMAN	GRASE-NU-CARTMAN	cartman-grid.niagara.edu	NULL	NULL
-GRASE Buffalo	GRASE-NYU-BENCH	GRASE-NYU-BENCH	bench.es.its.nyu.edu	NULL	NULL
-GRASE Buffalo	GRASE-RIT-GCLUSTER	GRASE-RIT-GCLUSTER	gcluster.rit.edu	NULL	NULL
-GRASE Buffalo	GRASE-SU-CLUSTER04	GRASE-SU-CLUSTER04	cluster04.syr.edu	NULL	NULL
-GRASE Buffalo	GRASE-UR-NEBULA	GRASE-UR-NEBULA	nebula.hpc.rochester.edu	NULL	NULL
-FermiGrid	GRATIA-OSG	GRATIA-OSG-DAILY	gratia-osg-daily.opensciencegrid.org	NULL	NULL
-FermiGrid	GRATIA-OSG	GRATIA-OSG-ITB	gratia-osg-itb.opensciencegrid.org	NULL	NULL
-FermiGrid	GRATIA-OSG	GRATIA-OSG-ITB-PERM	gratia-osg-integration.opensciencegrid.org	NULL	NULL
-FermiGrid	GRATIA-OSG	GRATIA-OSG-PROD	gratia-osg-prod.opensciencegrid.org	NULL	NULL
-FermiGrid	GRATIA-OSG	GRATIA-OSG-TRANSFER	gratia-osg-transfer.opensciencegrid.org	NULL	NULL
-IU UITS	Gratia_Web	GratiaWeb 1	gratiaweb1.grid.iu.edu	NULL	NULL
-IU UITS	Gratia_Web	GratiaWeb 2	gratiaweb2.grid.iu.edu	NULL	NULL
-OSG_GP_CE01	Gridplexus	Gridplexus	CE01.OSG.gridplexus.net	NULL	NULL
-GridUNESP_CENTRAL	GridUNESP_CENTRAL	GridUNESP_CENTRAL	ce.grid.unesp.br	NULL	NULL
-GridUNESP_CENTRAL	GridUNESP_CENTRAL	GridUNESP_CENTRAL_SE	se.grid.unesp.br	NULL	NULL
-GridUNESP_CENTRAL	GridUNESP_SPO	GridUNESP_SPO	ce.spo.grid.unesp.br	NULL	NULL
-GROW	GROW-PROD	GROW_GUMS	grow-voms.its.uiowa.edu	NULL	NULL
-GROW	GROW-PROD	GROW_STOR	grow-stor.its.uiowa.edu	NULL	NULL
-GROW	GROW-PROD	GROW_VOMS	grow-voms.its.uiowa.edu	NULL	NULL
-GROW	GROW-PROD	GROW-GRID	grow-grid.its.uiowa.edu	0	NULL
-GROW	GROW-ITB	GROW-ITB	grow-itb.its.uiowa.edu	NULL	NULL
-GROW	GROW-PROD	GROW-PROD	grow-prod.its.uiowa.edu	NULL	NULL
-GROW	GROW-PROD	GROW-SE	grow-grid.its.uiowa.edu	0	NULL
-PPCF_ATLAS	Hampton PPCF ATLAS	Hampton_ATLAS_CE	hugrid02.hamptonu.edu	NULL	NULL
-Nebraska-Lincoln	HCC Submitters	HCC GlideinWMS Frontend	glidein.unl.edu	NULL	NULL
-Nebraska-Lincoln	HCC Submitters	HCC-CPASS	cpass.unl.edu	NULL	NULL
-HMS	HMS-Orchestra	HMS-Orchestra-Dev	dev.osg.orchestra.med.harvard.edu	NULL	NULL
-Harvard University	HU_ATLAS_Tier2	HU_ATLAS_Tier2	net2.rc.fas.harvard.edu	NULL	NULL
-Harvard University	HU_ATLAS_Tier2	HU_ATLAS_Tier2_CE	net3.rc.fas.harvard.edu	NULL	NULL
-UW-IT	Hyak	Hyak_CE	osg.hyak.washington.edu	NULL	NULL
-Illinois High Energy Physics	IllinoisHEP	IllinoisHEP	osgx0.hep.uiuc.edu	NULL	NULL
-Illinois High Energy Physics	IllinoisHEP	IllinoisHEP-GUMS	osggums.hep.uiuc.edu	NULL	NULL
-Illinois High Energy Physics	IllinoisHEP	IllinoisHEP-LFC	osgx3.hep.uiuc.edu	NULL	NULL
-Illinois High Energy Physics	IllinoisHEP	IllinoisHEP-SE	osgx1.hep.uiuc.edu	NULL	NULL
-ILS	Jupiter	ILS_compute	jupiter.ils.indiana.edu	NULL	NULL
-IU UITS	OSG_TWiki	Image_Server	gocbox.grid.iu.edu	NULL	NULL
-Indiana University Physics	Indiana_ATLAS_Tier3	Indiana_Physics_ATLAS	bolt.physics.indiana.edu	NULL	NULL
-INFN-PADOVA	SBGrid	INFNPD-GlideinWMS-Schedd	ui-wenmr.pd.infn.it	NULL	NULL
-MANLAN	MANLAN perfSONAR	Internet2 perfSONAR	lhcone.test.manlan.internet2.edu	NULL	NULL
-WIX	WIX PerfSONAR	Internet2 WIX perfSONAR	lhcone.test.wix.internet2.edu	NULL	NULL
-OSG GOC	IPAS_OSG	IPAS_OSG	gk.phys.sinica.edu.tw	NULL	NULL
-ISU HEP	isuhep	isuhep	turner.physics.iastate.edu	0	NULL
+GLOW	GLOW	GLOW-OSG	osggrid01.hep.wisc.edu	\N	\N
+UConn-OSG	UConn-OSG	Gluex_VOMRS	gryphn.phys.uconn.edu	\N	\N
+UConn-OSG	UConn-OSG	Gluex_VOMS	gryphn.phys.uconn.edu	\N	\N
+IU GOC GLIDEIN	GOC glidein	GOC glidein	glidein.grid.iu.edu	\N	\N
+IU UITS	GOC_VOMS	GOC Voms	voms.grid.iu.edu	\N	\N
+IU UITS	GOC_Authorization_Services	GOC_Auth_Services	jazmine.grid.iu.edu	\N	\N
+IU UITS	GOC_BDII	GOC_BDII_1	is1.grid.iu.edu	\N	\N
+IU UITS	GOC_BDII	GOC_BDII_2	is2.grid.iu.edu	\N	\N
+IU UITS	GOC_BDII_ITB	GOC_BDII_ITB_1	is-itb1.grid.iu.edu	\N	\N
+IU UITS	GOC_BDII_ITB	GOC_BDII_ITB_2	is-itb2.grid.iu.edu	\N	\N
+OSG GOC	GOC_ITB	GOC_ITB_CE	ce.grid.iu.edu	0	\N
+IU UITS	GOC_OIM	GOC_OIM	oim.grid.iu.edu	\N	\N
+IU UITS	GOC Perfsonar Toolkits	GOC_Perfsonar_Bandwidth	perfsonar-bw.grid.iu.edu	\N	\N
+IU UITS	GOC Perfsonar Toolkits	GOC_Perfsonar_Latency	perfsonar-lt.grid.iu.edu	\N	\N
+IU UITS	GOC_Repo	GOC_Repo_1	repo1.grid.iu.edu	\N	\N
+IU UITS	GOC_Repo	GOC_Repo_2	repo2.grid.iu.edu	\N	\N
+IU UITS	GOC_Software_Cache	GOC_Software_Cache_1	software1.grid.iu.edu	\N	\N
+IU UITS	GOC_Software_Cache	GOC_Software_Cache_2	software2.grid.iu.edu	\N	\N
+IU UITS	GOC_Software_Cache_ITB	GOC_Software_Cache_ITB	software-itb.grid.iu.edu	\N	\N
+IU UITS	GOC_Ticket	GOC_Ticket_1	ticket1.grid.iu.edu	\N	\N
+IU UITS	GOC_Ticket	GOC_Ticket_2	ticket2.grid.iu.edu	\N	\N
+GPN Kansas	GPN_KSU_CLUSTER	GPN_KSU_CLUSTER	cluster.greatplains.net	\N	\N
+Nebraska-CMS	Nebraska	GPN-HUSKER	gpn-husker.unl.edu	\N	\N
+GPN Kansas	gpnjayhawk	gpnjayhawk	gpnjayhawk.cpe.engr.ku.edu	\N	\N
+GRASE Buffalo	GRASE-ALBANY-NYS	GRASE-ALBANY-NYS	athena.rit.albany.edu-decommissioned	\N	\N
+GRASE Buffalo	GRASE-BINGHAMTON	GRASE-BINGHAMTON	rommel.cs.binghamton.edu	\N	\N
+GRASE Buffalo	GRASE-CSE-MAGIC	GRASE-CSE-MAGIC	magic.cse.buffalo.edu	0	\N
+GRASE-GENESEO	GRASE-GENESEO-ROCKS	GRASE-GENESEO-ROCKS	rocks.ds.geneseo.edu	\N	\N
+GRASE Buffalo	GRASE-HWI-IDUN	GRASE-HWI-IDUN	idun.hwi.buffalo.edu	\N	\N
+GRASE Buffalo	GRASE-MARIST-nysgrid11	GRASE-MARIST-nysgrid11	nysgrid11.is.marist.edu	\N	\N
+GRASE Niagra	GRASE-NU-CARTMAN	GRASE-NU-CARTMAN	cartman-grid.niagara.edu	\N	\N
+GRASE Buffalo	GRASE-NYU-BENCH	GRASE-NYU-BENCH	bench.es.its.nyu.edu	\N	\N
+GRASE Buffalo	GRASE-RIT-GCLUSTER	GRASE-RIT-GCLUSTER	gcluster.rit.edu	\N	\N
+GRASE Buffalo	GRASE-SU-CLUSTER04	GRASE-SU-CLUSTER04	cluster04.syr.edu	\N	\N
+GRASE Buffalo	GRASE-UR-NEBULA	GRASE-UR-NEBULA	nebula.hpc.rochester.edu	\N	\N
+FermiGrid	GRATIA-OSG	GRATIA-OSG-DAILY	gratia-osg-daily.opensciencegrid.org	\N	\N
+FermiGrid	GRATIA-OSG	GRATIA-OSG-ITB	gratia-osg-itb.opensciencegrid.org	\N	\N
+FermiGrid	GRATIA-OSG	GRATIA-OSG-ITB-PERM	gratia-osg-integration.opensciencegrid.org	\N	\N
+FermiGrid	GRATIA-OSG	GRATIA-OSG-PROD	gratia-osg-prod.opensciencegrid.org	\N	\N
+FermiGrid	GRATIA-OSG	GRATIA-OSG-TRANSFER	gratia-osg-transfer.opensciencegrid.org	\N	\N
+IU UITS	Gratia_Web	GratiaWeb 1	gratiaweb1.grid.iu.edu	\N	\N
+IU UITS	Gratia_Web	GratiaWeb 2	gratiaweb2.grid.iu.edu	\N	\N
+OSG_GP_CE01	Gridplexus	Gridplexus	CE01.OSG.gridplexus.net	\N	\N
+GridUNESP_CENTRAL	GridUNESP_CENTRAL	GridUNESP_CENTRAL	ce.grid.unesp.br	\N	\N
+GridUNESP_CENTRAL	GridUNESP_CENTRAL	GridUNESP_CENTRAL_SE	se.grid.unesp.br	\N	\N
+GridUNESP_CENTRAL	GridUNESP_SPO	GridUNESP_SPO	ce.spo.grid.unesp.br	\N	\N
+GROW	GROW-PROD	GROW_GUMS	grow-voms.its.uiowa.edu	\N	\N
+GROW	GROW-PROD	GROW_STOR	grow-stor.its.uiowa.edu	\N	\N
+GROW	GROW-PROD	GROW_VOMS	grow-voms.its.uiowa.edu	\N	\N
+GROW	GROW-PROD	GROW-GRID	grow-grid.its.uiowa.edu	0	\N
+GROW	GROW-ITB	GROW-ITB	grow-itb.its.uiowa.edu	\N	\N
+GROW	GROW-PROD	GROW-PROD	grow-prod.its.uiowa.edu	\N	\N
+GROW	GROW-PROD	GROW-SE	grow-grid.its.uiowa.edu	0	\N
+PPCF_ATLAS	Hampton PPCF ATLAS	Hampton_ATLAS_CE	hugrid02.hamptonu.edu	\N	\N
+Nebraska-Lincoln	HCC Submitters	HCC GlideinWMS Frontend	glidein.unl.edu	\N	\N
+Nebraska-Lincoln	HCC Submitters	HCC-CPASS	cpass.unl.edu	\N	\N
+HMS	HMS-Orchestra	HMS-Orchestra-Dev	dev.osg.orchestra.med.harvard.edu	\N	\N
+Harvard University	HU_ATLAS_Tier2	HU_ATLAS_Tier2	net2.rc.fas.harvard.edu	\N	\N
+Harvard University	HU_ATLAS_Tier2	HU_ATLAS_Tier2_CE	net3.rc.fas.harvard.edu	\N	\N
+UW-IT	Hyak	Hyak_CE	osg.hyak.washington.edu	\N	\N
+Illinois High Energy Physics	IllinoisHEP	IllinoisHEP	osgx0.hep.uiuc.edu	\N	\N
+Illinois High Energy Physics	IllinoisHEP	IllinoisHEP-GUMS	osggums.hep.uiuc.edu	\N	\N
+Illinois High Energy Physics	IllinoisHEP	IllinoisHEP-LFC	osgx3.hep.uiuc.edu	\N	\N
+Illinois High Energy Physics	IllinoisHEP	IllinoisHEP-SE	osgx1.hep.uiuc.edu	\N	\N
+ILS	Jupiter	ILS_compute	jupiter.ils.indiana.edu	\N	\N
+IU UITS	OSG_TWiki	Image_Server	gocbox.grid.iu.edu	\N	\N
+Indiana University Physics	Indiana_ATLAS_Tier3	Indiana_Physics_ATLAS	bolt.physics.indiana.edu	\N	\N
+INFN-PADOVA	SBGrid	INFNPD-GlideinWMS-Schedd	ui-wenmr.pd.infn.it	\N	\N
+MANLAN	MANLAN perfSONAR	Internet2 perfSONAR	lhcone.test.manlan.internet2.edu	\N	\N
+WIX	WIX PerfSONAR	Internet2 WIX perfSONAR	lhcone.test.wix.internet2.edu	\N	\N
+OSG GOC	IPAS_OSG	IPAS_OSG	gk.phys.sinica.edu.tw	\N	\N
+ISU HEP	isuhep	isuhep	turner.physics.iastate.edu	0	\N
 FermiGrid	ITB_INSTALL_TEST	ITB_INSTALL_TEST	cmsitb1.fnal.gov	0	ITB_Test
-FermiGrid	ITB_INSTALL_TEST_2	ITB_INSTALL_TEST_2	cmsitb4.fnal.gov	0	NULL
-FermiGrid	ITB_INSTALL_TEST_3	ITB_INSTALL_TEST_3	cms-xen9.fnal.gov	NULL	NULL
-FermiGrid	ITB-ReSS	ITB-ReSS	osg-ress-4.fnal.gov	NULL	NULL
-MWT2 ATLAS IU	IU_ATLAS_Tier2	IU_ATLAS_Tier2	atlas.iu.edu	NULL	NULL
-IU UITS	IU_COBRA_ITB	IU_COBRA_ITB	cobra.uits.indiana.edu	NULL	NULL
-IU UITS	IU_iuatlas	IU_iuatlas	iuatlas.physics.indiana.edu	NULL	NULL
+FermiGrid	ITB_INSTALL_TEST_2	ITB_INSTALL_TEST_2	cmsitb4.fnal.gov	0	\N
+FermiGrid	ITB_INSTALL_TEST_3	ITB_INSTALL_TEST_3	cms-xen9.fnal.gov	\N	\N
+FermiGrid	ITB-ReSS	ITB-ReSS	osg-ress-4.fnal.gov	\N	\N
+MWT2 ATLAS IU	IU_ATLAS_Tier2	IU_ATLAS_Tier2	atlas.iu.edu	\N	\N
+IU UITS	IU_COBRA_ITB	IU_COBRA_ITB	cobra.uits.indiana.edu	\N	\N
+IU UITS	IU_iuatlas	IU_iuatlas	iuatlas.physics.indiana.edu	\N	\N
 IU UITS	IU_OSG	IU_OSG	m3.quarry.teragrid.iu.edu	0	US-MWT2
-IU UITS	IUB_ITB	IUB_ITB	bandicoot.uits.indiana.edu	NULL	NULL
-IU UITS	IUB_ITB_AG	IUB_ITB_AG	knopfler.ucs.indiana.edu	NULL	NULL
-IU UITS	IUB_ITB2	IUB_ITB2	itb-zero.uits.indiana.edu	NULL	NULL
-IU UITS	IUB-VTB	IUB-VTB	tb10.grid.iu.edu	NULL	NULL
-IU UITS	IUPUI-ITB	IUPUI-ITB	feynman.uits.iupui.edu	0	NULL
-IU UITS	OSG_JIRA	jira	jira.opensciencegrid.org	NULL	NULL
-Kennesaw State University	Kennesaw_Dell_Nodes	Kennesaw_Dell_Nodes	Prometheus.kennesaw.edu	0	NULL
-T3_KR_KISTI	T3_KR_KISTI	KISTI_CMS_SQUID	cms-squid.sdfarm.kr	NULL	NULL
-T3_KR_KISTI	T3_KR_KISTI	KISTI_CMS_T3_CE	cms-sejong.sdfarm.kr	0	NULL
-T3_KR_KISTI	T3_KR_KISTI	KISTI_CMS_T3_SE	cms-se.sdfarm.kr	0	NULL
-KISTI-NSDC	KISTI-NSDC-01	KISTI-NSDC-CE03	ce03.sdfarm.kr	NULL	NULL
-KISTI-NSDC	KISTI-NSDC-01	KISTI-NSDC-GUMS	gums.sdfarm.kr	NULL	NULL
-LBL_ESnet	LBL_Testbed	LBL_nettest	nettest.lbl.gov	NULL	NULL
-LBNL	LBNL_DSD_ITB	LBNL_DSD_ITB	grolsch.lbl.gov	NULL	NULL
-LBNL	LBNL_VTB	LBNL_VTB	osp1.lbl.gov	0	NULL
+IU UITS	IUB_ITB	IUB_ITB	bandicoot.uits.indiana.edu	\N	\N
+IU UITS	IUB_ITB_AG	IUB_ITB_AG	knopfler.ucs.indiana.edu	\N	\N
+IU UITS	IUB_ITB2	IUB_ITB2	itb-zero.uits.indiana.edu	\N	\N
+IU UITS	IUB-VTB	IUB-VTB	tb10.grid.iu.edu	\N	\N
+IU UITS	IUPUI-ITB	IUPUI-ITB	feynman.uits.iupui.edu	0	\N
+IU UITS	OSG_JIRA	jira	jira.opensciencegrid.org	\N	\N
+Kennesaw State University	Kennesaw_Dell_Nodes	Kennesaw_Dell_Nodes	Prometheus.kennesaw.edu	0	\N
+T3_KR_KISTI	T3_KR_KISTI	KISTI_CMS_SQUID	cms-squid.sdfarm.kr	\N	\N
+T3_KR_KISTI	T3_KR_KISTI	KISTI_CMS_T3_CE	cms-sejong.sdfarm.kr	0	\N
+T3_KR_KISTI	T3_KR_KISTI	KISTI_CMS_T3_SE	cms-se.sdfarm.kr	0	\N
+KISTI-NSDC	KISTI-NSDC-01	KISTI-NSDC-CE03	ce03.sdfarm.kr	\N	\N
+KISTI-NSDC	KISTI-NSDC-01	KISTI-NSDC-GUMS	gums.sdfarm.kr	\N	\N
+LBL_ESnet	LBL_Testbed	LBL_nettest	nettest.lbl.gov	\N	\N
+LBNL	LBNL_DSD_ITB	LBNL_DSD_ITB	grolsch.lbl.gov	\N	\N
+LBNL	LBNL_VTB	LBNL_VTB	osp1.lbl.gov	0	\N
 Livermore Computing	LC-glcc	LC-glcc	glcc88.ucllnl.org	15.68	US-LLNL-ALICE
-Lehigh Coral	Lehigh_coral	Lehigh_coral	piranha.ie.lehigh.edu	NULL	NULL
-GLOW	GLOW	Lehigh_piranha	piranha.ie.lehigh.edu	NULL	NULL
-Brookhaven ATLAS Tier1	BNL-ATLAS	lhcmon-bnl	lhcmon.bnl.gov	NULL	NULL
-Brookhaven ATLAS Tier1	BNL-ATLAS	lhcperfmon-bnl	lhcperfmon.bnl.gov	NULL	NULL
-Caltech LIGO	LIGO-CIT-ITB	LIGO_CIT	osg-ce.ligo.caltech.edu	NULL	NULL
-Caltech LIGO	LIGO-CIT-ITB	LIGO_CIT_SE	osg-se.ligo.caltech.edu	NULL	NULL
-UW Milwaukee Physics	LIGO_UWM_NEMO	LIGO_UWM_NEMO	osg-nemo-ce.phys.uwm.edu	0	NULL
-Caltech LIGO	LIGO-CIT-ITB	LIGO-CIT-ITB	osg-itb.ligo.caltech.edu	NULL	NULL
-Caltech LIGO	LIGO-CIT-VTB	LIGO-CIT-VTB	osg-vtb.ligo.caltech.edu	NULL	NULL
-GOC Staff VM	KAGROSS-GOC	LLAMA-LLAMA-GOC	kagross.grid.iu.edu	NULL	NULL
-LONI_LSU	LONI_OSG1	LONI_OSG1	osg1.loni.org	NULL	NULL
-LONI_LSU	LONI_OSG2	LONI_OSG2	osg2.loni.org	NULL	NULL
-LaTech	LTU_CCT	LTU_CCT	ltu.cct.lsu.edu	NULL	NULL
-LaTech	LTU_Tier3	LTU_OSG	caps10.phys.LaTech.edu	NULL	NULL
-LaTech	LTU_Tier3	LTU_T3	grid1.hpc.latech.edu	NULL	NULL
+Lehigh Coral	Lehigh_coral	Lehigh_coral	piranha.ie.lehigh.edu	\N	\N
+GLOW	GLOW	Lehigh_piranha	piranha.ie.lehigh.edu	\N	\N
+Brookhaven ATLAS Tier1	BNL-ATLAS	lhcmon-bnl	lhcmon.bnl.gov	\N	\N
+Brookhaven ATLAS Tier1	BNL-ATLAS	lhcperfmon-bnl	lhcperfmon.bnl.gov	\N	\N
+Caltech LIGO	LIGO-CIT-ITB	LIGO_CIT	osg-ce.ligo.caltech.edu	\N	\N
+Caltech LIGO	LIGO-CIT-ITB	LIGO_CIT_SE	osg-se.ligo.caltech.edu	\N	\N
+UW Milwaukee Physics	LIGO_UWM_NEMO	LIGO_UWM_NEMO	osg-nemo-ce.phys.uwm.edu	0	\N
+Caltech LIGO	LIGO-CIT-ITB	LIGO-CIT-ITB	osg-itb.ligo.caltech.edu	\N	\N
+Caltech LIGO	LIGO-CIT-VTB	LIGO-CIT-VTB	osg-vtb.ligo.caltech.edu	\N	\N
+GOC Staff VM	KAGROSS-GOC	LLAMA-LLAMA-GOC	kagross.grid.iu.edu	\N	\N
+LONI_LSU	LONI_OSG1	LONI_OSG1	osg1.loni.org	\N	\N
+LONI_LSU	LONI_OSG2	LONI_OSG2	osg2.loni.org	\N	\N
+LaTech	LTU_CCT	LTU_CCT	ltu.cct.lsu.edu	\N	\N
+LaTech	LTU_Tier3	LTU_OSG	caps10.phys.LaTech.edu	\N	\N
+LaTech	LTU_Tier3	LTU_T3	grid1.hpc.latech.edu	\N	\N
 LUCCRE	LUCILLE	Lucille_CE	lutgw1.lunet.edu	9.1	US-SWT2
 LUCCRE	LUCILLE	Lucille_SE	lutse1.lunet.edu	0	US-SWT2
-LU HEP	LUHEP_OSG	LUHEP_OSG	luhepce.lunet.edu	NULL	NULL
-LU HEP	LUHEP_OSG	LUHEP_OSG2	elixir.lunet.edu	NULL	NULL
-LU HEP	LUHEP_OSG	LUHEP_SE	luhepse.lunet.edu	NULL	NULL
-McGill HEP	MCGILL_HEP	MCGILL_HEP	gaia.physics.mcgill.ca	NULL	NULL
+LU HEP	LUHEP_OSG	LUHEP_OSG	luhepce.lunet.edu	\N	\N
+LU HEP	LUHEP_OSG	LUHEP_OSG2	elixir.lunet.edu	\N	\N
+LU HEP	LUHEP_OSG	LUHEP_SE	luhepse.lunet.edu	\N	\N
+McGill HEP	MCGILL_HEP	MCGILL_HEP	gaia.physics.mcgill.ca	\N	\N
 MIT CMS	MIT_CMS	MIT_CMS	ce01.cmsaf.mit.edu	10.8	T2_US_MIT
 MIT CMS	MIT_CMS	MIT_CMS_2	ce02.cmsaf.mit.edu	0	T2_US_MIT
-MIT CMS	MIT_CMS	MIT_CMS_Perfsonar_BW	perfsonar02.cmsaf.mit.edu	NULL	NULL
-MIT CMS	MIT_CMS	MIT_CMS_Perfsonar_Latency	perfsonar01.cmsaf.mit.edu	NULL	NULL
+MIT CMS	MIT_CMS	MIT_CMS_Perfsonar_BW	perfsonar02.cmsaf.mit.edu	\N	\N
+MIT CMS	MIT_CMS	MIT_CMS_Perfsonar_Latency	perfsonar01.cmsaf.mit.edu	\N	\N
 MIT CMS T3	MIT_CMS_T3	MIT_CMS_T3-CE1	t3serv007.mit.edu	0	T3_US_MIT
 MIT CMS T3	MIT_CMS_T3	MIT_CMS_T3-SE	t3serv006.mit.edu	0	T3_US_MIT
 MIT CMS	MIT_CMS	MIT_CMS-SE	se01.cmsaf.mit.edu	0	T2_US_MIT
-MSU OSG	MSU-OSG	MSU-OSG	msu-osg.aglt2.org	NULL	NULL
-MSU OSG	MSU-OSG_SE	MSU-OSG_SE	msu2.aglt2.org	NULL	NULL
+MSU OSG	MSU-OSG	MSU-OSG	msu-osg.aglt2.org	\N	\N
+MSU OSG	MSU-OSG_SE	MSU-OSG_SE	msu2.aglt2.org	\N	\N
 MWT2 ATLAS UC	MWT2	MWT2	osg-gk.mwt2.org	9.56	US-MWT2
 MWT2 ATLAS UC	MWT2	MWT2_CE_IU	iut2-gk.mwt2.org	9.48	US-MWT2
 MWT2 ATLAS UC	MWT2	MWT2_CE_UC	uct2-gk.mwt2.org	0	US-MWT2
 MWT2 ATLAS UC	MWT2	MWT2_CE_UIUC	mwt2-gk.campuscluster.illinois.edu	9.48	US-MWT2
-MWT2 ATLAS IU	MWT2_IU	MWT2_IU	iut2-grid6.iu.edu	NULL	NULL
-MWT2 ATLAS IU	MWT2_IU	MWT2_IU_SE	iut2-dc1.iu.edu	NULL	NULL
+MWT2 ATLAS IU	MWT2_IU	MWT2_IU	iut2-grid6.iu.edu	\N	\N
+MWT2 ATLAS IU	MWT2_IU	MWT2_IU_SE	iut2-dc1.iu.edu	\N	\N
 MWT2 ATLAS UC	MWT2_UC	MWT2_UC	uct2-grid6.uchicago.edu	0	US-MWT2
 MWT2 ATLAS UC	MWT2	MWT2_UC_SE	uct2-dc1.uchicago.edu	0	US-MWT2
-MWT2 ATLAS UC	MWT2_UC	MWT2_X_SE	iut2-grid8.iu.edu	NULL	NULL
-IU UITS	MyOSG	MyOSG_1	myosg1.grid.iu.edu	NULL	NULL
-IU UITS	MyOSG	MyOSG_2	myosg2.grid.iu.edu	NULL	NULL
-High Performance Computing Facility - University of Puerto Rico	UPR_HPCF	Nanobio_CE	nanobioman.hpcf.upr.edu	NULL	NULL
-NCSA	NCSA_TUNGSTEN	NCSA_TUNGSTEN	ncsa-ce.ncsa.uiuc.edu	NULL	NULL
+MWT2 ATLAS UC	MWT2_UC	MWT2_X_SE	iut2-grid8.iu.edu	\N	\N
+IU UITS	MyOSG	MyOSG_1	myosg1.grid.iu.edu	\N	\N
+IU UITS	MyOSG	MyOSG_2	myosg2.grid.iu.edu	\N	\N
+High Performance Computing Facility - University of Puerto Rico	UPR_HPCF	Nanobio_CE	nanobioman.hpcf.upr.edu	\N	\N
+NCSA	NCSA_TUNGSTEN	NCSA_TUNGSTEN	ncsa-ce.ncsa.uiuc.edu	\N	\N
 Nebraska-CMS	Nebraska	Nebraska	red.unl.edu	10.412	T2_US_Nebraska
-Nebraska-CMS	CMS Glidein Systems	Nebraska_glidein_hcc_crabserver	hcc-crabserver.unl.edu	NULL	NULL
-NERSC	NERSC-Carver	NERSC-Carver	carvergrid.nersc.gov	NULL	NULL
-NERSC	NERSC-Davinci	NERSC-Davinci	davinci.nersc.gov	NULL	NULL
-NERSC	NERSC-Franklin	NERSC-Franklin	franklingrid.nersc.gov	NULL	NULL
-NERSC	NERSC-ITB	NERSC-ITB	pc1805.nersc.gov	NULL	NULL
-NERSC	NERSC-Jacquard	NERSC-Jacquard	jacquardgrid.nersc.gov	NULL	NULL
+Nebraska-CMS	CMS Glidein Systems	Nebraska_glidein_hcc_crabserver	hcc-crabserver.unl.edu	\N	\N
+NERSC	NERSC-Carver	NERSC-Carver	carvergrid.nersc.gov	\N	\N
+NERSC	NERSC-Davinci	NERSC-Davinci	davinci.nersc.gov	\N	\N
+NERSC	NERSC-Franklin	NERSC-Franklin	franklingrid.nersc.gov	\N	\N
+NERSC	NERSC-ITB	NERSC-ITB	pc1805.nersc.gov	\N	\N
+NERSC	NERSC-Jacquard	NERSC-Jacquard	jacquardgrid.nersc.gov	\N	\N
 NERSC	NERSC-PDSF	NERSC-PDSF	pdsfgrid.nersc.gov	16.614	US-LBNL-ALICE
-NERSC	NERSC-PDSF	NERSC-PDSF2	pdsfgrid2.nersc.gov	NULL	NULL
-NERSC	NERSC-PDSFSRM	NERSC-PDSFDTN	pdsfdtn1.nersc.gov	0	NULL
-NERSC	NERSC-PDSFSRM	NERSC-PDSFSRM	pdsfsrm.nersc.gov	NULL	NULL
-NERSC	NERSC-PDSFSRM	NERSC-PGSIFTP1	pdsfgsiftp1.nersc.gov	0	NULL
-NERSC	NERSC-VM-VTB0	NERSC-VM-VTB0	osp-vtb00.nersc.gov	NULL	NULL
+NERSC	NERSC-PDSF	NERSC-PDSF2	pdsfgrid2.nersc.gov	\N	\N
+NERSC	NERSC-PDSFSRM	NERSC-PDSFDTN	pdsfdtn1.nersc.gov	0	\N
+NERSC	NERSC-PDSFSRM	NERSC-PDSFSRM	pdsfsrm.nersc.gov	\N	\N
+NERSC	NERSC-PDSFSRM	NERSC-PGSIFTP1	pdsfgsiftp1.nersc.gov	0	\N
+NERSC	NERSC-VM-VTB0	NERSC-VM-VTB0	osp-vtb00.nersc.gov	\N	\N
 Boston University ATLAS Tier2	BU_ATLAS_Tier2	NET2	atlas-net2.bu.edu	9.82	US-NET2
 Harvard University	HU_ATLAS_Tier2	NET2_HU	net2.rc.fas.harvard.edu	9.44	US-NET2
-Boston University ATLAS Tier2	NET2	NET2-BU	atlas-hub.bu.edu	NULL	NULL
-Boston University ATLAS Tier2	NET2	NET2-HU	net2.rc.fas.harvard.edu	NULL	NULL
-T3_US_NEU	T3_US_NEU	NEU T3 cluster	lhct3alv.neu.edu	NULL	NULL
-Nevis	Nevis	Nevis	nevis.columbia.edu	NULL	NULL
-Nevis	Nevis	Nevis cvmfs squid	xenia.nevis.columbia.edu	0	NULL
-Nevis	Nevis	Nevis_gridftp	xenia.nevis.columbia.edu	NULL	NULL
-NU Tier3	NU_CMS_TIER3_CE	NU_CMS_TIER3_CE	ttgrid03.ci.northwestern.edu	NULL	NULL
-NU Tier3	NU_CMS_TIER3_SE	NU_CMS_TIER3_SE	ttgrid04.ci.northwestern.edu	NULL	NULL
-NUMEP-OSG	NUMEP-OSG	NUMEP_CE	numep-grid1.research.northwestern.edu	NULL	NULL
-NUMEP-OSG	NUMEP-OSG	NUMEP_SE	numep-grid6.research.northwestern.edu	NULL	NULL
-NWICG_NDCMS	NWICG_Earth	NWICG_Earth	earth.crc.nd.edu	0	NULL
-NWICG_NDCMS	NWICG_NDCMS	NWICG_NDCCL	condor.crc.nd.edu	0	NULL
-NWICG_NDCMS	NWICG_NDCMS	NWICG_NDCMS	ndcms.crc.nd.edu	0	NULL
-NWICG_NDCMS	NWICG_NotreDame	NWICG_NotreDame	opteron03.crc.nd.edu	0	NULL
-NYSGRID Cornell	NYSGRID_CORNELL_NYS1	NYSGRID_CORNELL_NYS1	nys1.cac.cornell.edu	0	NULL
-NYSGRID RIT	NYSGRID_RIT	NYSGRID_RIT	grid.rc.rit.edu	NULL	NULL
-NYSGRID_ALBANY	NYSGRID-ALBANY-ATHENA	NYSGRID-ALBANY-ATHENA	athena.rit.albany.edu	0	NULL
-NYSGRID Buffalo	NYSGRID-CCR-U2	NYSGRID-CCR-U2	u2-grid.ccr.buffalo.edu	0	NULL
-NYSGRID-CUNY-GRID	NYSGRID-CUNY-GRID	NYSGRID-CUNY-GRID	cunygrid.gc.cuny.edu	0	NULL
-NYU ATLAS Tier3	NYU-ATLAS	NYU_ATLAS_NFS	t3nfs.physics.nyu.edu	NULL	NULL
-IU UITS	OSG Oasis	Oasis	oasis.grid.iu.edu	NULL	NULL
-IU UITS	Oasis login nodes	oasis-login	oasis-login.opensciencegrid.org	NULL	NULL
-IU UITS	Oasis login nodes	oasis-login-sl6	oasis-login-sl6.opensciencegrid.org	NULL	NULL
-NSF	OCI-NSF	OCI-NSF	rocks-fe.cise-nsf.gov	NULL	NULL
-LBNL	LBNL_DSD_ITB	oliverlblgov	oliver.lbl.gov	NULL	NULL
-ORNL NSTG	ORNL_NSTG	ORNL_NSTG	osg-login.ornl.teragrid.org	NULL	NULL
-OSC	OSC_OSG	OSC_OSG_CE	osg.osc.edu	NULL	NULL
-OSC	OSC_SuperB	OSC_SuperB_CE	superbvo.osc.edu	NULL	NULL
-OSC	OSC_SuperB	OSC_SuperB_gridftp	superbvo.osc.edu	NULL	NULL
-IU UITS	OSG blogs	OSG blog	blogs.grid.iu.edu	NULL	NULL
-IU UITS	Oasis Replica	OSG Oasis replica	oasis-replica.opensciencegrid.org	NULL	NULL
-UChicago	OSG_UChicago	OSG UChicago VO Frontend	ui-gwms.uchicago.edu	NULL	NULL
-IU UITS	OSG_Display	OSG_Display_1	display1.grid.iu.edu	NULL	NULL
-IU UITS	OSG_DOCDB	OSG_DOCDB_1	osg-docdb.opensciencegrid.org	NULL	NULL
-IU UITS	OSG_XD	OSG_FLOCK	osg-flock.grid.iu.edu	NULL	NULL
-IU UITS	OSG_Homepage	OSG_Homepage_1	opensciencegrid.org	NULL	NULL
-USCMS-FNAL-XEN	OSG_INSTALL_TEST_2	OSG_INSTALL_TEST_2	cms-xen2.fnal.gov	NULL	NULL
-MIT LIGO	OSG_LIGO_MIT	OSG_LIGO_GUMS	osg-ligo-gums.mit.edu	NULL	NULL
-MIT LIGO	OSG_LIGO_MIT	OSG_LIGO_MIT	osg-ligo.mit.edu	NULL	NULL
-PSU LIGO	OSG_LIGO_PSU	OSG_LIGO_PSU	grid3.aset.psu.edu	NULL	NULL
-Georgia State University Research Computing	OSG_TEST_CE	OSG_TEST_CE	osgtestce.server.gsu.edu	NULL	NULL
-IU UITS	OSG_TWiki	OSG_TWiki	twiki.grid.iu.edu	NULL	NULL
-FermiGrid	vomsopensciencegridorg	OSG_VOMRS	vomrs.opensciencegrid.org	NULL	NULL
-FermiGrid	vomsopensciencegridorg	OSG_VOMS	voms.opensciencegrid.org	NULL	NULL
-IU UITS	OSG_XD	OSG_XSEDE	osg-xsede.grid.iu.edu	NULL	NULL
-OSG GOC	OSG blogs ITB	osg-blogs	blogs-itb.grid.iu.edu	NULL	NULL
-UJ Research Cluster	UJ-OSG	osg-ce	osg-ce.grid.uj.ac.za	NULL	NULL
-FermiGrid	OSG-ReSS	OSG-ReSS-PROD	osg-ress-1.fnal.gov	NULL	NULL
-OSG-Rice	Rice	OSG-Rice	bonner-grid.rice.edu	0	NULL
-OSU-CMS	osu-cms	osu-cms	cms-0.mps.ohio-state.edu	0	NULL
+Boston University ATLAS Tier2	NET2	NET2-BU	atlas-hub.bu.edu	\N	\N
+Boston University ATLAS Tier2	NET2	NET2-HU	net2.rc.fas.harvard.edu	\N	\N
+T3_US_NEU	T3_US_NEU	NEU T3 cluster	lhct3alv.neu.edu	\N	\N
+Nevis	Nevis	Nevis	nevis.columbia.edu	\N	\N
+Nevis	Nevis	Nevis cvmfs squid	xenia.nevis.columbia.edu	0	\N
+Nevis	Nevis	Nevis_gridftp	xenia.nevis.columbia.edu	\N	\N
+NU Tier3	NU_CMS_TIER3_CE	NU_CMS_TIER3_CE	ttgrid03.ci.northwestern.edu	\N	\N
+NU Tier3	NU_CMS_TIER3_SE	NU_CMS_TIER3_SE	ttgrid04.ci.northwestern.edu	\N	\N
+NUMEP-OSG	NUMEP-OSG	NUMEP_CE	numep-grid1.research.northwestern.edu	\N	\N
+NUMEP-OSG	NUMEP-OSG	NUMEP_SE	numep-grid6.research.northwestern.edu	\N	\N
+NWICG_NDCMS	NWICG_Earth	NWICG_Earth	earth.crc.nd.edu	0	\N
+NWICG_NDCMS	NWICG_NDCMS	NWICG_NDCCL	condor.crc.nd.edu	0	\N
+NWICG_NDCMS	NWICG_NDCMS	NWICG_NDCMS	ndcms.crc.nd.edu	0	\N
+NWICG_NDCMS	NWICG_NotreDame	NWICG_NotreDame	opteron03.crc.nd.edu	0	\N
+NYSGRID Cornell	NYSGRID_CORNELL_NYS1	NYSGRID_CORNELL_NYS1	nys1.cac.cornell.edu	0	\N
+NYSGRID RIT	NYSGRID_RIT	NYSGRID_RIT	grid.rc.rit.edu	\N	\N
+NYSGRID_ALBANY	NYSGRID-ALBANY-ATHENA	NYSGRID-ALBANY-ATHENA	athena.rit.albany.edu	0	\N
+NYSGRID Buffalo	NYSGRID-CCR-U2	NYSGRID-CCR-U2	u2-grid.ccr.buffalo.edu	0	\N
+NYSGRID-CUNY-GRID	NYSGRID-CUNY-GRID	NYSGRID-CUNY-GRID	cunygrid.gc.cuny.edu	0	\N
+NYU ATLAS Tier3	NYU-ATLAS	NYU_ATLAS_NFS	t3nfs.physics.nyu.edu	\N	\N
+IU UITS	OSG Oasis	Oasis	oasis.grid.iu.edu	\N	\N
+IU UITS	Oasis login nodes	oasis-login	oasis-login.opensciencegrid.org	\N	\N
+IU UITS	Oasis login nodes	oasis-login-sl6	oasis-login-sl6.opensciencegrid.org	\N	\N
+NSF	OCI-NSF	OCI-NSF	rocks-fe.cise-nsf.gov	\N	\N
+LBNL	LBNL_DSD_ITB	oliverlblgov	oliver.lbl.gov	\N	\N
+ORNL NSTG	ORNL_NSTG	ORNL_NSTG	osg-login.ornl.teragrid.org	\N	\N
+OSC	OSC_OSG	OSC_OSG_CE	osg.osc.edu	\N	\N
+OSC	OSC_SuperB	OSC_SuperB_CE	superbvo.osc.edu	\N	\N
+OSC	OSC_SuperB	OSC_SuperB_gridftp	superbvo.osc.edu	\N	\N
+IU UITS	OSG blogs	OSG blog	blogs.grid.iu.edu	\N	\N
+IU UITS	Oasis Replica	OSG Oasis replica	oasis-replica.opensciencegrid.org	\N	\N
+UChicago	OSG_UChicago	OSG UChicago VO Frontend	ui-gwms.uchicago.edu	\N	\N
+IU UITS	OSG_Display	OSG_Display_1	display1.grid.iu.edu	\N	\N
+IU UITS	OSG_DOCDB	OSG_DOCDB_1	osg-docdb.opensciencegrid.org	\N	\N
+IU UITS	OSG_XD	OSG_FLOCK	osg-flock.grid.iu.edu	\N	\N
+IU UITS	OSG_Homepage	OSG_Homepage_1	opensciencegrid.org	\N	\N
+USCMS-FNAL-XEN	OSG_INSTALL_TEST_2	OSG_INSTALL_TEST_2	cms-xen2.fnal.gov	\N	\N
+MIT LIGO	OSG_LIGO_MIT	OSG_LIGO_GUMS	osg-ligo-gums.mit.edu	\N	\N
+MIT LIGO	OSG_LIGO_MIT	OSG_LIGO_MIT	osg-ligo.mit.edu	\N	\N
+PSU LIGO	OSG_LIGO_PSU	OSG_LIGO_PSU	grid3.aset.psu.edu	\N	\N
+Georgia State University Research Computing	OSG_TEST_CE	OSG_TEST_CE	osgtestce.server.gsu.edu	\N	\N
+IU UITS	OSG_TWiki	OSG_TWiki	twiki.grid.iu.edu	\N	\N
+FermiGrid	vomsopensciencegridorg	OSG_VOMRS	vomrs.opensciencegrid.org	\N	\N
+FermiGrid	vomsopensciencegridorg	OSG_VOMS	voms.opensciencegrid.org	\N	\N
+IU UITS	OSG_XD	OSG_XSEDE	osg-xsede.grid.iu.edu	\N	\N
+OSG GOC	OSG blogs ITB	osg-blogs	blogs-itb.grid.iu.edu	\N	\N
+UJ Research Cluster	UJ-OSG	osg-ce	osg-ce.grid.uj.ac.za	\N	\N
+FermiGrid	OSG-ReSS	OSG-ReSS-PROD	osg-ress-1.fnal.gov	\N	\N
+OSG-Rice	Rice	OSG-Rice	bonner-grid.rice.edu	0	\N
+OSU-CMS	osu-cms	osu-cms	cms-0.mps.ohio-state.edu	0	\N
 OU ATLAS	OU_OCHEP_SWT2	OU_OCHEP_SWT2	tier2-01.ochep.ou.edu	8.82	US-SWT2
 OU ATLAS	OU_OSCER_ATLAS	OU_OSCER_ATLAS	grid1.oscer.ou.edu	14.22	US-SWT2
-OU DOSAR	OU_OSCER_CONDOR	OU_OSCER_CONDOR	condor1.oscer.ou.edu	NULL	NULL
-OU HEP	OUHEP_ITB	OUHEP_ITB	osgitb1.nhn.ou.edu	0	NULL
-OU HEP	OUHEP_OSG	OUHEP_OSG	ouhep0.nhn.ou.edu	0	NULL
-ASGC	ASGC_OSG	perfSONAR_ASGC_bandwidth	lhc-bandwidth.twgrid.org	NULL	NULL
-ASGC	ASGC_OSG	perfSONAR_ASGC_latency	lhc-latency.twgrid.org	NULL	NULL
-Boston University ATLAS Tier2	BU_ATLAS_Tier2	perfSONAR_BU	atlas-owamp.bu.edu	NULL	NULL
-SLAC	WT2	perfSONAR_bw_SLAC	psnr-farm04.slac.stanford.edu	NULL	NULL
-GridLAFEX	PerfSONAR Services	PerfSONAR_CBPF_bw	ps02.cat.cbpf.br	NULL	NULL
-GridLAFEX	PerfSONAR Services	PerfSONAR_CBPF_lt	ps01.cat.cbpf.br	0	NULL
-FNAL USCMS Tier1	USCMS-FNAL-WC1	perfSONAR_fnal_latency	psonar4.fnl.gov	NULL	NULL
-PuNDIT	GaTech_Testbed	perfSONAR_GT_testbed_latency	psum09.cc.gt.atl.ga.us	NULL	NULL
-Illinois High Energy Physics	IllinoisHEP	perfSONAR_IllinoisHEP	osgpfsr.hep.uiuc.edu	NULL	NULL
-SLAC	WT2	perfSONAR_lat_SLAC	psnr-farm10.slac.stanford.edu	NULL	NULL
-LUCCRE	LUCILLE	perfSONAR_LU_bandwidth	lutps.lunet.edu	NULL	NULL
-LUCCRE	LUCILLE	perfSonar_LU_latency	lutps1.lunet.edu	NULL	NULL
-OU ATLAS	OU_OCHEP_SWT2	perfSONAR_OU	ps1.ochep.ou.edu	NULL	NULL
-OU ATLAS	OU_OCHEP_SWT2	perfSONAR_OU_bandwidth	ps2.ochep.ou.edu	NULL	NULL
-OU ATLAS	OU_OCHEP_SWT2	perfSONAR_OU_latency	ps1.ochep.ou.edu	NULL	NULL
-OU ATLAS	OU_OCHEP_SWT2	perfSONAR_OU_latency_test	ps3.ochep.ou.edu	NULL	NULL
-SWT2 ATLAS UTA	SWT2_CPB_TEST	perfSONAR_SWT2_CPB_testbed_bandwidth	netmon2.atlas-swt2.org	NULL	NULL
-SWT2 ATLAS UTA	SWT2_CPB_TEST	perfSONAR_SWT2_CPB_testbed_latency	netmon1.atlas-swt2.org	NULL	NULL
-UF CMS Tier2	UFlorida-PG	perfSONAR_UF	perfsonar1.ihepa.ufl.edu	NULL	NULL
-Boston University ATLAS Tier2	BU_ATLAS_Tier2	perfSONAR-NET2-bw	atlas-npt2.bu.edu	NULL	NULL
-Boston University ATLAS Tier2	BU_ATLAS_Tier2	perfSONAR-NET2-lat	atlas-npt1.bu.edu	NULL	NULL
-Lehigh Coral	Lehigh_coral	piranha	ie.lehigh.edu	NULL	NULL
-PNNL_DC	PNNL_BelleII	PNNL_BelleII_SE	se.hep.pnnl.gov	0	NULL
-PNNL_DC	PNNL_BelleII	PNNL_CE_1	osg.pnl.gov	0	NULL
-PNNL_DC	PNNL_BelleII	PNNL_CE00	gridgk00.hep.pnnl.gov	0	NULL
-PNNL_OSG2	PNNL_OSG2	PNNL_OSG-Misregistered	osg.pnl.gov	0	NULL
-PNNL_DC	PNNL_BelleII	PNNL_SE	se.pnl.gov	0	NULL
-Princeton_ICSE	Princeton_ICSE_T3_CMS	Princeton_ICSE_T3_CMS_SE	cmssw.princeton.edu	0	NULL
-Brookhaven ATLAS Tier1	BNL-ATLAS	ps-development	ps-development.bnl.gov	NULL	NULL
-Purdue NWICG	Purdue-Caesar	Purdue-Caesar	julius.rcac.purdue.edu	NULL	NULL
+OU DOSAR	OU_OSCER_CONDOR	OU_OSCER_CONDOR	condor1.oscer.ou.edu	\N	\N
+OU HEP	OUHEP_ITB	OUHEP_ITB	osgitb1.nhn.ou.edu	0	\N
+OU HEP	OUHEP_OSG	OUHEP_OSG	ouhep0.nhn.ou.edu	0	\N
+ASGC	ASGC_OSG	perfSONAR_ASGC_bandwidth	lhc-bandwidth.twgrid.org	\N	\N
+ASGC	ASGC_OSG	perfSONAR_ASGC_latency	lhc-latency.twgrid.org	\N	\N
+Boston University ATLAS Tier2	BU_ATLAS_Tier2	perfSONAR_BU	atlas-owamp.bu.edu	\N	\N
+SLAC	WT2	perfSONAR_bw_SLAC	psnr-farm04.slac.stanford.edu	\N	\N
+GridLAFEX	PerfSONAR Services	PerfSONAR_CBPF_bw	ps02.cat.cbpf.br	\N	\N
+GridLAFEX	PerfSONAR Services	PerfSONAR_CBPF_lt	ps01.cat.cbpf.br	0	\N
+FNAL USCMS Tier1	USCMS-FNAL-WC1	perfSONAR_fnal_latency	psonar4.fnl.gov	\N	\N
+PuNDIT	GaTech_Testbed	perfSONAR_GT_testbed_latency	psum09.cc.gt.atl.ga.us	\N	\N
+Illinois High Energy Physics	IllinoisHEP	perfSONAR_IllinoisHEP	osgpfsr.hep.uiuc.edu	\N	\N
+SLAC	WT2	perfSONAR_lat_SLAC	psnr-farm10.slac.stanford.edu	\N	\N
+LUCCRE	LUCILLE	perfSONAR_LU_bandwidth	lutps.lunet.edu	\N	\N
+LUCCRE	LUCILLE	perfSonar_LU_latency	lutps1.lunet.edu	\N	\N
+OU ATLAS	OU_OCHEP_SWT2	perfSONAR_OU	ps1.ochep.ou.edu	\N	\N
+OU ATLAS	OU_OCHEP_SWT2	perfSONAR_OU_bandwidth	ps2.ochep.ou.edu	\N	\N
+OU ATLAS	OU_OCHEP_SWT2	perfSONAR_OU_latency	ps1.ochep.ou.edu	\N	\N
+OU ATLAS	OU_OCHEP_SWT2	perfSONAR_OU_latency_test	ps3.ochep.ou.edu	\N	\N
+SWT2 ATLAS UTA	SWT2_CPB_TEST	perfSONAR_SWT2_CPB_testbed_bandwidth	netmon2.atlas-swt2.org	\N	\N
+SWT2 ATLAS UTA	SWT2_CPB_TEST	perfSONAR_SWT2_CPB_testbed_latency	netmon1.atlas-swt2.org	\N	\N
+UF CMS Tier2	UFlorida-PG	perfSONAR_UF	perfsonar1.ihepa.ufl.edu	\N	\N
+Boston University ATLAS Tier2	BU_ATLAS_Tier2	perfSONAR-NET2-bw	atlas-npt2.bu.edu	\N	\N
+Boston University ATLAS Tier2	BU_ATLAS_Tier2	perfSONAR-NET2-lat	atlas-npt1.bu.edu	\N	\N
+Lehigh Coral	Lehigh_coral	piranha	ie.lehigh.edu	\N	\N
+PNNL_DC	PNNL_BelleII	PNNL_BelleII_SE	se.hep.pnnl.gov	0	\N
+PNNL_DC	PNNL_BelleII	PNNL_CE_1	osg.pnl.gov	0	\N
+PNNL_DC	PNNL_BelleII	PNNL_CE00	gridgk00.hep.pnnl.gov	0	\N
+PNNL_OSG2	PNNL_OSG2	PNNL_OSG-Misregistered	osg.pnl.gov	0	\N
+PNNL_DC	PNNL_BelleII	PNNL_SE	se.pnl.gov	0	\N
+Princeton_ICSE	Princeton_ICSE_T3_CMS	Princeton_ICSE_T3_CMS_SE	cmssw.princeton.edu	0	\N
+Brookhaven ATLAS Tier1	BNL-ATLAS	ps-development	ps-development.bnl.gov	\N	\N
+Purdue NWICG	Purdue-Caesar	Purdue-Caesar	julius.rcac.purdue.edu	\N	\N
 Purdue CMS	Purdue-Carter	Purdue-Carter	carter-osg.rcac.purdue.edu	16.4	T2_US_Purdue
 Purdue CMS	Purdue-RCAC	Purdue-CMS-SE	srm-dcache.rcac.purdue.edu	0	T2_US_Purdue
-Purdue CMS	Purdue-RCAC	Purdue-CMS-Test	cmstest1.rcac.purdue.edu	0	NULL
-Purdue CMS	Purdue-Conte	Purdue-Conte	conte-osg.rcac.purdue.edu	NULL	NULL
+Purdue CMS	Purdue-RCAC	Purdue-CMS-Test	cmstest1.rcac.purdue.edu	0	\N
+Purdue CMS	Purdue-Conte	Purdue-Conte	conte-osg.rcac.purdue.edu	\N	\N
 Purdue CMS	Purdue-Hadoop	Purdue-Hadoop-CE	hadoop-osg.rcac.purdue.edu	12.37	T2_US_Purdue
 Purdue CMS	Purdue-Hadoop	Purdue-Hadoop-HT-PBS-CE	cms-ce2-osg.rcac.purdue.edu	0	Purdue-Hammer
 Purdue CMS	Purdue-Hadoop	Purdue-Hadoop-HTCE	cms-ce1-osg.rcac.purdue.edu	0	Purdue-Hadoop-HTCE
 Purdue CMS	Purdue-Hadoop	Purdue-Hadoop-SE	srm.rcac.purdue.edu	0	T2_US_Purdue
-Purdue CMS	Purdue-Hadoop	Purdue-Hadoop-SE2	srm6.rcac.purdue.edu	0	NULL
-Purdue CMS	Purdue-Hadoop	Purdue-Hadoop-TestCE	cmstest1.rcac.purdue.edu	0	NULL
+Purdue CMS	Purdue-Hadoop	Purdue-Hadoop-SE2	srm6.rcac.purdue.edu	0	\N
+Purdue CMS	Purdue-Hadoop	Purdue-Hadoop-TestCE	cmstest1.rcac.purdue.edu	0	\N
 Purdue CMS	Purdue-Hammer	Purdue-Hammer-CE	hammer-osg.rcac.purdue.edu	12	Purdue-Hammer
 Purdue CMS	Purdue-Hansen	Purdue-Hansen	hansen-osg.rcac.purdue.edu	8.68	T2_US_Purdue
-Purdue CMS	Purdue-ITB	Purdue-ITB	itb.rcac.purdue.edu	0	NULL
-Purdue Physics	Purdue-Physics	Purdue-Physics	grid.physics.purdue.edu	NULL	NULL
+Purdue CMS	Purdue-ITB	Purdue-ITB	itb.rcac.purdue.edu	0	\N
+Purdue Physics	Purdue-Physics	Purdue-Physics	grid.physics.purdue.edu	\N	\N
 Purdue CMS	Purdue-RCAC	Purdue-RCAC	osg.rcac.purdue.edu	0	T2_US_Purdue
 Purdue CMS	Purdue-Rossmann	Purdue-Rossmann	rossmann-osg.rcac.purdue.edu	11.24	T2_US_Purdue
-Purdue CMS	Purdue-Steele	Purdue-Steele	lepton.rcac.purdue.edu	NULL	NULL
+Purdue CMS	Purdue-Steele	Purdue-Steele	lepton.rcac.purdue.edu	\N	\N
 Nebraska-CMS	Nebraska	red-gateway1	red-gw1.unl.edu	0	T2_US_Nebraska
 Nebraska-CMS	Nebraska	red-gateway2	red-gw2.unl.edu	0	T2_US_Nebraska
-Nebraska-CMS	Nebraska-CMS-ITB	red-gateway3-ITB	red-gw3.unl.edu	NULL	NULL
-RENCI	RENCI	RENCI-Blueberry	hpgw0.renci.org	NULL	NULL
-RENCI	RENCI	RENCI-Blueridge	brgw1.renci.org	0	NULL
-RENCI	RENCI-Engagement	RENCI-Engagement	belhaven-1.renci.org	0	NULL
-RENCI	RENCI	RENCI-Hatteras	htgw0.renci.org	NULL	NULL
-OSG-Rice	Rice	Rice	osg-gate.rice.edu	0	NULL
-IU UITS	GOC_RSV_Collector	RSV_Collector	rsv.grid.iu.edu	NULL	NULL
-IU UITS	GOC_RSV_Collector_ITB	RSV_Collector_ITB	rsv-itb.grid.iu.edu	NULL	NULL
-rutgers-cms	rutgers-cms	rutgers-cms	ruhex-osgce.rutgers.edu	0	NULL
-SAMPA	perfSONAR Services	SAMPA PerfSONAR Bandwidth	ps02.if.usp.br	0	NULL
-SAMPA	perfSONAR Services	SAMPA PerfSONAR Latency	ps02.if.usp.br	0	NULL
-Nebraska-Lincoln	Sandhills	Sandhills	sandhills-ce1.unl.edu	NULL	NULL
-Harvard SBGRID	SBGrid-Harvard	SBGrid-GlideinWMS-Frontend	glidein.nebiogrid.org	NULL	NULL
-Harvard SBGRID	SBGrid-Harvard	SBGrid-Harvard	hpc.sbgrid.org	NULL	NULL
-Harvard SBGRID	SBGrid-Harvard-East	SBGrid-Harvard-East	osg-east.hms.harvard.edu	0	NULL
-Harvard SBGRID	SBGrid-Harvard-Exp	SBGrid-Harvard-Exp	abitibi.sbgrid.org	NULL	NULL
-Harvard SBGRID	SBGrid-Harvard-Infrastructure	SBGrid-Harvard-Security	hpc.sbgrid.org	NULL	NULL
-SBU Atlas Tier3	SBU_Tier3	SBU_ATLAS_GRIDFTP1	sbahead.physics.sunysb.edu	0	NULL
-SBU Atlas Tier3	SBU_Tier3	SBU_ATLAS_GRIDFTP2	sbanfs.physics.sunysb.edu	0	NULL
-SBU Atlas Tier3	SBU_Tier3	SBU_ATLAS_GRIDFTP3	sbaxrd1.physics.sunysb.edu	0	NULL
-SBU Atlas Tier3	SBU_Tier3	SBU_T3_Squid	sbahead.physics.sunysb.edu	NULL	NULL
-OSG Security Services	OSG_SECURITY_MONITOR	SECMON_CADIST_GOC	secmon.cadist.goc.test	NULL	NULL
-OSG Security Services	OSG_SECURITY_MONITOR	SECMON_CADIST_VDT	secmon.cadist.vdt.test	NULL	NULL
-OSG Security Services	OSG_SECURITY_MONITOR	SECMON_CRL	secmon.crl.goc.test	NULL	NULL
-OSG Security Services	OSG_SECURITY_MONITOR	SECMON_VOMS	secmon.voms.test	NULL	NULL
-SLAC	WT2	SLAC	osgserv02.slac.stanford.edu	NULL	NULL
-SLAC	WT2	SLAC-ATLAS-T3_GRIDFTP	osggridftp02.slac.stanford.edu	0	NULL
-SMU_HPC	SMU_HPC	SMU_HPC	smuosg1.hpc.smu.edu	0	NULL
-SMU_HPC	SMU_HPC	SMU_HPC_SE	smuosgse.hpc.smu.edu	0	NULL
-SMU_HPC	SMU_HPC	SMU_ManeFrame_CE	mfosgce.hpc.smu.edu	0	NULL
-SMU_HPC	SMU_HPC	SMU_ManeFrame_SE	mfosgse.ehpc.smu.edu	NULL	NULL
-SMU Physics	SMU_PHY	SMU_PHY	smufarm.physics.smu.edu	NULL	NULL
-OSG GOC	Test Grouop	Soichi_Test_Resource	test.example.org	0	NULL
+Nebraska-CMS	Nebraska-CMS-ITB	red-gateway3-ITB	red-gw3.unl.edu	\N	\N
+RENCI	RENCI	RENCI-Blueberry	hpgw0.renci.org	\N	\N
+RENCI	RENCI	RENCI-Blueridge	brgw1.renci.org	0	\N
+RENCI	RENCI-Engagement	RENCI-Engagement	belhaven-1.renci.org	0	\N
+RENCI	RENCI	RENCI-Hatteras	htgw0.renci.org	\N	\N
+OSG-Rice	Rice	Rice	osg-gate.rice.edu	0	\N
+IU UITS	GOC_RSV_Collector	RSV_Collector	rsv.grid.iu.edu	\N	\N
+IU UITS	GOC_RSV_Collector_ITB	RSV_Collector_ITB	rsv-itb.grid.iu.edu	\N	\N
+rutgers-cms	rutgers-cms	rutgers-cms	ruhex-osgce.rutgers.edu	0	\N
+SAMPA	perfSONAR Services	SAMPA PerfSONAR Bandwidth	ps02.if.usp.br	0	\N
+SAMPA	perfSONAR Services	SAMPA PerfSONAR Latency	ps02.if.usp.br	0	\N
+Nebraska-Lincoln	Sandhills	Sandhills	sandhills-ce1.unl.edu	\N	\N
+Harvard SBGRID	SBGrid-Harvard	SBGrid-GlideinWMS-Frontend	glidein.nebiogrid.org	\N	\N
+Harvard SBGRID	SBGrid-Harvard	SBGrid-Harvard	hpc.sbgrid.org	\N	\N
+Harvard SBGRID	SBGrid-Harvard-East	SBGrid-Harvard-East	osg-east.hms.harvard.edu	0	\N
+Harvard SBGRID	SBGrid-Harvard-Exp	SBGrid-Harvard-Exp	abitibi.sbgrid.org	\N	\N
+Harvard SBGRID	SBGrid-Harvard-Infrastructure	SBGrid-Harvard-Security	hpc.sbgrid.org	\N	\N
+SBU Atlas Tier3	SBU_Tier3	SBU_ATLAS_GRIDFTP1	sbahead.physics.sunysb.edu	0	\N
+SBU Atlas Tier3	SBU_Tier3	SBU_ATLAS_GRIDFTP2	sbanfs.physics.sunysb.edu	0	\N
+SBU Atlas Tier3	SBU_Tier3	SBU_ATLAS_GRIDFTP3	sbaxrd1.physics.sunysb.edu	0	\N
+SBU Atlas Tier3	SBU_Tier3	SBU_T3_Squid	sbahead.physics.sunysb.edu	\N	\N
+OSG Security Services	OSG_SECURITY_MONITOR	SECMON_CADIST_GOC	secmon.cadist.goc.test	\N	\N
+OSG Security Services	OSG_SECURITY_MONITOR	SECMON_CADIST_VDT	secmon.cadist.vdt.test	\N	\N
+OSG Security Services	OSG_SECURITY_MONITOR	SECMON_CRL	secmon.crl.goc.test	\N	\N
+OSG Security Services	OSG_SECURITY_MONITOR	SECMON_VOMS	secmon.voms.test	\N	\N
+SLAC	WT2	SLAC	osgserv02.slac.stanford.edu	\N	\N
+SLAC	WT2	SLAC-ATLAS-T3_GRIDFTP	osggridftp02.slac.stanford.edu	0	\N
+SMU_HPC	SMU_HPC	SMU_HPC	smuosg1.hpc.smu.edu	0	\N
+SMU_HPC	SMU_HPC	SMU_HPC_SE	smuosgse.hpc.smu.edu	0	\N
+SMU_HPC	SMU_HPC	SMU_ManeFrame_CE	mfosgce.hpc.smu.edu	0	\N
+SMU_HPC	SMU_HPC	SMU_ManeFrame_SE	mfosgse.ehpc.smu.edu	\N	\N
+SMU Physics	SMU_PHY	SMU_PHY	smufarm.physics.smu.edu	\N	\N
+OSG GOC	Test Grouop	Soichi_Test_Resource	test.example.org	0	\N
 SPRACE	SPRACE	SPRACE	osg-ce.sprace.org.br	13.48	BR-SP-SPRACE
-SPRACE	SPRACE	SPRACE_Perfsonar_BW	perfsonar-bw.sprace.org.br	NULL	NULL
-SPRACE	SPRACE	SPRACE_Perfsonar_LT	perfsonar-lt.sprace.org.br	NULL	NULL
-SPRACE	SPRACE	SPRACE-OSG-RSV	spserv01.sprace.org.br	NULL	NULL
-SPRACE	SPRACE	SPRACE-SE	osg-se.sprace.org.br	0	NULL
-STAR Birmingham	STAR-Bham	STAR-Bham	rhilxs.ph.bham.ac.uk	NULL	NULL
-STAR Brookhaven	STAR-BNL	STAR-BNL	stargrid02.rcf.bnl.gov	NULL	NULL
-STAR WSU	STAR-WSU	STAR-WSU	rhic20.physics.wayne.edu	NULL	NULL
-OSG GOC	stash-itb	stash-itb1	stash-itb1.grid.iu.edu	NULL	NULL
-OSG GOC	stash-itb	stash-itb2	stash-itb2.grid.iu.edu	NULL	NULL
-SU OrangeGrid	SU-OG	SU-OG-CE	its-condor-ce.syr.edu	NULL	NULL
-SU OrangeGrid	SU-OG	SU-OG-squid	its-condor-squid1.syr.edu	NULL	NULL
-SUSQU	SUSQU-ATLAS-T3	SUSQU-ATLAS-T3	hep-atlas.susqu.edu	NULL	NULL
+SPRACE	SPRACE	SPRACE_Perfsonar_BW	perfsonar-bw.sprace.org.br	\N	\N
+SPRACE	SPRACE	SPRACE_Perfsonar_LT	perfsonar-lt.sprace.org.br	\N	\N
+SPRACE	SPRACE	SPRACE-OSG-RSV	spserv01.sprace.org.br	\N	\N
+SPRACE	SPRACE	SPRACE-SE	osg-se.sprace.org.br	0	\N
+STAR Birmingham	STAR-Bham	STAR-Bham	rhilxs.ph.bham.ac.uk	\N	\N
+STAR Brookhaven	STAR-BNL	STAR-BNL	stargrid02.rcf.bnl.gov	\N	\N
+STAR WSU	STAR-WSU	STAR-WSU	rhic20.physics.wayne.edu	\N	\N
+OSG GOC	stash-itb	stash-itb1	stash-itb1.grid.iu.edu	\N	\N
+OSG GOC	stash-itb	stash-itb2	stash-itb2.grid.iu.edu	\N	\N
+SU OrangeGrid	SU-OG	SU-OG-CE	its-condor-ce.syr.edu	\N	\N
+SU OrangeGrid	SU-OG	SU-OG-squid	its-condor-squid1.syr.edu	\N	\N
+SUSQU	SUSQU-ATLAS-T3	SUSQU-ATLAS-T3	hep-atlas.susqu.edu	\N	\N
 SWT2 ATLAS UTA	SWT2_CPB	SWT2_CPB	gk01.atlas-swt2.org	8.56	US-SWT2
-SWT2 ATLAS UTA	SWT2_CPB	SWT2_CPB_DEV	test02.atlas-swt2.org	0	NULL
-SWT2 ATLAS UTA	SWT2_CPB	SWT2_CPB_perfSONAR_bandwidth	psuta02.atlas-swt2.org	NULL	NULL
-SWT2 ATLAS UTA	SWT2_CPB	SWT2_CPB_perfSONAR_latency	psuta01.atlas-swt2.org	NULL	NULL
-SWT2 ATLAS UTA	SWT2_CPB	SWT2_CPB_SE	gk03.atlas-swt2.org	0	NULL
-SPRACE	SPRACE	T2_BR_SPRACE-squid1	frontier.sprace.org.br	NULL	NULL
-SPRACE	SPRACE	T2_BR_SPRACE-squid2	frontier2.sprace.org.br	NULL	NULL
-UF HPC	UFlorida-HPC	T2_Florida_BW	perfsonar2.ihepa.ufl.edu	NULL	NULL
-UF HPC	UFlorida-HPC	T2_Florida_LT	perfsonar1.ihepa.ufl.edu	NULL	NULL
+SWT2 ATLAS UTA	SWT2_CPB	SWT2_CPB_DEV	test02.atlas-swt2.org	0	\N
+SWT2 ATLAS UTA	SWT2_CPB	SWT2_CPB_perfSONAR_bandwidth	psuta02.atlas-swt2.org	\N	\N
+SWT2 ATLAS UTA	SWT2_CPB	SWT2_CPB_perfSONAR_latency	psuta01.atlas-swt2.org	\N	\N
+SWT2 ATLAS UTA	SWT2_CPB	SWT2_CPB_SE	gk03.atlas-swt2.org	0	\N
+SPRACE	SPRACE	T2_BR_SPRACE-squid1	frontier.sprace.org.br	\N	\N
+SPRACE	SPRACE	T2_BR_SPRACE-squid2	frontier2.sprace.org.br	\N	\N
+UF HPC	UFlorida-HPC	T2_Florida_BW	perfsonar2.ihepa.ufl.edu	\N	\N
+UF HPC	UFlorida-HPC	T2_Florida_LT	perfsonar1.ihepa.ufl.edu	\N	\N
 Nebraska-CMS	Nebraska	T2_Nebraska_Hadoop	dcache07.unl.edu	0	T2_US_Nebraska
-Nebraska-CMS	Nebraska	T2_Nebraska_Hadoop2	red-srm1.unl.edu	0	NULL
-Nebraska-CMS	Nebraska	T2_Nebraska_Hadoop3	srm.unl.edu	NULL	NULL
-Nebraska-CMS	Nebraska	T2_Nebraska_OSG	red-srm1.unl.edu	NULL	NULL
+Nebraska-CMS	Nebraska	T2_Nebraska_Hadoop2	red-srm1.unl.edu	0	\N
+Nebraska-CMS	Nebraska	T2_Nebraska_Hadoop3	srm.unl.edu	\N	\N
+Nebraska-CMS	Nebraska	T2_Nebraska_OSG	red-srm1.unl.edu	\N	\N
 Nebraska-CMS	Nebraska	T2_Nebraska_Storage	srm.unl.edu	0	T2_US_Nebraska
-Purdue CMS	Purdue-RCAC	T2_Purdue_Perfsonar_Bandwidth	mannperf2.itns.purdue.edu	NULL	NULL
-Purdue CMS	Purdue-RCAC	T2_Purdue_Perfsonar_Latency	mannperf.itns.purdue.edu	NULL	NULL
-Nebraska-CMS	Nebraska	T2_US_Nebraska_red-squid1	red-squid1.unl.edu	NULL	NULL
-Nebraska-CMS	Nebraska	T2_US_Nebraska-red-squid2	red-squid2.unl.edu	NULL	NULL
-Purdue CMS	Purdue-Hadoop	T2_US_Purdue_Squid1	squid1.rcac.purdue.edu	NULL	NULL
-Purdue CMS	Purdue-Hadoop	T2_US_Purdue_Squid2	squid2.rcac.purdue.edu	NULL	NULL
-Purdue CMS	Purdue-Hadoop	T2_US_Purdue_Squid3	squid3.rcac.purdue.edu	NULL	NULL
-Florida Tech	FLTECH	T3_US_FIT	uscms1.fltech-grid3.fit.edu	NULL	NULL
-OSU-CMS	osu-cms	T3_US_OSU	cmshead.mps.ohio-state.edu	0	NULL
-Princeton_ICSE	Princeton_ICSE_T3_CMS	T3_US_Princeton_ICSE	cmssw.princeton.edu	NULL	NULL
-uva-cms	uva-cms-se	T3_US_UVA	osg-hep.phys.virginia.edu	NULL	NULL
+Purdue CMS	Purdue-RCAC	T2_Purdue_Perfsonar_Bandwidth	mannperf2.itns.purdue.edu	\N	\N
+Purdue CMS	Purdue-RCAC	T2_Purdue_Perfsonar_Latency	mannperf.itns.purdue.edu	\N	\N
+Nebraska-CMS	Nebraska	T2_US_Nebraska_red-squid1	red-squid1.unl.edu	\N	\N
+Nebraska-CMS	Nebraska	T2_US_Nebraska-red-squid2	red-squid2.unl.edu	\N	\N
+Purdue CMS	Purdue-Hadoop	T2_US_Purdue_Squid1	squid1.rcac.purdue.edu	\N	\N
+Purdue CMS	Purdue-Hadoop	T2_US_Purdue_Squid2	squid2.rcac.purdue.edu	\N	\N
+Purdue CMS	Purdue-Hadoop	T2_US_Purdue_Squid3	squid3.rcac.purdue.edu	\N	\N
+Florida Tech	FLTECH	T3_US_FIT	uscms1.fltech-grid3.fit.edu	\N	\N
+OSU-CMS	osu-cms	T3_US_OSU	cmshead.mps.ohio-state.edu	0	\N
+Princeton_ICSE	Princeton_ICSE_T3_CMS	T3_US_Princeton_ICSE	cmssw.princeton.edu	\N	\N
+uva-cms	uva-cms-se	T3_US_UVA	osg-hep.phys.virginia.edu	\N	\N
 TAMU Academy	TAMU_BRAZOS	TAMU_BRAZOS	hurr.tamu.edu	0	T3_TAMU_BRAZOS Accounting
-TAMU Academy	TAMU_BRAZOS	TAMU_BRAZOS_CE	ce01.brazos.tamu.edu	0	NULL
-TAMU Academy	TAMU_BRAZOS	TAMU_BRAZOS_GridFTP1	gw01.brazos.tamu.edu	NULL	NULL
-TAMU Academy	TAMU_BRAZOS	TAMU_BRAZOS_perfSONAR_Bandwidth	psonar-bwctl.brazos.tamu.edu	NULL	NULL
-TAMU Academy	TAMU_BRAZOS	TAMU_BRAZOS_perfSONAR_Latency	psonar-owamp.brazos.tamu.edu	NULL	NULL
-TAMU Academy	TAMU_BRAZOS	TAMU_BRAZOS_SE	srm.brazos.tamu.edu	0	NULL
-TAMU Academy	TAMU_BRAZOS	TAMU_BRAZOS_SRM	brazos-srm.tamu.edu	NULL	NULL
-TAMU Mathematics	TAMU_Calclab	TAMU_Calclab	calclab-ce.math.tamu.edu	NULL	NULL
-TAMU Mathematics	TAMU_Calclab	TAMU_Calclab_CE2	calclab-ce2.math.tamu.edu	NULL	NULL
-TAMU Mathematics	TAMU_Calclab	TAMU_Calclab_SE	calcfs2.math.tamu.edu	NULL	NULL
-IU UITS	GOC_Ticket	Ticket Exchange 1	tx1.grid.iu.edu	NULL	NULL
-IU UITS	GOC_Ticket	Ticket Exchange 2	tx2.grid.iu.edu	NULL	NULL
-TIGRE TTU	TTU-ANTAEUS	TTU-ANTAEUS	antaeus.hpcc.ttu.edu	0	NULL
-TIGRE TTU	TTU-ANTAEUS	TTU-SIGMORGH	sigmorgh.hpcc.ttu.edu	0	NULL
-TIGRE TTU	TTU-TESTWULF	TTU-TESTWULF	testwulf.hpcc.ttu.edu	0	NULL
-TIGRE TTU	TTU-TINGE	TTU-TINGE	tinge.hpcc.ttu.edu	0	NULL
+TAMU Academy	TAMU_BRAZOS	TAMU_BRAZOS_CE	ce01.brazos.tamu.edu	0	\N
+TAMU Academy	TAMU_BRAZOS	TAMU_BRAZOS_GridFTP1	gw01.brazos.tamu.edu	\N	\N
+TAMU Academy	TAMU_BRAZOS	TAMU_BRAZOS_perfSONAR_Bandwidth	psonar-bwctl.brazos.tamu.edu	\N	\N
+TAMU Academy	TAMU_BRAZOS	TAMU_BRAZOS_perfSONAR_Latency	psonar-owamp.brazos.tamu.edu	\N	\N
+TAMU Academy	TAMU_BRAZOS	TAMU_BRAZOS_SE	srm.brazos.tamu.edu	0	\N
+TAMU Academy	TAMU_BRAZOS	TAMU_BRAZOS_SRM	brazos-srm.tamu.edu	\N	\N
+TAMU Mathematics	TAMU_Calclab	TAMU_Calclab	calclab-ce.math.tamu.edu	\N	\N
+TAMU Mathematics	TAMU_Calclab	TAMU_Calclab_CE2	calclab-ce2.math.tamu.edu	\N	\N
+TAMU Mathematics	TAMU_Calclab	TAMU_Calclab_SE	calcfs2.math.tamu.edu	\N	\N
+IU UITS	GOC_Ticket	Ticket Exchange 1	tx1.grid.iu.edu	\N	\N
+IU UITS	GOC_Ticket	Ticket Exchange 2	tx2.grid.iu.edu	\N	\N
+TIGRE TTU	TTU-ANTAEUS	TTU-ANTAEUS	antaeus.hpcc.ttu.edu	0	\N
+TIGRE TTU	TTU-ANTAEUS	TTU-SIGMORGH	sigmorgh.hpcc.ttu.edu	0	\N
+TIGRE TTU	TTU-TESTWULF	TTU-TESTWULF	testwulf.hpcc.ttu.edu	0	\N
+TIGRE TTU	TTU-TINGE	TTU-TINGE	tinge.hpcc.ttu.edu	0	\N
 Tufts_ATLAS_Tier3	Tufts_ATLAS_Tier3	Tufts_ATLAS_Tier3	cobalt.uit.tufts.edu	0	US-Tufts_ATLAS_Tier3
-Nebraska-Omaha	Tusker	Tusker	disabled.tusker-gw1.unl.edu	NULL	NULL
+Nebraska-Omaha	Tusker	Tusker	disabled.tusker-gw1.unl.edu	\N	\N
 Nebraska-Omaha	Tusker	Tusker-CE1	tusker-gw1.unl.edu	0	T2_US_Nebraska
-UARK ACE	UARK_ACE	UARK_ACE	ace.uark.edu	NULL	NULL
-MWT2 ATLAS UC	UC_ATLAS_MWT2	UC_ATLAS_MWT2	tier2-osg.uchicago.edu	NULL	NULL
-UChicago	UC_ITB	UC_ITB_CONDOR	itbv-ce-condor.mwt2.org	NULL	NULL
-UChicago	UC_ITB	UC_ITB_PBS	itbv-ce-pbs.mwt2.org	NULL	NULL
-MWT2 ATLAS UC	UC_ITB_SE_BESTMAN	UC_ITB_SE_BESTMAN	itbv-bmx1.mwt2.org	NULL	NULL
-MWT2 ATLAS UC	UC_ITB_SE_DCACHE	UC_ITB_SE_DCACHE	itbv-dc1.mwt2.org	NULL	NULL
-UChicago	UC_ITB	UC_ITB_SE_HADOOP	itbv-bmh1.mwt2.org	NULL	NULL
-MWT2 ATLAS UC	UC_T2DEV_ITB	UC_T2DEV_ITB	t2dev-01.uchicago.edu	NULL	NULL
-UC Teraport	UC_Teraport	UC_Teraport	tp-osg.ci.uchicago.edu	NULL	NULL
-UChicago	UC_ITB	UC_VTB	vtbv-ce.mwt2.org	NULL	NULL
-UChicago	UC3	UC3 UChicago VO Frontend	uc3-vofe.uchicago.edu	NULL	NULL
-UChicago	UC3	UC3_SUB	uc3-sub.uchicago.edu	NULL	NULL
+UARK ACE	UARK_ACE	UARK_ACE	ace.uark.edu	\N	\N
+MWT2 ATLAS UC	UC_ATLAS_MWT2	UC_ATLAS_MWT2	tier2-osg.uchicago.edu	\N	\N
+UChicago	UC_ITB	UC_ITB_CONDOR	itbv-ce-condor.mwt2.org	\N	\N
+UChicago	UC_ITB	UC_ITB_PBS	itbv-ce-pbs.mwt2.org	\N	\N
+MWT2 ATLAS UC	UC_ITB_SE_BESTMAN	UC_ITB_SE_BESTMAN	itbv-bmx1.mwt2.org	\N	\N
+MWT2 ATLAS UC	UC_ITB_SE_DCACHE	UC_ITB_SE_DCACHE	itbv-dc1.mwt2.org	\N	\N
+UChicago	UC_ITB	UC_ITB_SE_HADOOP	itbv-bmh1.mwt2.org	\N	\N
+MWT2 ATLAS UC	UC_T2DEV_ITB	UC_T2DEV_ITB	t2dev-01.uchicago.edu	\N	\N
+UC Teraport	UC_Teraport	UC_Teraport	tp-osg.ci.uchicago.edu	\N	\N
+UChicago	UC_ITB	UC_VTB	vtbv-ce.mwt2.org	\N	\N
+UChicago	UC3	UC3 UChicago VO Frontend	uc3-vofe.uchicago.edu	\N	\N
+UChicago	UC3	UC3_SUB	uc3-sub.uchicago.edu	\N	\N
 UC Davis CMS T3	UCD	UCD	cms.tier3.ucdavis.edu	0	T3_US_UCD
-UC Davis CMS T3	UCD	UCD_GUMS	agent.tier3.ucdavis.edu	NULL	NULL
+UC Davis CMS T3	UCD	UCD_GUMS	agent.tier3.ucdavis.edu	\N	\N
 UC Davis CMS T3	UCD	UCD_SE	se.tier3.ucdavis.edu	0	T3_US_UCD_SE
-UCHC_CBG	UCHC_CBG	UCHC_CBG	vdgateway.vcell.uchc.edu	NULL	NULL
-UCIT3	University of California Irvine	UCI_ATLAS_GRIDFTP	gpatlas2.ps.uci.edu	NULL	NULL
-UCLA CMS Tier3	UCLA_Saxon_Tier3	UCLA_Saxon_Tier3	saxon.hosted.ats.ucla.edu	0	NULL
-UColorado_HEP	UColorado_HEP	UColorado_HEP	heposg01.colorado.edu	0	NULL
-UColorado_HEP	UColorado_HEP_ITB	UColorado_ITB	hepitb01.colorado.edu	0	NULL
-UColorado_HEP	UColorado_HEP	UColorado_SE	hepse01.colorado.edu	0	NULL
-UColorado_HEP	UColorado_SE	UColorado_SE_Hadoop	hepse02.colorado.edu	0	NULL
-UConn-OSG	UConn-OSG	UConn-OSG_CE	gluskap.phys.uconn.edu	NULL	NULL
-UConn-OSG	UConn-OSG	UConn-OSG_GUMS	gryphn.phys.uconn.edu	NULL	NULL
-UConn-OSG	UConn-OSG	UConn-OSG_SE	grinch.phys.uconn.edu	0	NULL
-UCR HEP	UCR-HEP	UCR-HEP	top.ucr.edu	0	NULL
-UCR HEP	UCR-HEP	UCR-HEP-SE	charm.ucr.edu	0	NULL
-UCSD CMS Tier2	UCSDT2	UCSanDiego-OSG-Validation-SE-SRM_v2	tbsrm-1.t2.ucsd.edu	NULL	NULL
+UCHC_CBG	UCHC_CBG	UCHC_CBG	vdgateway.vcell.uchc.edu	\N	\N
+UCIT3	University of California Irvine	UCI_ATLAS_GRIDFTP	gpatlas2.ps.uci.edu	\N	\N
+UCLA CMS Tier3	UCLA_Saxon_Tier3	UCLA_Saxon_Tier3	saxon.hosted.ats.ucla.edu	0	\N
+UColorado_HEP	UColorado_HEP	UColorado_HEP	heposg01.colorado.edu	0	\N
+UColorado_HEP	UColorado_HEP_ITB	UColorado_ITB	hepitb01.colorado.edu	0	\N
+UColorado_HEP	UColorado_HEP	UColorado_SE	hepse01.colorado.edu	0	\N
+UColorado_HEP	UColorado_SE	UColorado_SE_Hadoop	hepse02.colorado.edu	0	\N
+UConn-OSG	UConn-OSG	UConn-OSG_CE	gluskap.phys.uconn.edu	\N	\N
+UConn-OSG	UConn-OSG	UConn-OSG_GUMS	gryphn.phys.uconn.edu	\N	\N
+UConn-OSG	UConn-OSG	UConn-OSG_SE	grinch.phys.uconn.edu	0	\N
+UCR HEP	UCR-HEP	UCR-HEP	top.ucr.edu	0	\N
+UCR HEP	UCR-HEP	UCR-HEP-SE	charm.ucr.edu	0	\N
+UCSD CMS Tier2	UCSDT2	UCSanDiego-OSG-Validation-SE-SRM_v2	tbsrm-1.t2.ucsd.edu	\N	\N
 UCSD CMS Tier2	UCSDT2	UCSandiegoOSG-Prod-SE	srm-3.t2.ucsd.edu	0	T2_US_UCSD
-ucsb-hep	ucsb-cms	UCSB_CE	cms25.physics.ucsb.edu	0	NULL
-ucsb-hep	ucsb-cms	UCSB_GUMS	cms23.physics.ucsb.edu	NULL	NULL
-ucsb-hep	ucsb-cms	UCSB_SE	cms25.physics.ucsb.edu	0	NULL
-UC Santa Cruz ATLAS Tier-3	UCSCT3	UCSC_ATLAS_GRIDFTP2	atlas03.ucsc.edu	NULL	NULL
-IU GOC GLIDEIN	GOC glidein	UCSD gfactory	gfactory-1.t2.ucsd.edu	NULL	NULL
-UCSD OSG	UCSD glidein	UCSD glidein	gfactory-1.t2.ucsd.edu	NULL	NULL
-UCSD CMS Tier2	UCSD CMS Glideins	UCSD_glidein_cmssubmit_r1	cmssubmit-r1.t2.ucsd.edu	NULL	NULL
-UCSD CMS Tier2	UCSD CMS Glideins	UCSD_glidein_glidein_2	glidein-2.t2.ucsd.edu	NULL	NULL
-UCSD CMS Tier2	UCSD CMS Glideins	UCSD_glidein_submit_2	submit-2.t2.ucsd.edu	NULL	NULL
-UCSD CMS Tier2	UCSD CMS Glideins	UCSD_glidein_submit_3	submit-3.t2.ucsd.edu	NULL	NULL
-UCSD CMS Tier2	UCSD CMS Glideins	UCSD_glidein_submit_4	submit-4.t2.ucsd.edu	NULL	NULL
-UCSD CMS Tier2	UCSDT2	UCSD_GlideinWMS_Submit_1	glidein-2.t2.ucsd.edu	NULL	NULL
-UCSD CMS Tier2	UCSDT2	UCSD_GlideinWMS_Submit_2	submit-2.t2.ucsd.edu	NULL	NULL
-UCSD CMS Tier2	UCSDT2	UCSD_GlideinWMS_Submit_3	submit-1.t2.ucsd.edu	NULL	NULL
-UCSD CMS Tier2	UCSDT2	UCSDCMST2-2-squid	cvmfs-2.t2.ucsd.edu	NULL	NULL
-UCSD CMS Tier2	UCSDT2	UCSDCMST2-squid	cvmfs-1.t2.ucsd.edu	NULL	NULL
-UCSD OSG	Submitters	UCSDGrid-CTBP-Frontend	osg.ctbp.ucsd.edu	NULL	NULL
+ucsb-hep	ucsb-cms	UCSB_CE	cms25.physics.ucsb.edu	0	\N
+ucsb-hep	ucsb-cms	UCSB_GUMS	cms23.physics.ucsb.edu	\N	\N
+ucsb-hep	ucsb-cms	UCSB_SE	cms25.physics.ucsb.edu	0	\N
+UC Santa Cruz ATLAS Tier-3	UCSCT3	UCSC_ATLAS_GRIDFTP2	atlas03.ucsc.edu	\N	\N
+IU GOC GLIDEIN	GOC glidein	UCSD gfactory	gfactory-1.t2.ucsd.edu	\N	\N
+UCSD OSG	UCSD glidein	UCSD glidein	gfactory-1.t2.ucsd.edu	\N	\N
+UCSD CMS Tier2	UCSD CMS Glideins	UCSD_glidein_cmssubmit_r1	cmssubmit-r1.t2.ucsd.edu	\N	\N
+UCSD CMS Tier2	UCSD CMS Glideins	UCSD_glidein_glidein_2	glidein-2.t2.ucsd.edu	\N	\N
+UCSD CMS Tier2	UCSD CMS Glideins	UCSD_glidein_submit_2	submit-2.t2.ucsd.edu	\N	\N
+UCSD CMS Tier2	UCSD CMS Glideins	UCSD_glidein_submit_3	submit-3.t2.ucsd.edu	\N	\N
+UCSD CMS Tier2	UCSD CMS Glideins	UCSD_glidein_submit_4	submit-4.t2.ucsd.edu	\N	\N
+UCSD CMS Tier2	UCSDT2	UCSD_GlideinWMS_Submit_1	glidein-2.t2.ucsd.edu	\N	\N
+UCSD CMS Tier2	UCSDT2	UCSD_GlideinWMS_Submit_2	submit-2.t2.ucsd.edu	\N	\N
+UCSD CMS Tier2	UCSDT2	UCSD_GlideinWMS_Submit_3	submit-1.t2.ucsd.edu	\N	\N
+UCSD CMS Tier2	UCSDT2	UCSDCMST2-2-squid	cvmfs-2.t2.ucsd.edu	\N	\N
+UCSD CMS Tier2	UCSDT2	UCSDCMST2-squid	cvmfs-1.t2.ucsd.edu	\N	\N
+UCSD OSG	Submitters	UCSDGrid-CTBP-Frontend	osg.ctbp.ucsd.edu	\N	\N
 UCSD CMS Tier2	UCSDT2	UCSDT2	osg-gw-2.t2.ucsd.edu	13.24	T2_US_UCSD
 UCSD CMS Tier2	UCSDT2	UCSDT2-B	osg-gw-4.t2.ucsd.edu	0	T2_US_UCSD
 UCSD CMS Tier2	UCSDT2	UCSDT2-C	osg-gw-6.t2.ucsd.edu	0	T2_US_UCSD
 UCSD CMS Tier2	UCSDT2	UCSDT2-D	osg-gw-7.t2.ucsd.edu	0	T2_US_UCSD
-UCSD CMS Tier2	UCSDT2-ITB	UCSDT2-ITB1	osg-gw-3.t2.ucsd.edu	0	NULL
-UCSD CMS Tier2	UCSDT2-ITB	UCSDT2-ITB2	osg-gw-5.t2.ucsd.edu	NULL	NULL
+UCSD CMS Tier2	UCSDT2-ITB	UCSDT2-ITB1	osg-gw-3.t2.ucsd.edu	0	\N
+UCSD CMS Tier2	UCSDT2-ITB	UCSDT2-ITB2	osg-gw-5.t2.ucsd.edu	\N	\N
 UCSD CMS Tier2	UCSDT2	UCSDT2-SE	tbsrm-1.t2.ucsd.edu	0	T2_US_UCSD
 UCSD CMS Tier2	UCSDT2	UCSDT2-SE2	bsrm-1.t2.ucsd.edu	0	T2_US_UCSD
 UCSD CMS Tier2	UCSDT2	UCSDT2-SE3	bsrm-3.t2.ucsd.edu	0	T2_US_UCSD
 T2_BR_UERJ	UERJ	UERJ_CE	osgce.hepgrid.uerj.br	10.486	T2-LATINAMERICA
-T2_BR_UERJ	UERJ	UERJ_CE_2	osgce2.hepgrid.uerj.br	NULL	NULL
+T2_BR_UERJ	UERJ	UERJ_CE_2	osgce2.hepgrid.uerj.br	\N	\N
 T2_BR_UERJ	UERJ	UERJ_SE	se.hepgrid.uerj.br	0	T2_BR_UERJ
-UF HPC	UFlorida-HPC	UFlorida_squid	squid.ihepa.ufl.edu	NULL	NULL
-UF HPC	UFlorida-HPC	UFlorida_squid2	squid2.ihepa.ufl.edu	NULL	NULL
+UF HPC	UFlorida-HPC	UFlorida_squid	squid.ihepa.ufl.edu	\N	\N
+UF HPC	UFlorida-HPC	UFlorida_squid2	squid2.ihepa.ufl.edu	\N	\N
 UF HPC	UFlorida-HPC	UFlorida-CMS	cms.rc.ufl.edu	10.94	T2_US_Florida
 UF HPC	UFlorida-HPC	UFlorida-HPC	osg.rc.ufl.edu	10.94	T2_US_Florida
 UF CMS Tier2	UFlorida-IHEPA	UFlorida-IHEPA	hg.ihepa.ufl.edu	0	T2_US_Florida
-UF CMS Tier2	UFlorida-PG	UFlorida-PG	pg.ihepa.ufl.edu	NULL	NULL
+UF CMS Tier2	UFlorida-PG	UFlorida-PG	pg.ihepa.ufl.edu	\N	\N
 UF CMS Tier2	UFlorida-PG	UFlorida-SE	srm.ihepa.ufl.edu	0	T2_US_Florida
-UF CMS Tier2	UFlorida-PG	UFlorida-SEb	srm1.ihepa.ufl.edu	NULL	NULL
+UF CMS Tier2	UFlorida-PG	UFlorida-SEb	srm1.ihepa.ufl.edu	\N	\N
 UF HPC	UFlorida-SSERCA	UFlorida-SSERCA	ce.hpc.ufl.edu	0	T2_US_Florida
-UGA Research Computing Center	UGA_SGrid	UGA_Sgrid_CE	scluster.rcc.uga.edu	NULL	NULL
-UGA Research Computing Center	UGA_SGrid	UGA_Sgrid_Test_CE	sgrid-test.rcc.uga.edu	NULL	NULL
-UIC Physics	UIC_PHYSICS	UIC_PHYSICS	mstr1.cluster.phy.uic.edu	NULL	NULL
-GROW	UIOWA-OSG-PROD	UIOWA-OSG-PROD	rtgrid1.its.uiowa.edu	NULL	NULL
-UJ Research Cluster	UJ-OSG	UJ-OSG	osg-ce.grid.uj.ac.za	NULL	NULL
-UMD-CMS	umd-cms	UMD_GUMS	hepcms-1.umd.edu	NULL	NULL
-UMD-CMS	umd-cms	umd-cms	hepcms-0.umd.edu	0	NULL
-UMD-IGS	UMD-IGS	UMD-IGS-CE	osg-devel.igs.umaryland.edu	NULL	NULL
-UMissHEP	UMissHEP	UMissHEP	umiss001.hep.olemiss.edu	0	NULL
-UMissHEP	UMissHEP	UMissHEP_SE	umiss005.hep.olemiss.edu	0	NULL
-School of Physics and Astronomy	UMN-CMS	UMN-CMS-CE	gc1-ce.spa.umn.edu	0	NULL
-School of Physics and Astronomy	UMN-CMS	UMN-CMS-SE	gc1-se.spa.umn.edu	0	NULL
-UMSNH	umsnh-ce	umsnh_ce_se	higgs.cms.umich.mx	NULL	NULL
-GROW-UNI	UNI-OSGEDU	UNI-OSGEDU	grow.cs.uni.edu	NULL	NULL
-UNM HPC	UNM_HPC	UNM_HPC	m3.alliance.unm.edu	NULL	NULL
-Penn ATLAS Tier 3	PennT3	UPENN-T3-SE	srm.hep.upenn.edu	0	NULL
-UPittTier3	UPittTier3	UPittTier3_gridftp	atlas-gridftp.phyast.pitt.edu	0	NULL
-UPRM_HEP	uprm-cms	uprm-cms-ce	cms-grid0.hep.uprm.edu	0	NULL
-UPRM_HEP	uprm-cms	uprm-cms-gums	cms-squid0.hep.uprm.edu	NULL	NULL
-UPRM_HEP	uprm-cms	uprm-cms-se	cms-se.hep.uprm.edu	0	NULL
-AGLT2	AGLT2	US-AGLT2_MSU BW	psmsu02.aglt2.org	NULL	NULL
-AGLT2	AGLT2_TEST	US-AGLT2_MSU BW(TB)	psmsu06.aglt2.org	NULL	NULL
-AGLT2	AGLT2	US-AGLT2_MSU LAT	psmsu01.aglt2.org	NULL	NULL
-AGLT2	AGLT2_TEST	US-AGLT2_MSU LAT(TB)	psmsu05.aglt2.org	NULL	NULL
-AGLT2	AGLT2	US-AGLT2_UM BW	psum02.aglt2.org	NULL	NULL
-AGLT2	AGLT2_TEST	US-AGLT2_UM BW(TB)	psum06.aglt2.org	NULL	NULL
-AGLT2	AGLT2	US-AGLT2_UM LAT	psum01.aglt2.org	NULL	NULL
-AGLT2	AGLT2_TEST	US-AGLT2_UM LAT(TB)	psum05.aglt2.org	NULL	NULL
-FNAL USCMS Tier1	USCMS-FNAL-WC1	US-FNAL BW	psonar3.fnal.gov	NULL	NULL
-FNAL USCMS Tier1	USCMS-FNAL-WC1	US-FNAL LT	psonar4.fnal.gov	NULL	NULL
-MWT2 ATLAS UC	MWT2	US-MWT2_IU BW	iut2-net2.iu.edu	NULL	NULL
-MWT2 ATLAS UC	MWT2	US-MWT2_IU BW(TB)	iut2-net4.iu.edu	NULL	NULL
-MWT2 ATLAS UC	MWT2	US-MWT2_IU BW2	iut2-net6.iu.edu	NULL	NULL
-MWT2 ATLAS UC	MWT2	US-MWT2_IU BW3	iut2-net8.iu.edu	NULL	NULL
-MWT2 ATLAS UC	MWT2	US-MWT2_IU LAT	iut2-net1.iu.edu	NULL	NULL
-MWT2 ATLAS UC	MWT2	US-MWT2_IU LAT(TB)	iut2-net3.iu.edu	NULL	NULL
-MWT2 ATLAS UC	MWT2	US-MWT2_IU LAT2	iut2-net5.iu.edu	NULL	NULL
-MWT2 ATLAS UC	MWT2	US-MWT2_IU LAT3	iut2-net7.iu.edu	NULL	NULL
-MWT2 ATLAS UC	MWT2	US-MWT2_UC BW	uct2-net2.mwt2.org	NULL	NULL
-MWT2 ATLAS UC	MWT2	US-MWT2_UC BW(TB)	uct2-net4.mwt2.org	NULL	NULL
-MWT2 ATLAS UC	MWT2	US-MWT2_UC LAT	uct2-net1.mwt2.org	NULL	NULL
-MWT2 ATLAS UC	MWT2	US-MWT2_UC LAT(TB)	uct2-net3.mwt2.org	NULL	NULL
-MWT2 ATLAS UC	MWT2	US-MWT2_UIUC BW	mwt2-ps02.campuscluster.illinois.edu	NULL	NULL
-MWT2 ATLAS UC	MWT2	US-MWT2_UIUC LAT	mwt2-ps01.campuscluster.illinois.edu	NULL	NULL
-Nebraska-CMS	Nebraska	US-Nebraska BW	hcc-ps02.unl.edu	NULL	NULL
-Nebraska-CMS	Nebraska	US-Nebraska BW (Test)	perfsonar.unl.edu	NULL	NULL
-Nebraska-CMS	Nebraska	US-Nebraska Disabled	hcc-ps02.unl.edu	NULL	NULL
-Nebraska-CMS	Nebraska	US-Nebraska LT	hcc-ps01.unl.edu	NULL	NULL
-Nebraska-CMS	Nebraska	US-Nebraska LT (Test)	perfsonar.unl.edu	NULL	NULL
-PNNL_DC	PNNL_BelleII	US-PNNL BW	ps-bandwidth.hep.pnnl.gov	NULL	NULL
-PNNL_DC	PNNL_BelleII	US-PNNL LT	ps-latency.hep.pnnl.gov	NULL	NULL
+UGA Research Computing Center	UGA_SGrid	UGA_Sgrid_CE	scluster.rcc.uga.edu	\N	\N
+UGA Research Computing Center	UGA_SGrid	UGA_Sgrid_Test_CE	sgrid-test.rcc.uga.edu	\N	\N
+UIC Physics	UIC_PHYSICS	UIC_PHYSICS	mstr1.cluster.phy.uic.edu	\N	\N
+GROW	UIOWA-OSG-PROD	UIOWA-OSG-PROD	rtgrid1.its.uiowa.edu	\N	\N
+UJ Research Cluster	UJ-OSG	UJ-OSG	osg-ce.grid.uj.ac.za	\N	\N
+UMD-CMS	umd-cms	UMD_GUMS	hepcms-1.umd.edu	\N	\N
+UMD-CMS	umd-cms	umd-cms	hepcms-0.umd.edu	0	\N
+UMD-IGS	UMD-IGS	UMD-IGS-CE	osg-devel.igs.umaryland.edu	\N	\N
+UMissHEP	UMissHEP	UMissHEP	umiss001.hep.olemiss.edu	0	\N
+UMissHEP	UMissHEP	UMissHEP_SE	umiss005.hep.olemiss.edu	0	\N
+School of Physics and Astronomy	UMN-CMS	UMN-CMS-CE	gc1-ce.spa.umn.edu	0	\N
+School of Physics and Astronomy	UMN-CMS	UMN-CMS-SE	gc1-se.spa.umn.edu	0	\N
+UMSNH	umsnh-ce	umsnh_ce_se	higgs.cms.umich.mx	\N	\N
+GROW-UNI	UNI-OSGEDU	UNI-OSGEDU	grow.cs.uni.edu	\N	\N
+UNM HPC	UNM_HPC	UNM_HPC	m3.alliance.unm.edu	\N	\N
+Penn ATLAS Tier 3	PennT3	UPENN-T3-SE	srm.hep.upenn.edu	0	\N
+UPittTier3	UPittTier3	UPittTier3_gridftp	atlas-gridftp.phyast.pitt.edu	0	\N
+UPRM_HEP	uprm-cms	uprm-cms-ce	cms-grid0.hep.uprm.edu	0	\N
+UPRM_HEP	uprm-cms	uprm-cms-gums	cms-squid0.hep.uprm.edu	\N	\N
+UPRM_HEP	uprm-cms	uprm-cms-se	cms-se.hep.uprm.edu	0	\N
+AGLT2	AGLT2	US-AGLT2_MSU BW	psmsu02.aglt2.org	\N	\N
+AGLT2	AGLT2_TEST	US-AGLT2_MSU BW(TB)	psmsu06.aglt2.org	\N	\N
+AGLT2	AGLT2	US-AGLT2_MSU LAT	psmsu01.aglt2.org	\N	\N
+AGLT2	AGLT2_TEST	US-AGLT2_MSU LAT(TB)	psmsu05.aglt2.org	\N	\N
+AGLT2	AGLT2	US-AGLT2_UM BW	psum02.aglt2.org	\N	\N
+AGLT2	AGLT2_TEST	US-AGLT2_UM BW(TB)	psum06.aglt2.org	\N	\N
+AGLT2	AGLT2	US-AGLT2_UM LAT	psum01.aglt2.org	\N	\N
+AGLT2	AGLT2_TEST	US-AGLT2_UM LAT(TB)	psum05.aglt2.org	\N	\N
+FNAL USCMS Tier1	USCMS-FNAL-WC1	US-FNAL BW	psonar3.fnal.gov	\N	\N
+FNAL USCMS Tier1	USCMS-FNAL-WC1	US-FNAL LT	psonar4.fnal.gov	\N	\N
+MWT2 ATLAS UC	MWT2	US-MWT2_IU BW	iut2-net2.iu.edu	\N	\N
+MWT2 ATLAS UC	MWT2	US-MWT2_IU BW(TB)	iut2-net4.iu.edu	\N	\N
+MWT2 ATLAS UC	MWT2	US-MWT2_IU BW2	iut2-net6.iu.edu	\N	\N
+MWT2 ATLAS UC	MWT2	US-MWT2_IU BW3	iut2-net8.iu.edu	\N	\N
+MWT2 ATLAS UC	MWT2	US-MWT2_IU LAT	iut2-net1.iu.edu	\N	\N
+MWT2 ATLAS UC	MWT2	US-MWT2_IU LAT(TB)	iut2-net3.iu.edu	\N	\N
+MWT2 ATLAS UC	MWT2	US-MWT2_IU LAT2	iut2-net5.iu.edu	\N	\N
+MWT2 ATLAS UC	MWT2	US-MWT2_IU LAT3	iut2-net7.iu.edu	\N	\N
+MWT2 ATLAS UC	MWT2	US-MWT2_UC BW	uct2-net2.mwt2.org	\N	\N
+MWT2 ATLAS UC	MWT2	US-MWT2_UC BW(TB)	uct2-net4.mwt2.org	\N	\N
+MWT2 ATLAS UC	MWT2	US-MWT2_UC LAT	uct2-net1.mwt2.org	\N	\N
+MWT2 ATLAS UC	MWT2	US-MWT2_UC LAT(TB)	uct2-net3.mwt2.org	\N	\N
+MWT2 ATLAS UC	MWT2	US-MWT2_UIUC BW	mwt2-ps02.campuscluster.illinois.edu	\N	\N
+MWT2 ATLAS UC	MWT2	US-MWT2_UIUC LAT	mwt2-ps01.campuscluster.illinois.edu	\N	\N
+Nebraska-CMS	Nebraska	US-Nebraska BW	hcc-ps02.unl.edu	\N	\N
+Nebraska-CMS	Nebraska	US-Nebraska BW (Test)	perfsonar.unl.edu	\N	\N
+Nebraska-CMS	Nebraska	US-Nebraska Disabled	hcc-ps02.unl.edu	\N	\N
+Nebraska-CMS	Nebraska	US-Nebraska LT	hcc-ps01.unl.edu	\N	\N
+Nebraska-CMS	Nebraska	US-Nebraska LT (Test)	perfsonar.unl.edu	\N	\N
+PNNL_DC	PNNL_BelleII	US-PNNL BW	ps-bandwidth.hep.pnnl.gov	\N	\N
+PNNL_DC	PNNL_BelleII	US-PNNL LT	ps-latency.hep.pnnl.gov	\N	\N
 Purdue CMS	Purdue-Hadoop	US-Purdue BW	perfsonar-cms2.itns.purdue.edu	0	T2_US_Purdue
 Purdue CMS	Purdue-Hadoop	US-Purdue LT	perfsonar-cms1.itns.purdue.edu	0	T2_US_Purdue
-UCSD CMS Tier2	UCSDT2	US-UCSD BW	perfsonar-1.t2.ucsd.edu	NULL	NULL
-UCSD CMS Tier2	UCSDT2	US-UCSD LT	perfsonar-2.t2.ucsd.edu	NULL	NULL
-Vanderbilt ACCRE	Vanderbilt	US-Vanderbilt BW	perfsonar-bwctl.accre.vanderbilt.edu	NULL	NULL
-Vanderbilt ACCRE	Vanderbilt	US-Vanderbilt LT	perfsonar-owamp.accre.vanderbilt.edu	NULL	NULL
-GLOW	GLOW	US-Wisconsin BW	perfsonar02.hep.wisc.edu	NULL	NULL
-GLOW	GLOW	US-Wisconsin LT	perfsonar01.hep.wisc.edu	NULL	NULL
-FNAL USCMS Tier1	USCMS-FNAL-ITB	USCMS-FNAL-ITB	cms-xen13.fnal.gov	0	NULL
-FNAL USCMS Tier1	USCMS-FNAL-ITB	USCMS-FNAL-ITB2	cms-xen15.fnal.gov	0	NULL
+UCSD CMS Tier2	UCSDT2	US-UCSD BW	perfsonar-1.t2.ucsd.edu	\N	\N
+UCSD CMS Tier2	UCSDT2	US-UCSD LT	perfsonar-2.t2.ucsd.edu	\N	\N
+Vanderbilt ACCRE	Vanderbilt	US-Vanderbilt BW	perfsonar-bwctl.accre.vanderbilt.edu	\N	\N
+Vanderbilt ACCRE	Vanderbilt	US-Vanderbilt LT	perfsonar-owamp.accre.vanderbilt.edu	\N	\N
+GLOW	GLOW	US-Wisconsin BW	perfsonar02.hep.wisc.edu	\N	\N
+GLOW	GLOW	US-Wisconsin LT	perfsonar01.hep.wisc.edu	\N	\N
+FNAL USCMS Tier1	USCMS-FNAL-ITB	USCMS-FNAL-ITB	cms-xen13.fnal.gov	0	\N
+FNAL USCMS Tier1	USCMS-FNAL-ITB	USCMS-FNAL-ITB2	cms-xen15.fnal.gov	0	\N
 FNAL USCMS Tier1	USCMS-FNAL-WC1	USCMS-FNAL-WC1-CE	cmsosgce.fnal.gov	11.44	USCMS-FNAL-WC1-CE
 FNAL USCMS Tier1	USCMS-FNAL-WC1	USCMS-FNAL-WC1-CE2	cmsosgce2.fnal.gov	11.44	USCMS-FNAL-WC1-CE
 FNAL USCMS Tier1	USCMS-FNAL-WC1	USCMS-FNAL-WC1-CE3	cmsosgce3.fnal.gov	11.44	USCMS-FNAL-WC1-CE
 FNAL USCMS Tier1	USCMS-FNAL-WC1	USCMS-FNAL-WC1-CE4	cmsosgce4.fnal.gov	11.44	USCMS-FNAL-WC1-CE
-FNAL USCMS Tier1	USCMS-FNAL-WC1	USCMS-FNAL-WC1-glideinWMS-submit-cmssrv98	cmssrv98	NULL	NULL
+FNAL USCMS Tier1	USCMS-FNAL-WC1	USCMS-FNAL-WC1-glideinWMS-submit-cmssrv98	cmssrv98	\N	\N
 FNAL USCMS Tier1	USCMS-FNAL-WC1	USCMS-FNAL-WC1-SE	cmssrm.fnal.gov	0	USCMS-FNAL-WC1-CE
-USCMS-FNAL-XEN	USCMS-FNAL-XEN	USCMS-FNAL-XEN	cms-xen19.fnal.gov	0	NULL
-USP - LCCA	USP-LCCA	USP-LCCA-CE-test	osg-ce.lcca.usp.br	NULL	NULL
-USP - LCCA	USP-LCCA	USP-LCCA-GUMS-test	osg-gums.lcca.usp.br	NULL	NULL
-USP - LCCA	USP-LCCA	USP-LCCA-SE-test	osg-se.lcca.usp.br	NULL	NULL
-UTA ATLAS	UTA_DPCC	UTA_DPCC	atlas.dpcc.uta.edu	NULL	NULL
+USCMS-FNAL-XEN	USCMS-FNAL-XEN	USCMS-FNAL-XEN	cms-xen19.fnal.gov	0	\N
+USP - LCCA	USP-LCCA	USP-LCCA-CE-test	osg-ce.lcca.usp.br	\N	\N
+USP - LCCA	USP-LCCA	USP-LCCA-GUMS-test	osg-gums.lcca.usp.br	\N	\N
+USP - LCCA	USP-LCCA	USP-LCCA-SE-test	osg-se.lcca.usp.br	\N	\N
+UTA ATLAS	UTA_DPCC	UTA_DPCC	atlas.dpcc.uta.edu	\N	\N
 SWT2 ATLAS UTA	UTA_SWT2	UTA_SWT2	gk04.swt2.uta.edu	9.67	US-SWT2
-SWT2 ATLAS UTA	UTA_SWT2	UTA_SWT2_perfSONAR_bandwidth	psuta02.atlas-swt2.org	NULL	NULL
-SWT2 ATLAS UTA	UTA_SWT2	UTA_SWT2_perfSONAR_latency	psuta01.atlas-swt2.org	NULL	NULL
-SWT2 ATLAS UTA	UTA_SWT2	UTA_SWT2_SE	gk05.swt2.uta.edu	0	NULL
-SWT2 ATLAS UTA	UTA_SWT2	UTA_SWT2_TEST1	gk06.swt2.uta.edu	0	NULL
-UTD-HEP	UTD-HEP	UTD-HEP	gomez.utdallas.edu	0	NULL
-UTD-HEP	UTD-HEP	UTD-HEP-SE	fester.utdallas.edu	NULL	NULL
-UTD-HEP	UTD-HEP	UTD-HEP2	gomez.utdallas.edu	0	NULL
-uva-cms	uva-cms-se	uva-cms-se	osg-hep.phys.virginia.edu	NULL	NULL
-UVA CS	UVA-sunfire	UVA-sunfire	sunfire1.cs.virginia.edu	NULL	NULL
-UW Milwaukee Physics	UWMilwaukee	UWMilwaukee	nest.phys.uwm.edu	NULL	NULL
+SWT2 ATLAS UTA	UTA_SWT2	UTA_SWT2_perfSONAR_bandwidth	psuta02.atlas-swt2.org	\N	\N
+SWT2 ATLAS UTA	UTA_SWT2	UTA_SWT2_perfSONAR_latency	psuta01.atlas-swt2.org	\N	\N
+SWT2 ATLAS UTA	UTA_SWT2	UTA_SWT2_SE	gk05.swt2.uta.edu	0	\N
+SWT2 ATLAS UTA	UTA_SWT2	UTA_SWT2_TEST1	gk06.swt2.uta.edu	0	\N
+UTD-HEP	UTD-HEP	UTD-HEP	gomez.utdallas.edu	0	\N
+UTD-HEP	UTD-HEP	UTD-HEP-SE	fester.utdallas.edu	\N	\N
+UTD-HEP	UTD-HEP	UTD-HEP2	gomez.utdallas.edu	0	\N
+uva-cms	uva-cms-se	uva-cms-se	osg-hep.phys.virginia.edu	\N	\N
+UVA CS	UVA-sunfire	UVA-sunfire	sunfire1.cs.virginia.edu	\N	\N
+UW Milwaukee Physics	UWMilwaukee	UWMilwaukee	nest.phys.uwm.edu	\N	\N
 Vanderbilt ACCRE	Vanderbilt	Vanderbilt_CE1	ce1.accre.vanderbilt.edu	0	T2_US_Vanderbilt
 Vanderbilt ACCRE	Vanderbilt	Vanderbilt_CE2	ce2.accre.vanderbilt.edu	0	T2_US_Vanderbilt
-Vanderbilt ACCRE	Vanderbilt	Vanderbilt_Dev_SE	se3.accre.vanderbilt.edu	0	NULL
+Vanderbilt ACCRE	Vanderbilt	Vanderbilt_Dev_SE	se3.accre.vanderbilt.edu	0	\N
 Vanderbilt_EC2	Vanderbilt_EC2	Vanderbilt_EC2_CE	se2.accre.vanderbilt.edu	0	T3_US_Vanderbilt_EC2
 Vanderbilt_EC2	Vanderbilt_EC2	Vanderbilt_EC2_SE	se2.accre.vanderbilt.edu	0	T3_US_Vanderbilt_EC2
-Vanderbilt ACCRE	Vanderbilt-ITB	Vanderbilt_ITB_CE	testce1.accre.vanderbilt.edu	NULL	NULL
-Vanderbilt ACCRE	Vanderbilt-ITB	Vanderbilt_ITB_SE	testse1.accre.vanderbilt.edu	NULL	NULL
-Vanderbilt ACCRE	Vanderbilt	Vanderbilt_Perfsonar_BW	perfsonar-bwctl.accre.vanderbilt.edu	NULL	NULL
-Vanderbilt ACCRE	Vanderbilt	Vanderbilt_Perfsonar_Latency	perfsonar-owamp.accre.vanderbilt.edu	NULL	NULL
+Vanderbilt ACCRE	Vanderbilt-ITB	Vanderbilt_ITB_CE	testce1.accre.vanderbilt.edu	\N	\N
+Vanderbilt ACCRE	Vanderbilt-ITB	Vanderbilt_ITB_SE	testse1.accre.vanderbilt.edu	\N	\N
+Vanderbilt ACCRE	Vanderbilt	Vanderbilt_Perfsonar_BW	perfsonar-bwctl.accre.vanderbilt.edu	\N	\N
+Vanderbilt ACCRE	Vanderbilt	Vanderbilt_Perfsonar_Latency	perfsonar-owamp.accre.vanderbilt.edu	\N	\N
 Vanderbilt ACCRE	Vanderbilt	Vanderbilt_SE	se1.accre.vanderbilt.edu	0	T2_US_Vanderbilt
-Vanderbilt ACCRE	Vanderbilt	Vanderbilt_Squid	fs1.accre.vanderbilt.edu	NULL	NULL
-Virginia Bioinformatics Institute	NDSSL	VBI_OSG_Submit1	submit1.bioinformatics.vt.edu	NULL	NULL
-GLOW EDU	VDT-ITB	VDT-ITB	vdt-itb.cs.wisc.edu	NULL	NULL
-GLOW EDU	VDT-ITB	VDT-ITB-MADISON	itb-ce1.chtc.wisc.edu	NULL	NULL
-GOC Staff VM	VJNEAL-GOC	VJNEAL_CE	vjneal.grid.iu.edu	NULL	NULL
-VT_OSG	VT_OSG	VT_OSG	valiant.phys.vt.edu	0	NULL
-GLOW ATLAS	WISC-ATLAS	WISC_ATLAS_1	c091.chtc.wisc.edu	0	NULL
-GLOW ATLAS	WISC-ATLAS	WISC-ATLAS	higgs08.cs.wisc.edu	0	NULL
-GLOW ATLAS	WISC-ATLAS	WISC-ATLAS-SE	atlas07.cs.wisc.edu	0	NULL
-GLOW ATLAS	WISC-ATLAS	WISC-ATLAS-SE1	c140.chtc.wisc.edu	0	NULL
-GLOW EDU	WISC-OSG-EDU	WISC-OSG-EDU	osg-edu.cs.wisc.edu	NULL	NULL
-GLOW EDU	WISC-OSG-EDU	WISC-OSG-EDU-2	osg-ss-ce.chtc.wisc.edu	NULL	NULL
-Harvard SBGRID	WQCG-Harvard-OSG	WQCG-Harvard-OSG	tuscany.med.harvard.edu	NULL	NULL
+Vanderbilt ACCRE	Vanderbilt	Vanderbilt_Squid	fs1.accre.vanderbilt.edu	\N	\N
+Virginia Bioinformatics Institute	NDSSL	VBI_OSG_Submit1	submit1.bioinformatics.vt.edu	\N	\N
+GLOW EDU	VDT-ITB	VDT-ITB	vdt-itb.cs.wisc.edu	\N	\N
+GLOW EDU	VDT-ITB	VDT-ITB-MADISON	itb-ce1.chtc.wisc.edu	\N	\N
+GOC Staff VM	VJNEAL-GOC	VJNEAL_CE	vjneal.grid.iu.edu	\N	\N
+VT_OSG	VT_OSG	VT_OSG	valiant.phys.vt.edu	0	\N
+GLOW ATLAS	WISC-ATLAS	WISC_ATLAS_1	c091.chtc.wisc.edu	0	\N
+GLOW ATLAS	WISC-ATLAS	WISC-ATLAS	higgs08.cs.wisc.edu	0	\N
+GLOW ATLAS	WISC-ATLAS	WISC-ATLAS-SE	atlas07.cs.wisc.edu	0	\N
+GLOW ATLAS	WISC-ATLAS	WISC-ATLAS-SE1	c140.chtc.wisc.edu	0	\N
+GLOW EDU	WISC-OSG-EDU	WISC-OSG-EDU	osg-edu.cs.wisc.edu	\N	\N
+GLOW EDU	WISC-OSG-EDU	WISC-OSG-EDU-2	osg-ss-ce.chtc.wisc.edu	\N	\N
+Harvard SBGRID	WQCG-Harvard-OSG	WQCG-Harvard-OSG	tuscany.med.harvard.edu	\N	\N
 SLAC	WT2	WT2	osgserv01.slac.stanford.edu	11.06	US-WT2
-SLAC	WT2	WT2_CE_2	osgserv06.slac.stanford.edu	NULL	NULL
+SLAC	WT2	WT2_CE_2	osgserv06.slac.stanford.edu	\N	\N
 SLAC	WT2	WT2_SE	osgserv04.slac.stanford.edu	0	US-WT2
-SLAC	WT2	WT2_SE_2	osgsrm01.slac.stanford.edu	0	NULL
-IU UITS	OSG_XD	XD-Login	xd-login.opensciencegrid.org	NULL	NULL
+SLAC	WT2	WT2_SE_2	osgsrm01.slac.stanford.edu	0	\N
+IU UITS	OSG_XD	XD-Login	xd-login.opensciencegrid.org	\N	\N
