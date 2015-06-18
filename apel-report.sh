@@ -13,6 +13,11 @@ if [[ $1 = -t ]]; then
   mkdir -p tmp send
 fi
 
+mysql () {
+  echo "::: running mysql $*" >> mysql.log
+  /usr/bin/mysql "$@"
+}
+
 function res_rg() {
 nlimit=2
 rg="NULL"
