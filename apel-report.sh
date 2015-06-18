@@ -15,7 +15,7 @@ fi
 
 mysql () {
   echo "::: running mysql $*" >> mysql.log
-  /usr/bin/mysql "$@"
+  tee >(sed 's/^/\t/' >> mysql.log) | /usr/bin/mysql "$@"
 }
 
 function res_rg() {
