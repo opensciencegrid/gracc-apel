@@ -11,8 +11,8 @@ Processors: 1
 NodeCount: 1
 WallDuration: 167593
 CpuDuration: 3470
-NormalisedWallDuration: 1620624
-NormalisedCpuDuration: 33554
+NormalisedWallDuration: 1617272
+NormalisedCpuDuration: 33485
 NumberOfJobs: 2412
 %%
 Site: BNL-ATLAS
@@ -123,7 +123,7 @@ Processors: 1
 NodeCount: 1
 WallDuration: 5708
 CpuDuration: 0
-NormalisedWallDuration: 55196
+NormalisedWallDuration: 55132
 NormalisedCpuDuration: 0
 NumberOfJobs: 10353
 %%
@@ -139,8 +139,8 @@ Processors: 1
 NodeCount: 1
 WallDuration: 999777765
 CpuDuration: 850385169
-NormalisedWallDuration: 9667850987
-NormalisedCpuDuration: 8223224584
+NormalisedWallDuration: 9647855432
+NormalisedCpuDuration: 8206216880
 NumberOfJobs: 47782
 %%
 Site: BNL-ATLAS
@@ -459,8 +459,8 @@ Processors: 1
 NodeCount: 1
 WallDuration: 2635246353
 CpuDuration: 2155587054
-NormalisedWallDuration: 25482832233
-NormalisedCpuDuration: 20844526812
+NormalisedWallDuration: 25430127306
+NormalisedCpuDuration: 20801415071
 NumberOfJobs: 135453
 %%
 Site: BNL-ATLAS
@@ -683,7 +683,7 @@ Processors: 1
 NodeCount: 1
 WallDuration: 99
 CpuDuration: 1
-NormalisedWallDuration: 957
+NormalisedWallDuration: 955
 NormalisedCpuDuration: 9
 NumberOfJobs: 90
 %%
@@ -923,8 +923,8 @@ Processors: 1
 NodeCount: 1
 WallDuration: 1830243
 CpuDuration: 3
-NormalisedWallDuration: 17698449
-NormalisedCpuDuration: 29
+NormalisedWallDuration: 17661844
+NormalisedCpuDuration: 28
 NumberOfJobs: 1275
 %%
 Site: AGLT2
@@ -939,7 +939,7 @@ Processors: 1
 NodeCount: 1
 WallDuration: 258
 CpuDuration: 4
-NormalisedWallDuration: 2494
+NormalisedWallDuration: 2489
 NormalisedCpuDuration: 38
 NumberOfJobs: 1
 %%
@@ -971,8 +971,8 @@ Processors: 1
 NodeCount: 1
 WallDuration: 8971
 CpuDuration: 576
-NormalisedWallDuration: 86749
-NormalisedCpuDuration: 5569
+NormalisedWallDuration: 86570
+NormalisedCpuDuration: 5558
 NumberOfJobs: 27
 %%
 Site: OUHEP_OSG
@@ -1035,8 +1035,8 @@ Processors: 1
 NodeCount: 1
 WallDuration: 421625
 CpuDuration: 56923
-NormalisedWallDuration: 4077113
-NormalisedCpuDuration: 550445
+NormalisedWallDuration: 4068681
+NormalisedCpuDuration: 549306
 NumberOfJobs: 116
 %%
 Site: WT2
@@ -1067,8 +1067,8 @@ Processors: 1
 NodeCount: 1
 WallDuration: 3121
 CpuDuration: 1045
-NormalisedWallDuration: 30180
-NormalisedCpuDuration: 10105
+NormalisedWallDuration: 30117
+NormalisedCpuDuration: 10084
 NumberOfJobs: 1
 %%
 Site: AGLT2
@@ -1115,8 +1115,8 @@ Processors: 1
 NodeCount: 1
 WallDuration: 29319
 CpuDuration: 29494
-NormalisedWallDuration: 283514
-NormalisedCpuDuration: 285206
+NormalisedWallDuration: 282928
+NormalisedCpuDuration: 284617
 NumberOfJobs: 1
 %%
 Site: GLOW
@@ -3183,22 +3183,6 @@ NormalisedWallDuration: 12132
 NormalisedCpuDuration: 0
 NumberOfJobs: 39
 %%
-Site: None
-VO: enmr.eu
-EarliestEndTime: 1430438400
-LatestEndTime: 1430524800
-Month: 05
-Year: 2015
-Infrastructure: Gratia-OSG
-GlobalUserName: /C=IT/O=INFN/OU=Robot/L=CIRMMP/CN=Robot: TK - Andrea Giachetti
-Processors: 1
-NodeCount: 1
-WallDuration: 67
-CpuDuration: 0
-NormalisedWallDuration: 804
-NormalisedCpuDuration: 0
-NumberOfJobs: 38
-%%
 Site: FNAL_GPGRID_1
 VO: enmr.eu
 EarliestEndTime: 1432252800
@@ -3371,8 +3355,8 @@ Processors: 8
 NodeCount: 1
 WallDuration: 5054987304
 CpuDuration: 4497091501
-NormalisedWallDuration: 48881727229
-NormalisedCpuDuration: 43486874814
+NormalisedWallDuration: 48780627483
+NormalisedCpuDuration: 43396932984
 NumberOfJobs: 58039
 %%
 Site: BNL-ATLAS
@@ -3515,8 +3499,8 @@ Processors: 8
 NodeCount: 1
 WallDuration: 1562473944
 CpuDuration: 1381478511
-NormalisedWallDuration: 15109123038
-NormalisedCpuDuration: 13358897201
+NormalisedWallDuration: 15077873559
+NormalisedCpuDuration: 13331267631
 NumberOfJobs: 18289
 %%
 Site: BNL-ATLAS
