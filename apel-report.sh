@@ -127,7 +127,7 @@ for cores in $coreslist ; do
        now=`date`
        echo "$now : Found $nusers users">>$logdir/multicore.log
 
-       for user_index in `seq 0 $nusers` ; do
+       for user_index in `seq 0 $((nusers-1))` ; do
 
            now=`date`
            echo "$now : Getting user list">>$logdir/multicore.log
@@ -143,12 +143,13 @@ for cores in $coreslist ; do
               limit $user_index,1;
            " | mysql --defaults-extra-file=$loc/qqq | tail -n +2`
 
+## escape user dn, which can contain apostrophies...
+           user_esc=${user//"'"/"''"}
+
            if [ -z "$user" ] ; then
 ## emplty user name, account as "generic"
                user="generic $vo user"
            fi
-## escape user dn, which can contain apostrophies...
-           user_esc=${user//"'"/"''"}
 ## find all resources used by this user
            now=`date`
            echo "$now : Getting resource list for user $user">>$logdir/multicore.log
