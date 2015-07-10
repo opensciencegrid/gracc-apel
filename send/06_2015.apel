@@ -1,0 +1,4513 @@
+APEL-summary-job-message: v0.3
+Site: AGLT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+Processors: 1
+NodeCount: 1
+WallDuration: 660274
+CpuDuration: 1669
+NormalisedWallDuration: 6371644
+NormalisedCpuDuration: 16105
+NumberOfJobs: 2470
+%%
+Site: BNL-ATLAS
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+Processors: 1
+NodeCount: 1
+WallDuration: 307281
+CpuDuration: 348
+NormalisedWallDuration: 3088174
+NormalisedCpuDuration: 3497
+NumberOfJobs: 12659
+%%
+Site: BU_ATLAS_Tier2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+Processors: 1
+NodeCount: 1
+WallDuration: 117720
+CpuDuration: 6304
+NormalisedWallDuration: 1156010
+NormalisedCpuDuration: 61907
+NumberOfJobs: 2207
+%%
+Site: MWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+Processors: 1
+NodeCount: 1
+WallDuration: 536099
+CpuDuration: 7209
+NormalisedWallDuration: 5099395
+NormalisedCpuDuration: 68470
+NumberOfJobs: 9380
+%%
+Site: OU_OCHEP_SWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+Processors: 1
+NodeCount: 1
+WallDuration: 61216
+CpuDuration: 0
+NormalisedWallDuration: 539925
+NormalisedCpuDuration: 0
+NumberOfJobs: 2075
+%%
+Site: SWT2_CPB
+VO: atlas
+EarliestEndTime: 1433289600
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+Processors: 1
+NodeCount: 1
+WallDuration: 51617
+CpuDuration: 1320
+NormalisedWallDuration: 441841
+NormalisedCpuDuration: 11299
+NumberOfJobs: 1456
+%%
+Site: WT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+Processors: 1
+NodeCount: 1
+WallDuration: 788989
+CpuDuration: 675340
+NormalisedWallDuration: 8726218
+NormalisedCpuDuration: 7469260
+NumberOfJobs: 2249
+%%
+Site: AGLT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435363200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 713487957
+CpuDuration: 640063272
+NormalisedWallDuration: 6885158785
+NormalisedCpuDuration: 6176610574
+NumberOfJobs: 48063
+%%
+Site: BNL-ATLAS
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 3423418779
+CpuDuration: 2817736717
+NormalisedWallDuration: 34405358728
+NormalisedCpuDuration: 28318254005
+NumberOfJobs: 584928
+%%
+Site: BU_ATLAS_Tier2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435276800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 520353176
+CpuDuration: 405352948
+NormalisedWallDuration: 5109868188
+NormalisedCpuDuration: 3980565958
+NumberOfJobs: 66911
+%%
+Site: CIT_CMS_T2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 297948150
+CpuDuration: 215377383
+NormalisedWallDuration: 3856640853
+NormalisedCpuDuration: 2787844845
+NumberOfJobs: 20433
+%%
+Site: FNAL_GPGRID_1
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435449600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 43778014
+CpuDuration: 39178100
+NormalisedWallDuration: 525336168
+NormalisedCpuDuration: 470137200
+NumberOfJobs: 8551
+%%
+Site: GLOW
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435190400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 4873993
+CpuDuration: 2232954
+NormalisedWallDuration: 58487916
+NormalisedCpuDuration: 26795448
+NumberOfJobs: 3903
+%%
+Site: HU_ATLAS_Tier2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435449600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 483270197
+CpuDuration: 363919100
+NormalisedWallDuration: 4562070659
+NormalisedCpuDuration: 3435396304
+NumberOfJobs: 33270
+%%
+Site: LUCILLE
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435363200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 226145229
+CpuDuration: 215913834
+NormalisedWallDuration: 2057921583
+NormalisedCpuDuration: 1964815889
+NumberOfJobs: 8220
+%%
+Site: MIT_CMS
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435104000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 254602435
+CpuDuration: 186969170
+NormalisedWallDuration: 2749706298
+NormalisedCpuDuration: 2019267036
+NumberOfJobs: 22372
+%%
+Site: MWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435536000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 990065713
+CpuDuration: 817115569
+NormalisedWallDuration: 9385822959
+NormalisedCpuDuration: 7746255594
+NumberOfJobs: 70203
+%%
+Site: Nebraska
+VO: atlas
+EarliestEndTime: 1433462400
+LatestEndTime: 1435276800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 5802497
+CpuDuration: 2841162
+NormalisedWallDuration: 60415598
+NormalisedCpuDuration: 29582178
+NumberOfJobs: 842
+%%
+Site: NYSGRID_CORNELL_NYS1
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435190400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 26534852
+CpuDuration: 23381274
+NormalisedWallDuration: 318418224
+NormalisedCpuDuration: 280575288
+NumberOfJobs: 5561
+%%
+Site: OUHEP_OSG
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1434412800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 2384837
+CpuDuration: 1785545
+NormalisedWallDuration: 28618044
+NormalisedCpuDuration: 21426540
+NumberOfJobs: 134
+%%
+Site: OU_OCHEP_SWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435536000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 562762387
+CpuDuration: 527373867
+NormalisedWallDuration: 4963564253
+NormalisedCpuDuration: 4651437506
+NumberOfJobs: 30010
+%%
+Site: OU_OSCER_ATLAS
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435276800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 155274854
+CpuDuration: 153459751
+NormalisedWallDuration: 2208008423
+NormalisedCpuDuration: 2182197659
+NumberOfJobs: 6436
+%%
+Site: SMU_HPC
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435449600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 6670703
+CpuDuration: 0
+NormalisedWallDuration: 80048436
+NormalisedCpuDuration: 0
+NumberOfJobs: 580
+%%
+Site: SWT2_CPB
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435363200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 494234042
+CpuDuration: 434929162
+NormalisedWallDuration: 4230643399
+NormalisedCpuDuration: 3722993626
+NumberOfJobs: 35781
+%%
+Site: UCSDT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435104000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 47557256
+CpuDuration: 41475282
+NormalisedWallDuration: 629658069
+NormalisedCpuDuration: 549132733
+NumberOfJobs: 5639
+%%
+Site: USCMS-FNAL-WC1
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435190400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 7026493
+CpuDuration: 6103150
+NormalisedWallDuration: 80383079
+NormalisedCpuDuration: 69820036
+NumberOfJobs: 1439
+%%
+Site: UTA_SWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435363200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 1
+NodeCount: 1
+WallDuration: 244303648
+CpuDuration: 238692692
+NormalisedWallDuration: 2362416276
+NormalisedCpuDuration: 2308158331
+NumberOfJobs: 8783
+%%
+Site: AGLT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435017600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Bob Ball 81
+Processors: 1
+NodeCount: 1
+WallDuration: 4364
+CpuDuration: 0
+NormalisedWallDuration: 42153
+NormalisedCpuDuration: 0
+NumberOfJobs: 7416
+%%
+Site: AGLT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 1
+NodeCount: 1
+WallDuration: 4593730482
+CpuDuration: 4083456469
+NormalisedWallDuration: 44329499151
+NormalisedCpuDuration: 39405354925
+NumberOfJobs: 266791
+%%
+Site: BNL-ATLAS
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 1
+NodeCount: 1
+WallDuration: 8077100699
+CpuDuration: 6317746894
+NormalisedWallDuration: 81174862024
+NormalisedCpuDuration: 63493356284
+NumberOfJobs: 1674147
+%%
+Site: BU_ATLAS_Tier2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 1
+NodeCount: 1
+WallDuration: 2244083628
+CpuDuration: 1833514597
+NormalisedWallDuration: 22036901226
+NormalisedCpuDuration: 18005113351
+NumberOfJobs: 275322
+%%
+Site: HU_ATLAS_Tier2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 1
+NodeCount: 1
+WallDuration: 1693585676
+CpuDuration: 1372472545
+NormalisedWallDuration: 15987448781
+NormalisedCpuDuration: 12956140824
+NumberOfJobs: 106469
+%%
+Site: LUCILLE
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 1
+NodeCount: 1
+WallDuration: 969055079
+CpuDuration: 902382369
+NormalisedWallDuration: 8818401218
+NormalisedCpuDuration: 8211679557
+NumberOfJobs: 28164
+%%
+Site: MWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 1
+NodeCount: 1
+WallDuration: 2771127396
+CpuDuration: 2176704744
+NormalisedWallDuration: 26270287714
+NormalisedCpuDuration: 20635160973
+NumberOfJobs: 200771
+%%
+Site: OU_OCHEP_SWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 1
+NodeCount: 1
+WallDuration: 1281169428
+CpuDuration: 1194528384
+NormalisedWallDuration: 11299914354
+NormalisedCpuDuration: 10535740346
+NumberOfJobs: 76941
+%%
+Site: OU_OSCER_ATLAS
+VO: atlas
+EarliestEndTime: 1433462400
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 1
+NodeCount: 1
+WallDuration: 688477412
+CpuDuration: 681122450
+NormalisedWallDuration: 9790148798
+NormalisedCpuDuration: 9685561239
+NumberOfJobs: 43269
+%%
+Site: SWT2_CPB
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 1
+NodeCount: 1
+WallDuration: 2397435831
+CpuDuration: 2201705587
+NormalisedWallDuration: 20522050713
+NormalisedCpuDuration: 18846599824
+NumberOfJobs: 173457
+%%
+Site: UTA_SWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 1
+NodeCount: 1
+WallDuration: 809172525
+CpuDuration: 794563709
+NormalisedWallDuration: 7824698316
+NormalisedCpuDuration: 7683431066
+NumberOfJobs: 24625
+%%
+Site: BNL-ATLAS
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Xin Zhao 87
+Processors: 1
+NodeCount: 1
+WallDuration: 1568
+CpuDuration: 0
+NormalisedWallDuration: 15758
+NormalisedCpuDuration: 0
+NumberOfJobs: 2616
+%%
+Site: AGLT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1434412800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pandasv1/CN=531497/CN=Robot: ATLAS Panda Server1
+Processors: 1
+NodeCount: 1
+WallDuration: 188078
+CpuDuration: 12998
+NormalisedWallDuration: 1814952
+NormalisedCpuDuration: 125430
+NumberOfJobs: 8
+%%
+Site: AGLT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Saul Youssef 93
+Processors: 1
+NodeCount: 1
+WallDuration: 87
+CpuDuration: 0
+NormalisedWallDuration: 839
+NormalisedCpuDuration: 0
+NumberOfJobs: 73
+%%
+Site: BNL-ATLAS
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Saul Youssef 93
+Processors: 1
+NodeCount: 1
+WallDuration: 150
+CpuDuration: 0
+NormalisedWallDuration: 1507
+NormalisedCpuDuration: 0
+NumberOfJobs: 232
+%%
+Site: BU_ATLAS_Tier2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Saul Youssef 93
+Processors: 1
+NodeCount: 1
+WallDuration: 254
+CpuDuration: 55
+NormalisedWallDuration: 2494
+NormalisedCpuDuration: 543
+NumberOfJobs: 4147
+%%
+Site: LUCILLE
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Saul Youssef 93
+Processors: 1
+NodeCount: 1
+WallDuration: 6274
+CpuDuration: 1
+NormalisedWallDuration: 57093
+NormalisedCpuDuration: 9
+NumberOfJobs: 74
+%%
+Site: MWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Saul Youssef 93
+Processors: 1
+NodeCount: 1
+WallDuration: 416
+CpuDuration: 4
+NormalisedWallDuration: 3952
+NormalisedCpuDuration: 37
+NumberOfJobs: 116
+%%
+Site: OU_OCHEP_SWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Saul Youssef 93
+Processors: 1
+NodeCount: 1
+WallDuration: 60
+CpuDuration: 0
+NormalisedWallDuration: 529
+NormalisedCpuDuration: 0
+NumberOfJobs: 29
+%%
+Site: OU_OSCER_ATLAS
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Saul Youssef 93
+Processors: 1
+NodeCount: 1
+WallDuration: 241
+CpuDuration: 0
+NormalisedWallDuration: 3427
+NormalisedCpuDuration: 0
+NumberOfJobs: 29
+%%
+Site: SWT2_CPB
+VO: atlas
+EarliestEndTime: 1433289600
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Saul Youssef 93
+Processors: 1
+NodeCount: 1
+WallDuration: 35
+CpuDuration: 0
+NormalisedWallDuration: 299
+NormalisedCpuDuration: 0
+NumberOfJobs: 28
+%%
+Site: UTA_SWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Saul Youssef 93
+Processors: 1
+NodeCount: 1
+WallDuration: 25
+CpuDuration: 0
+NormalisedWallDuration: 241
+NormalisedCpuDuration: 0
+NumberOfJobs: 29
+%%
+Site: WT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Saul Youssef 93
+Processors: 1
+NodeCount: 1
+WallDuration: 203
+CpuDuration: 96
+NormalisedWallDuration: 2245
+NormalisedCpuDuration: 1061
+NumberOfJobs: 25
+%%
+Site: AGLT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Derek Weitzel 605
+Processors: 1
+NodeCount: 1
+WallDuration: 7551645
+CpuDuration: 2970392
+NormalisedWallDuration: 73024407
+NormalisedCpuDuration: 28723690
+NumberOfJobs: 2911
+%%
+Site: AGLT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1434931200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=frontend/fifebatch.fnal.gov
+Processors: 1
+NodeCount: 1
+WallDuration: 501352644
+CpuDuration: 471943873
+NormalisedWallDuration: 4848080067
+NormalisedCpuDuration: 4563697251
+NumberOfJobs: 24769
+%%
+Site: AGLT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1434931200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=pilot/glidein2.chtc.wisc.edu
+Processors: 1
+NodeCount: 1
+WallDuration: 124337265
+CpuDuration: 78864908
+NormalisedWallDuration: 1202341352
+NormalisedCpuDuration: 762623660
+NumberOfJobs: 12209
+%%
+Site: AGLT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1434931200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=pilot/osg-flock.grid.iu.edu
+Processors: 1
+NodeCount: 1
+WallDuration: 426774149
+CpuDuration: 386249758
+NormalisedWallDuration: 4126906020
+NormalisedCpuDuration: 3735035159
+NumberOfJobs: 43748
+%%
+Site: MWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=David Lesny 148
+Processors: 1
+NodeCount: 1
+WallDuration: 1408153234
+CpuDuration: 799732207
+NormalisedWallDuration: 13461944917
+NormalisedCpuDuration: 7645439898
+NumberOfJobs: 473226
+%%
+Site: AGLT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /OU=LocalUser/CN=atlasconnect
+Processors: 1
+NodeCount: 1
+WallDuration: 35501355
+CpuDuration: 22235528
+NormalisedWallDuration: 342588075
+NormalisedCpuDuration: 214572845
+NumberOfJobs: 4234
+%%
+Site: WT2
+VO: atlas
+EarliestEndTime: 1433289600
+LatestEndTime: 1435017600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Wei Yang 220
+Processors: 1
+NodeCount: 1
+WallDuration: 185
+CpuDuration: 0
+NormalisedWallDuration: 2046
+NormalisedCpuDuration: 0
+NumberOfJobs: 15
+%%
+Site: AGLT2
+VO: atlas
+EarliestEndTime: 1433721600
+LatestEndTime: 1434844800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=glidein-1.sbgrid.org
+Processors: 1
+NodeCount: 1
+WallDuration: 1908588
+CpuDuration: 1442121
+NormalisedWallDuration: 18456045
+NormalisedCpuDuration: 13945310
+NumberOfJobs: 468
+%%
+Site: MIT_CMS
+VO: atlas
+EarliestEndTime: 1433808000
+LatestEndTime: 1433808000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: undefined
+Processors: 1
+NodeCount: 1
+WallDuration: 29504
+CpuDuration: 7182
+NormalisedWallDuration: 318643
+NormalisedCpuDuration: 77565
+NumberOfJobs: 1
+%%
+Site: BNL-ATLAS
+VO: atlas
+EarliestEndTime: 1433980800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Paul Nilsson 1162
+Processors: 1
+NodeCount: 1
+WallDuration: 65938
+CpuDuration: 46013
+NormalisedWallDuration: 662676
+NormalisedCpuDuration: 462430
+NumberOfJobs: 33
+%%
+Site: MWT2
+VO: atlas
+EarliestEndTime: 1435622400
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Paul Nilsson 1162
+Processors: 1
+NodeCount: 1
+WallDuration: 227
+CpuDuration: 6
+NormalisedWallDuration: 2151
+NormalisedCpuDuration: 56
+NumberOfJobs: 1
+%%
+Site: SWT2_CPB
+VO: atlas
+EarliestEndTime: 1435622400
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Paul Nilsson 1162
+Processors: 1
+NodeCount: 1
+WallDuration: 31026
+CpuDuration: 29145
+NormalisedWallDuration: 265582
+NormalisedCpuDuration: 249481
+NumberOfJobs: 2
+%%
+Site: UTA_SWT2
+VO: atlas
+EarliestEndTime: 1434499200
+LatestEndTime: 1435536000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Paul Nilsson 1162
+Processors: 1
+NodeCount: 1
+WallDuration: 15851
+CpuDuration: 8807
+NormalisedWallDuration: 153279
+NormalisedCpuDuration: 85163
+NumberOfJobs: 25
+%%
+Site: AGLT2
+VO: atlas
+EarliestEndTime: 1434326400
+LatestEndTime: 1434412800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=frontend/glidein-2.sbgrid.org
+Processors: 1
+NodeCount: 1
+WallDuration: 1426528
+CpuDuration: 970705
+NormalisedWallDuration: 13794525
+NormalisedCpuDuration: 9386717
+NumberOfJobs: 167
+%%
+Site: BNL-ATLAS
+VO: atlas
+EarliestEndTime: 1434412800
+LatestEndTime: 1434412800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Xin Zhao 87/CN=proxy
+Processors: 1
+NodeCount: 1
+WallDuration: 1
+CpuDuration: 0
+NormalisedWallDuration: 10
+NormalisedCpuDuration: 0
+NumberOfJobs: 1
+%%
+Site: AGLT2
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 129627261
+CpuDuration: 121636819
+NormalisedWallDuration: 1250903068
+NormalisedCpuDuration: 1173795303
+NumberOfJobs: 9758
+%%
+Site: BNL-ATLAS
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 455498131
+CpuDuration: 342999941
+NormalisedWallDuration: 4577756216
+NormalisedCpuDuration: 3447149407
+NumberOfJobs: 131603
+%%
+Site: BU_ATLAS_Tier2
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 323716549
+CpuDuration: 282172947
+NormalisedWallDuration: 3178896511
+NormalisedCpuDuration: 2770938345
+NumberOfJobs: 32482
+%%
+Site: CIT_CMS_T2
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 22738183
+CpuDuration: 11396703
+NormalisedWallDuration: 294323040
+NormalisedCpuDuration: 147518923
+NumberOfJobs: 10653
+%%
+Site: FNAL_GPGRID_1
+VO: atlas
+EarliestEndTime: 1435190400
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 8329946
+CpuDuration: 7392063
+NormalisedWallDuration: 99959352
+NormalisedCpuDuration: 88704756
+NumberOfJobs: 649
+%%
+Site: GLOW
+VO: atlas
+EarliestEndTime: 1435190400
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 1128719
+CpuDuration: 427477
+NormalisedWallDuration: 13544628
+NormalisedCpuDuration: 5129724
+NumberOfJobs: 2953
+%%
+Site: HU_ATLAS_Tier2
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 121700194
+CpuDuration: 112962173
+NormalisedWallDuration: 1148849831
+NormalisedCpuDuration: 1066362913
+NumberOfJobs: 6364
+%%
+Site: LUCILLE
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 36498431
+CpuDuration: 35133702
+NormalisedWallDuration: 332135722
+NormalisedCpuDuration: 319716688
+NumberOfJobs: 645
+%%
+Site: MIT_CMS
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 721441
+CpuDuration: 8505
+NormalisedWallDuration: 7791562
+NormalisedCpuDuration: 91854
+NumberOfJobs: 4509
+%%
+Site: MWT2
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 264928553
+CpuDuration: 244239650
+NormalisedWallDuration: 2511522682
+NormalisedCpuDuration: 2315391882
+NumberOfJobs: 12617
+%%
+Site: Nebraska
+VO: atlas
+EarliestEndTime: 1435190400
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 17316519
+CpuDuration: 11520569
+NormalisedWallDuration: 180299595
+NormalisedCpuDuration: 119952164
+NumberOfJobs: 1821
+%%
+Site: NYSGRID_CORNELL_NYS1
+VO: atlas
+EarliestEndTime: 1435276800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 103798
+CpuDuration: 89701
+NormalisedWallDuration: 1245576
+NormalisedCpuDuration: 1076412
+NumberOfJobs: 12
+%%
+Site: OU_OCHEP_SWT2
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 60263843
+CpuDuration: 58102314
+NormalisedWallDuration: 531527095
+NormalisedCpuDuration: 512462409
+NumberOfJobs: 2352
+%%
+Site: OU_OSCER_ATLAS
+VO: atlas
+EarliestEndTime: 1435190400
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 50747008
+CpuDuration: 50196043
+NormalisedWallDuration: 721622453
+NormalisedCpuDuration: 713787731
+NumberOfJobs: 1061
+%%
+Site: SMU_HPC
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 303
+CpuDuration: 0
+NormalisedWallDuration: 3636
+NormalisedCpuDuration: 0
+NumberOfJobs: 147
+%%
+Site: SU-OG
+VO: atlas
+EarliestEndTime: 1435622400
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 1295
+CpuDuration: 6
+NormalisedWallDuration: 15540
+NormalisedCpuDuration: 72
+NumberOfJobs: 19
+%%
+Site: SWT2_CPB
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 178437826
+CpuDuration: 163092212
+NormalisedWallDuration: 1527427790
+NormalisedCpuDuration: 1396069334
+NumberOfJobs: 24732
+%%
+Site: USCMS-FNAL-WC1
+VO: atlas
+EarliestEndTime: 1435276800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 1541995
+CpuDuration: 1352484
+NormalisedWallDuration: 17640422
+NormalisedCpuDuration: 15472416
+NumberOfJobs: 97
+%%
+Site: UTA_SWT2
+VO: atlas
+EarliestEndTime: 1435276800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 1
+NodeCount: 1
+WallDuration: 25383213
+CpuDuration: 24857015
+NormalisedWallDuration: 245455669
+NormalisedCpuDuration: 240367335
+NumberOfJobs: 528
+%%
+Site: NERSC-PDSF
+VO: alice
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: generic alice user
+Processors: 1
+NodeCount: 1
+WallDuration: 2705180594
+CpuDuration: 2394525126
+NormalisedWallDuration: 44943870388
+NormalisedCpuDuration: 39782640454
+NumberOfJobs: 105334
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1434326400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Bockjoo Kim 118811
+Processors: 1
+NodeCount: 1
+WallDuration: 62612933
+CpuDuration: 15383564
+NormalisedWallDuration: 603087770
+NormalisedCpuDuration: 148174488
+NumberOfJobs: 28483
+%%
+Site: Purdue-Hadoop
+VO: cms
+EarliestEndTime: 1433203200
+LatestEndTime: 1434412800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Bockjoo Kim 118811
+Processors: 1
+NodeCount: 1
+WallDuration: 12984108
+CpuDuration: 4005931
+NormalisedWallDuration: 160613415
+NormalisedCpuDuration: 49553366
+NumberOfJobs: 16947
+%%
+Site: ucsb-cms
+VO: cms
+EarliestEndTime: 1433289600
+LatestEndTime: 1433808000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Bockjoo Kim 118811
+Processors: 1
+NodeCount: 1
+WallDuration: 6
+CpuDuration: 0
+NormalisedWallDuration: 72
+NormalisedCpuDuration: 0
+NumberOfJobs: 19
+%%
+Site: UFlorida-HPC
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1434758400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Bockjoo Kim 118811
+Processors: 1
+NodeCount: 1
+WallDuration: 101296980
+CpuDuration: 8506492
+NormalisedWallDuration: 1108188961
+NormalisedCpuDuration: 93061022
+NumberOfJobs: 32409
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dntaylor/CN=750062/CN=Devin Nathaniel Taylor
+Processors: 1
+NodeCount: 1
+WallDuration: 608743077
+CpuDuration: 193551869
+NormalisedWallDuration: 5863413317
+NormalisedCpuDuration: 1864291602
+NumberOfJobs: 380327
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1433894400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=khurana/CN=706548/CN=Raman Khurana
+Processors: 1
+NodeCount: 1
+WallDuration: 1777788
+CpuDuration: 82561
+NormalisedWallDuration: 17123654
+NormalisedCpuDuration: 795227
+NumberOfJobs: 8934
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=alevine/CN=733950/CN=Aaron Goodman Levine
+Processors: 1
+NodeCount: 1
+WallDuration: 33776399
+CpuDuration: 14682131
+NormalisedWallDuration: 325334275
+NormalisedCpuDuration: 141418285
+NumberOfJobs: 8333
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ldodd/CN=725197/CN=Laura Margaret Dodd
+Processors: 1
+NodeCount: 1
+WallDuration: 48261525
+CpuDuration: 42017318
+NormalisedWallDuration: 464855008
+NormalisedCpuDuration: 404710806
+NumberOfJobs: 6298
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1434412800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=nawoods/CN=738182/CN=Nathaniel Woods
+Processors: 1
+NodeCount: 1
+WallDuration: 316187
+CpuDuration: 204961
+NormalisedWallDuration: 3045513
+NormalisedCpuDuration: 1974184
+NumberOfJobs: 120
+%%
+Site: Baylor-Tier3
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 304383
+CpuDuration: 59129
+NormalisedWallDuration: 3652596
+NormalisedCpuDuration: 709548
+NumberOfJobs: 3308
+%%
+Site: cinvestav
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 1391592
+CpuDuration: 59563
+NormalisedWallDuration: 16699104
+NormalisedCpuDuration: 714756
+NumberOfJobs: 3084
+%%
+Site: CIT_CMS_T2
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 1314969
+CpuDuration: 90896
+NormalisedWallDuration: 17020958
+NormalisedCpuDuration: 1176557
+NumberOfJobs: 8207
+%%
+Site: Crane
+VO: cms
+EarliestEndTime: 1433376000
+LatestEndTime: 1433894400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 67015
+CpuDuration: 2586
+NormalisedWallDuration: 804180
+NormalisedCpuDuration: 31037
+NumberOfJobs: 103
+%%
+Site: FLTECH
+VO: cms
+EarliestEndTime: 1435190400
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 76840
+CpuDuration: 7599
+NormalisedWallDuration: 922080
+NormalisedCpuDuration: 91188
+NumberOfJobs: 800
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 898849
+CpuDuration: 114898
+NormalisedWallDuration: 8657713
+NormalisedCpuDuration: 1106697
+NumberOfJobs: 12168
+%%
+Site: MIT_CMS
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 855083
+CpuDuration: 88826
+NormalisedWallDuration: 9234896
+NormalisedCpuDuration: 959320
+NumberOfJobs: 8220
+%%
+Site: Nebraska
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 1240406
+CpuDuration: 282444
+NormalisedWallDuration: 12915107
+NormalisedCpuDuration: 2940806
+NumberOfJobs: 12375
+%%
+Site: NWICG_NDCMS
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 588817
+CpuDuration: 39118
+NormalisedWallDuration: 7065804
+NormalisedCpuDuration: 469416
+NumberOfJobs: 3975
+%%
+Site: NYSGRID_CORNELL_NYS1
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 212196
+CpuDuration: 65528
+NormalisedWallDuration: 2546352
+NormalisedCpuDuration: 786336
+NumberOfJobs: 2483
+%%
+Site: Purdue-Carter
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 612031
+CpuDuration: 38935
+NormalisedWallDuration: 10037308
+NormalisedCpuDuration: 638534
+NumberOfJobs: 3178
+%%
+Site: Purdue-Hadoop
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 1133602
+CpuDuration: 109711
+NormalisedWallDuration: 14022656
+NormalisedCpuDuration: 1357125
+NumberOfJobs: 11989
+%%
+Site: Purdue-Hammer
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 172039
+CpuDuration: 24321
+NormalisedWallDuration: 2064468
+NormalisedCpuDuration: 291852
+NumberOfJobs: 1063
+%%
+Site: Purdue-Hansen
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 407605
+CpuDuration: 62093
+NormalisedWallDuration: 3538011
+NormalisedCpuDuration: 538967
+NumberOfJobs: 2841
+%%
+Site: Purdue-Rossmann
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 666105
+CpuDuration: 74703
+NormalisedWallDuration: 7487020
+NormalisedCpuDuration: 839661
+NumberOfJobs: 3355
+%%
+Site: rutgers-cms
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 264022
+CpuDuration: 26904
+NormalisedWallDuration: 3168264
+NormalisedCpuDuration: 322848
+NumberOfJobs: 4119
+%%
+Site: SPRACE
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 287034
+CpuDuration: 59745
+NormalisedWallDuration: 3869218
+NormalisedCpuDuration: 805362
+NumberOfJobs: 4071
+%%
+Site: TAMU_BRAZOS
+VO: cms
+EarliestEndTime: 1434412800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 2384
+CpuDuration: 318
+NormalisedWallDuration: 28608
+NormalisedCpuDuration: 3822
+NumberOfJobs: 30
+%%
+Site: UCR-HEP
+VO: cms
+EarliestEndTime: 1433203200
+LatestEndTime: 1434067200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 80272
+CpuDuration: 13396
+NormalisedWallDuration: 963264
+NormalisedCpuDuration: 160752
+NumberOfJobs: 1366
+%%
+Site: ucsb-cms
+VO: cms
+EarliestEndTime: 1433980800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 102175
+CpuDuration: 8526
+NormalisedWallDuration: 1226100
+NormalisedCpuDuration: 102312
+NumberOfJobs: 1654
+%%
+Site: UCSDT2
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 613660
+CpuDuration: 92902
+NormalisedWallDuration: 8124858
+NormalisedCpuDuration: 1230022
+NumberOfJobs: 8192
+%%
+Site: UERJ
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 335704
+CpuDuration: 25637
+NormalisedWallDuration: 3520192
+NormalisedCpuDuration: 268829
+NumberOfJobs: 2933
+%%
+Site: UFlorida-HPC
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 179263
+CpuDuration: 43251
+NormalisedWallDuration: 1961137
+NormalisedCpuDuration: 473165
+NumberOfJobs: 1202
+%%
+Site: umd-cms
+VO: cms
+EarliestEndTime: 1434499200
+LatestEndTime: 1434499200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 0
+CpuDuration: 0
+NormalisedWallDuration: 0
+NormalisedCpuDuration: 0
+NumberOfJobs: 1
+%%
+Site: UMissHEP
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 252396
+CpuDuration: 33881
+NormalisedWallDuration: 3028752
+NormalisedCpuDuration: 406572
+NumberOfJobs: 4115
+%%
+Site: UMN-CMS
+VO: cms
+EarliestEndTime: 1434672000
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 1204
+CpuDuration: 44
+NormalisedWallDuration: 14448
+NormalisedCpuDuration: 528
+NumberOfJobs: 14
+%%
+Site: uprm-cms
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 281972
+CpuDuration: 24020
+NormalisedWallDuration: 3383664
+NormalisedCpuDuration: 288240
+NumberOfJobs: 3954
+%%
+Site: USCMS-FNAL-WC1
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 1
+NodeCount: 1
+WallDuration: 867665
+CpuDuration: 123593
+NormalisedWallDuration: 9926087
+NormalisedCpuDuration: 1413903
+NumberOfJobs: 11142
+%%
+Site: CIT_CMS_T2
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /C=DE/O=GermanGrid/OU=KIT/CN=Fabio Colombo
+Processors: 1
+NodeCount: 1
+WallDuration: 19772549
+CpuDuration: 12209765
+NormalisedWallDuration: 255935874
+NormalisedCpuDuration: 158043198
+NumberOfJobs: 1234
+%%
+Site: Purdue-Carter
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /C=DE/O=GermanGrid/OU=KIT/CN=Fabio Colombo
+Processors: 1
+NodeCount: 1
+WallDuration: 3733656
+CpuDuration: 1869125
+NormalisedWallDuration: 61231958
+NormalisedCpuDuration: 30653650
+NumberOfJobs: 314
+%%
+Site: Purdue-Hadoop
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /C=DE/O=GermanGrid/OU=KIT/CN=Fabio Colombo
+Processors: 1
+NodeCount: 1
+WallDuration: 18377134
+CpuDuration: 14005632
+NormalisedWallDuration: 227325147
+NormalisedCpuDuration: 173249667
+NumberOfJobs: 2803
+%%
+Site: Purdue-Hammer
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1433721600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /C=DE/O=GermanGrid/OU=KIT/CN=Fabio Colombo
+Processors: 1
+NodeCount: 1
+WallDuration: 959268
+CpuDuration: 537881
+NormalisedWallDuration: 11511216
+NormalisedCpuDuration: 6454572
+NumberOfJobs: 94
+%%
+Site: Purdue-Hansen
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /C=DE/O=GermanGrid/OU=KIT/CN=Fabio Colombo
+Processors: 1
+NodeCount: 1
+WallDuration: 4097641
+CpuDuration: 3669644
+NormalisedWallDuration: 35567523
+NormalisedCpuDuration: 31852509
+NumberOfJobs: 297
+%%
+Site: Purdue-Rossmann
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /C=DE/O=GermanGrid/OU=KIT/CN=Fabio Colombo
+Processors: 1
+NodeCount: 1
+WallDuration: 5938352
+CpuDuration: 4197996
+NormalisedWallDuration: 66747076
+NormalisedCpuDuration: 47185475
+NumberOfJobs: 338
+%%
+Site: UCSDT2
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /C=DE/O=GermanGrid/OU=KIT/CN=Fabio Colombo
+Processors: 1
+NodeCount: 1
+WallDuration: 37666258
+CpuDuration: 19634731
+NormalisedWallDuration: 498701255
+NormalisedCpuDuration: 259963838
+NumberOfJobs: 11378
+%%
+Site: UFlorida-HPC
+VO: cms
+EarliestEndTime: 1434672000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /C=DE/O=GermanGrid/OU=KIT/CN=Fabio Colombo
+Processors: 1
+NodeCount: 1
+WallDuration: 6734672
+CpuDuration: 6429196
+NormalisedWallDuration: 73677311
+NormalisedCpuDuration: 70335404
+NumberOfJobs: 1305
+%%
+Site: CIT_CMS_T2
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 1897118
+CpuDuration: 8347
+NormalisedWallDuration: 24556295
+NormalisedCpuDuration: 108043
+NumberOfJobs: 1417
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 2792929
+CpuDuration: 42703
+NormalisedWallDuration: 26901492
+NormalisedCpuDuration: 411315
+NumberOfJobs: 1908
+%%
+Site: MIT_CMS
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 3004952
+CpuDuration: 125539
+NormalisedWallDuration: 32453481
+NormalisedCpuDuration: 1355821
+NumberOfJobs: 1204
+%%
+Site: Nebraska
+VO: cms
+EarliestEndTime: 1433203200
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 1467547
+CpuDuration: 171365
+NormalisedWallDuration: 15280099
+NormalisedCpuDuration: 1784252
+NumberOfJobs: 1012
+%%
+Site: Purdue-Hadoop
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 969952
+CpuDuration: 4449
+NormalisedWallDuration: 11998306
+NormalisedCpuDuration: 55034
+NumberOfJobs: 594
+%%
+Site: UCSDT2
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 82586486
+CpuDuration: 16236431
+NormalisedWallDuration: 1093445074
+NormalisedCpuDuration: 214970346
+NumberOfJobs: 29202
+%%
+Site: UFlorida-HPC
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 438923
+CpuDuration: 8842
+NormalisedWallDuration: 4801817
+NormalisedCpuDuration: 96731
+NumberOfJobs: 349
+%%
+Site: Baylor-Tier3
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 86757927
+CpuDuration: 74161539
+NormalisedWallDuration: 1041095124
+NormalisedCpuDuration: 889938468
+NumberOfJobs: 6874
+%%
+Site: cinvestav
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 18330115
+CpuDuration: 13514170
+NormalisedWallDuration: 219961380
+NormalisedCpuDuration: 162170040
+NumberOfJobs: 2141
+%%
+Site: CIT_CMS_T2
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 4872148469
+CpuDuration: 2423066718
+NormalisedWallDuration: 63065089782
+NormalisedCpuDuration: 31364175597
+NumberOfJobs: 167613
+%%
+Site: Crane
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435017600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 47943335
+CpuDuration: 10506020
+NormalisedWallDuration: 575320020
+NormalisedCpuDuration: 126072248
+NumberOfJobs: 2847
+%%
+Site: FLTECH
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 5063946
+CpuDuration: 1451276
+NormalisedWallDuration: 60767352
+NormalisedCpuDuration: 17415312
+NumberOfJobs: 2427
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 8263058912
+CpuDuration: 4853698318
+NormalisedWallDuration: 79589783440
+NormalisedCpuDuration: 46750822198
+NumberOfJobs: 368622
+%%
+Site: MIT_CMS
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 3642817979
+CpuDuration: 2348342162
+NormalisedWallDuration: 39342434173
+NormalisedCpuDuration: 25362095349
+NumberOfJobs: 279711
+%%
+Site: Nebraska
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 4755309829
+CpuDuration: 3428780918
+NormalisedWallDuration: 49512285939
+NormalisedCpuDuration: 35700466918
+NumberOfJobs: 203047
+%%
+Site: NWICG_NDCMS
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 4550653
+CpuDuration: 9463
+NormalisedWallDuration: 54607836
+NormalisedCpuDuration: 113556
+NumberOfJobs: 3257
+%%
+Site: NYSGRID_CORNELL_NYS1
+VO: cms
+EarliestEndTime: 1434931200
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 37697008
+CpuDuration: 23597661
+NormalisedWallDuration: 452364096
+NormalisedCpuDuration: 283171932
+NumberOfJobs: 4465
+%%
+Site: Purdue-Hadoop
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 1479551675
+CpuDuration: 923916792
+NormalisedWallDuration: 18302054219
+NormalisedCpuDuration: 11428850717
+NumberOfJobs: 101438
+%%
+Site: rutgers-cms
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 60493558
+CpuDuration: 33361243
+NormalisedWallDuration: 725922696
+NormalisedCpuDuration: 400334916
+NumberOfJobs: 7044
+%%
+Site: SPRACE
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 1240221226
+CpuDuration: 843427109
+NormalisedWallDuration: 16718182126
+NormalisedCpuDuration: 11369397429
+NumberOfJobs: 66786
+%%
+Site: UColorado_HEP
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 664624612
+CpuDuration: 370649651
+NormalisedWallDuration: 7975495344
+NormalisedCpuDuration: 4447795820
+NumberOfJobs: 43266
+%%
+Site: UCR-HEP
+VO: cms
+EarliestEndTime: 1433203200
+LatestEndTime: 1434067200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 11572016
+CpuDuration: 9068465
+NormalisedWallDuration: 138864192
+NormalisedCpuDuration: 108821580
+NumberOfJobs: 1540
+%%
+Site: ucsb-cms
+VO: cms
+EarliestEndTime: 1435276800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 4554431
+CpuDuration: 2212582
+NormalisedWallDuration: 54653172
+NormalisedCpuDuration: 26550984
+NumberOfJobs: 887
+%%
+Site: UCSDT2
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 5424448802
+CpuDuration: 4152474379
+NormalisedWallDuration: 71819702138
+NormalisedCpuDuration: 54978760777
+NumberOfJobs: 228777
+%%
+Site: UERJ
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 49948886
+CpuDuration: 27260665
+NormalisedWallDuration: 523764018
+NormalisedCpuDuration: 285855333
+NumberOfJobs: 7599
+%%
+Site: UFlorida-HPC
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 4095820592
+CpuDuration: 3492358452
+NormalisedWallDuration: 44808277276
+NormalisedCpuDuration: 38206401464
+NumberOfJobs: 166894
+%%
+Site: umd-cms
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 4146800
+CpuDuration: 94521
+NormalisedWallDuration: 49761600
+NormalisedCpuDuration: 1134252
+NumberOfJobs: 2320
+%%
+Site: UMissHEP
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 29344432
+CpuDuration: 21634096
+NormalisedWallDuration: 352133184
+NormalisedCpuDuration: 259609152
+NumberOfJobs: 3705
+%%
+Site: uprm-cms
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 26462343
+CpuDuration: 19240007
+NormalisedWallDuration: 317548116
+NormalisedCpuDuration: 230880084
+NumberOfJobs: 3442
+%%
+Site: umd-cms
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch/CN=proxy/CN=limited proxy
+Processors: 1
+NodeCount: 1
+WallDuration: 9180491
+CpuDuration: 7930308
+NormalisedWallDuration: 110165892
+NormalisedCpuDuration: 95163696
+NumberOfJobs: 505
+%%
+Site: ucsb-cms
+VO: cms
+EarliestEndTime: 1433203200
+LatestEndTime: 1433203200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=snihur/CN=694458/CN=Robert Snihur
+Processors: 1
+NodeCount: 1
+WallDuration: 5
+CpuDuration: 0
+NormalisedWallDuration: 60
+NormalisedCpuDuration: 0
+NumberOfJobs: 13
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1433203200
+LatestEndTime: 1433980800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=tmperry/CN=739156/CN=Thomas Mastrianni Perry
+Processors: 1
+NodeCount: 1
+WallDuration: 148579897
+CpuDuration: 46351659
+NormalisedWallDuration: 1431121567
+NormalisedCpuDuration: 446459179
+NumberOfJobs: 93656
+%%
+Site: UFlorida-HPC
+VO: cms
+EarliestEndTime: 1433203200
+LatestEndTime: 1433203200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /C=DE/O=GermanGrid/OU=RWTH/CN=Alexander Nehrkorn
+Processors: 1
+NodeCount: 1
+WallDuration: 313582
+CpuDuration: 307848
+NormalisedWallDuration: 3430587
+NormalisedCpuDuration: 3367857
+NumberOfJobs: 18
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1433289600
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=zmao/CN=412261/CN=Zaixing Mao
+Processors: 1
+NodeCount: 1
+WallDuration: 13297809
+CpuDuration: 10916350
+NormalisedWallDuration: 128084496
+NormalisedCpuDuration: 105146283
+NumberOfJobs: 5562
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1433289600
+LatestEndTime: 1433376000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=kelong/CN=756379/CN=Kenneth David Long
+Processors: 1
+NodeCount: 1
+WallDuration: 170030
+CpuDuration: 128496
+NormalisedWallDuration: 1637728
+NormalisedCpuDuration: 1237673
+NumberOfJobs: 236
+%%
+Site: UCSDT2
+VO: cms
+EarliestEndTime: 1433289600
+LatestEndTime: 1434153600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=gtesterpilot01/test-001.t2.ucsd.edu
+Processors: 1
+NodeCount: 1
+WallDuration: 8281634
+CpuDuration: 6425
+NormalisedWallDuration: 109648834
+NormalisedCpuDuration: 85067
+NumberOfJobs: 675
+%%
+Site: gpce01.fnal.gov
+VO: cms
+EarliestEndTime: 1434585600
+LatestEndTime: 1434585600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Anthony Tiradani 91
+Processors: 1
+NodeCount: 1
+WallDuration: 3
+CpuDuration: 0
+NormalisedWallDuration: 36
+NormalisedCpuDuration: 0
+NumberOfJobs: 1
+%%
+Site: gpce02.fnal.gov
+VO: cms
+EarliestEndTime: 1433376000
+LatestEndTime: 1435017600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Anthony Tiradani 91
+Processors: 1
+NodeCount: 1
+WallDuration: 649
+CpuDuration: 0
+NormalisedWallDuration: 7788
+NormalisedCpuDuration: 0
+NumberOfJobs: 15
+%%
+Site: USCMS-FNAL-WC1
+VO: cms
+EarliestEndTime: 1434585600
+LatestEndTime: 1434585600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Anthony Tiradani 91
+Processors: 1
+NodeCount: 1
+WallDuration: 3
+CpuDuration: 0
+NormalisedWallDuration: 34
+NormalisedCpuDuration: 0
+NumberOfJobs: 1
+%%
+Site: gpce01.fnal.gov
+VO: cms
+EarliestEndTime: 1434585600
+LatestEndTime: 1434585600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=klarson1/CN=704070/CN=Krista Larson
+Processors: 1
+NodeCount: 1
+WallDuration: 4
+CpuDuration: 0
+NormalisedWallDuration: 48
+NormalisedCpuDuration: 0
+NumberOfJobs: 1
+%%
+Site: gpce02.fnal.gov
+VO: cms
+EarliestEndTime: 1433376000
+LatestEndTime: 1433376000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=klarson1/CN=704070/CN=Krista Larson
+Processors: 1
+NodeCount: 1
+WallDuration: 28
+CpuDuration: 0
+NormalisedWallDuration: 336
+NormalisedCpuDuration: 0
+NumberOfJobs: 3
+%%
+Site: gpce01.fnal.gov
+VO: cms
+EarliestEndTime: 1434585600
+LatestEndTime: 1434585600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=klarson1/CN=704070/CN=Krista Larson/CN=proxy
+Processors: 1
+NodeCount: 1
+WallDuration: 7
+CpuDuration: 0
+NormalisedWallDuration: 84
+NormalisedCpuDuration: 0
+NumberOfJobs: 2
+%%
+Site: gpce02.fnal.gov
+VO: cms
+EarliestEndTime: 1433376000
+LatestEndTime: 1433376000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=klarson1/CN=704070/CN=Krista Larson/CN=proxy
+Processors: 1
+NodeCount: 1
+WallDuration: 22
+CpuDuration: 0
+NormalisedWallDuration: 264
+NormalisedCpuDuration: 0
+NumberOfJobs: 7
+%%
+Site: CIT_CMS_T2
+VO: cms
+EarliestEndTime: 1433721600
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 4578978
+CpuDuration: 1869366
+NormalisedWallDuration: 59270291
+NormalisedCpuDuration: 24197073
+NumberOfJobs: 1326
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1433721600
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 1162132
+CpuDuration: 122461
+NormalisedWallDuration: 11193655
+NormalisedCpuDuration: 1179544
+NumberOfJobs: 736
+%%
+Site: MIT_CMS
+VO: cms
+EarliestEndTime: 1433721600
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 694747
+CpuDuration: 75241
+NormalisedWallDuration: 7503267
+NormalisedCpuDuration: 812602
+NumberOfJobs: 366
+%%
+Site: Nebraska
+VO: cms
+EarliestEndTime: 1433721600
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 1446858
+CpuDuration: 101798
+NormalisedWallDuration: 15064685
+NormalisedCpuDuration: 1059920
+NumberOfJobs: 873
+%%
+Site: Purdue-Hadoop
+VO: cms
+EarliestEndTime: 1433721600
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 1038179
+CpuDuration: 81941
+NormalisedWallDuration: 12842274
+NormalisedCpuDuration: 1013610
+NumberOfJobs: 509
+%%
+Site: rutgers-cms
+VO: cms
+EarliestEndTime: 1433980800
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 88587
+CpuDuration: 12898
+NormalisedWallDuration: 1063044
+NormalisedCpuDuration: 154776
+NumberOfJobs: 52
+%%
+Site: SPRACE
+VO: cms
+EarliestEndTime: 1433980800
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 371725
+CpuDuration: 51203
+NormalisedWallDuration: 5010853
+NormalisedCpuDuration: 690216
+NumberOfJobs: 190
+%%
+Site: UColorado_HEP
+VO: cms
+EarliestEndTime: 1433980800
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 105161
+CpuDuration: 22865
+NormalisedWallDuration: 1261932
+NormalisedCpuDuration: 274382
+NumberOfJobs: 61
+%%
+Site: ucsb-cms
+VO: cms
+EarliestEndTime: 1435190400
+LatestEndTime: 1435276800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 442440
+CpuDuration: 340495
+NormalisedWallDuration: 5309280
+NormalisedCpuDuration: 4085940
+NumberOfJobs: 58
+%%
+Site: UCSDT2
+VO: cms
+EarliestEndTime: 1433721600
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 2638400
+CpuDuration: 202772
+NormalisedWallDuration: 34932416
+NormalisedCpuDuration: 2684701
+NumberOfJobs: 1708
+%%
+Site: UERJ
+VO: cms
+EarliestEndTime: 1433980800
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 315686
+CpuDuration: 34396
+NormalisedWallDuration: 3310283
+NormalisedCpuDuration: 360676
+NumberOfJobs: 154
+%%
+Site: UFlorida-HPC
+VO: cms
+EarliestEndTime: 1433721600
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 785342
+CpuDuration: 99390
+NormalisedWallDuration: 8591641
+NormalisedCpuDuration: 1087326
+NumberOfJobs: 473
+%%
+Site: Purdue-Hadoop
+VO: cms
+EarliestEndTime: 1433808000
+LatestEndTime: 1433808000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=egough/CN=734735/CN=Erik Gough
+Processors: 1
+NodeCount: 1
+WallDuration: 44810
+CpuDuration: 0
+NormalisedWallDuration: 554299
+NormalisedCpuDuration: 0
+NumberOfJobs: 52
+%%
+Site: MIT_CMS
+VO: cms
+EarliestEndTime: 1433808000
+LatestEndTime: 1434326400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: undefined
+Processors: 1
+NodeCount: 1
+WallDuration: 572105
+CpuDuration: 347212
+NormalisedWallDuration: 6178734
+NormalisedCpuDuration: 3749889
+NumberOfJobs: 19
+%%
+Site: Purdue-Hadoop
+VO: cms
+EarliestEndTime: 1434499200
+LatestEndTime: 1434585600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: undefined
+Processors: 1
+NodeCount: 1
+WallDuration: 1249849
+CpuDuration: 719873
+NormalisedWallDuration: 15460632
+NormalisedCpuDuration: 8904829
+NumberOfJobs: 68
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1433894400
+LatestEndTime: 1433980800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dasu/CN=385338/CN=Sridhara Dasu
+Processors: 1
+NodeCount: 1
+WallDuration: 37494528
+CpuDuration: 550258
+NormalisedWallDuration: 361147293
+NormalisedCpuDuration: 5300085
+NumberOfJobs: 3683
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1433894400
+LatestEndTime: 1434240000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=gomber/CN=706551/CN=Bhawna Gomber
+Processors: 1
+NodeCount: 1
+WallDuration: 137494256
+CpuDuration: 15870058
+NormalisedWallDuration: 1324344673
+NormalisedCpuDuration: 152860398
+NumberOfJobs: 12886
+%%
+Site: ucsb-cms
+VO: cms
+EarliestEndTime: 1434067200
+LatestEndTime: 1435017600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cawest/CN=709677/CN=Christopher West
+Processors: 1
+NodeCount: 1
+WallDuration: 6
+CpuDuration: 0
+NormalisedWallDuration: 72
+NormalisedCpuDuration: 0
+NumberOfJobs: 7
+%%
+Site: Purdue-Hammer
+VO: cms
+EarliestEndTime: 1434326400
+LatestEndTime: 1435104000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=marabgol/CN=653155/CN=Majid Arabgol/CN=proxy
+Processors: 1
+NodeCount: 1
+WallDuration: 6
+CpuDuration: 0
+NormalisedWallDuration: 72
+NormalisedCpuDuration: 0
+NumberOfJobs: 3
+%%
+Site: Purdue-Hadoop
+VO: cms
+EarliestEndTime: 1435104000
+LatestEndTime: 1435104000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jha/CN=618566/CN=Manoj Jha
+Processors: 1
+NodeCount: 1
+WallDuration: 0
+CpuDuration: 0
+NormalisedWallDuration: 0
+NormalisedCpuDuration: 0
+NumberOfJobs: 1
+%%
+Site: Purdue-Hammer
+VO: cms
+EarliestEndTime: 1434412800
+LatestEndTime: 1434412800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jha/CN=618566/CN=Manoj Jha
+Processors: 1
+NodeCount: 1
+WallDuration: 2
+CpuDuration: 0
+NormalisedWallDuration: 24
+NormalisedCpuDuration: 0
+NumberOfJobs: 1
+%%
+Site: UFlorida-HPC
+VO: cms
+EarliestEndTime: 1435017600
+LatestEndTime: 1435017600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jha/CN=618566/CN=Manoj Jha
+Processors: 1
+NodeCount: 1
+WallDuration: 1
+CpuDuration: 0
+NormalisedWallDuration: 10
+NormalisedCpuDuration: 0
+NumberOfJobs: 1
+%%
+Site: UCSDT2
+VO: cms
+EarliestEndTime: 1434499200
+LatestEndTime: 1434499200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Edgar Mauricio Fajardo Hernandez 2020
+Processors: 1
+NodeCount: 1
+WallDuration: 7
+CpuDuration: 0
+NormalisedWallDuration: 92
+NormalisedCpuDuration: 0
+NumberOfJobs: 1
+%%
+Site: Purdue-Hammer
+VO: cms
+EarliestEndTime: 1434585600
+LatestEndTime: 1434585600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jha/CN=618566/CN=Manoj Jha/CN=proxy
+Processors: 1
+NodeCount: 1
+WallDuration: 2
+CpuDuration: 0
+NormalisedWallDuration: 24
+NormalisedCpuDuration: 0
+NumberOfJobs: 1
+%%
+Site: NWICG_Earth
+VO: cms
+EarliestEndTime: 1434672000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=khurtado/CN=764581/CN=Kenyi Paolo Hurtado Anampa
+Processors: 1
+NodeCount: 1
+WallDuration: 5053
+CpuDuration: 456
+NormalisedWallDuration: 60636
+NormalisedCpuDuration: 5472
+NumberOfJobs: 20
+%%
+Site: NWICG_NDCMS
+VO: cms
+EarliestEndTime: 1434672000
+LatestEndTime: 1435104000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=khurtado/CN=764581/CN=Kenyi Paolo Hurtado Anampa
+Processors: 1
+NodeCount: 1
+WallDuration: 15
+CpuDuration: 0
+NormalisedWallDuration: 180
+NormalisedCpuDuration: 0
+NumberOfJobs: 6
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1434672000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=amarkowi/CN=780041/CN=Aaron Gregory Markowitz
+Processors: 1
+NodeCount: 1
+WallDuration: 286684
+CpuDuration: 143545
+NormalisedWallDuration: 2761340
+NormalisedCpuDuration: 1382625
+NumberOfJobs: 129
+%%
+Site: UCSDT2
+VO: cms
+EarliestEndTime: 1434672000
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=matevz/CN=475546/CN=Matevz Tadel
+Processors: 1
+NodeCount: 1
+WallDuration: 32231
+CpuDuration: 0
+NormalisedWallDuration: 426738
+NormalisedCpuDuration: 0
+NumberOfJobs: 301
+%%
+Site: FLTECH
+VO: cms
+EarliestEndTime: 1434672000
+LatestEndTime: 1435104000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=amohapat/CN=718616/CN=Ankit Durgasis Mohapatra
+Processors: 1
+NodeCount: 1
+WallDuration: 3
+CpuDuration: 0
+NormalisedWallDuration: 36
+NormalisedCpuDuration: 0
+NumberOfJobs: 12
+%%
+Site: Purdue-Hadoop
+VO: cms
+EarliestEndTime: 1434931200
+LatestEndTime: 1435104000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=marabgol/CN=653155/CN=Majid Arabgol
+Processors: 1
+NodeCount: 1
+WallDuration: 32757
+CpuDuration: 0
+NormalisedWallDuration: 405204
+NormalisedCpuDuration: 0
+NumberOfJobs: 38
+%%
+Site: Purdue-Hammer
+VO: cms
+EarliestEndTime: 1434931200
+LatestEndTime: 1435104000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=marabgol/CN=653155/CN=Majid Arabgol
+Processors: 1
+NodeCount: 1
+WallDuration: 7878
+CpuDuration: 0
+NormalisedWallDuration: 94536
+NormalisedCpuDuration: 0
+NumberOfJobs: 25
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1434931200
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ojalvo/CN=708760/CN=Isabel Ojalvo
+Processors: 1
+NodeCount: 1
+WallDuration: 13917997
+CpuDuration: 8597256
+NormalisedWallDuration: 134058147
+NormalisedCpuDuration: 82808769
+NumberOfJobs: 6233
+%%
+Site: FLTECH
+VO: cms
+EarliestEndTime: 1435017600
+LatestEndTime: 1435017600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dmccormi/CN=766630/CN=Daniel Alexander Mccormick
+Processors: 1
+NodeCount: 1
+WallDuration: 0
+CpuDuration: 0
+NormalisedWallDuration: 0
+NormalisedCpuDuration: 0
+NumberOfJobs: 1
+%%
+Site: ucsb-cms
+VO: cms
+EarliestEndTime: 1435017600
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=testpilot03/test-frontend-1.t2.ucsd.edu
+Processors: 1
+NodeCount: 1
+WallDuration: 16672
+CpuDuration: 89
+NormalisedWallDuration: 200064
+NormalisedCpuDuration: 1068
+NumberOfJobs: 12
+%%
+Site: uprm-cms
+VO: cms
+EarliestEndTime: 1435276800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=testpilot03/test-frontend-1.t2.ucsd.edu
+Processors: 1
+NodeCount: 1
+WallDuration: 14649
+CpuDuration: 131
+NormalisedWallDuration: 175788
+NormalisedCpuDuration: 1572
+NumberOfJobs: 11
+%%
+Site: Nebraska
+VO: cms
+EarliestEndTime: 1435104000
+LatestEndTime: 1435104000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=pilot01/test-008.t2.ucsd.edu
+Processors: 1
+NodeCount: 1
+WallDuration: 2407
+CpuDuration: 0
+NormalisedWallDuration: 25061
+NormalisedCpuDuration: 0
+NumberOfJobs: 2
+%%
+Site: UCSDT2
+VO: cms
+EarliestEndTime: 1435104000
+LatestEndTime: 1435190400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=pilot01/test-008.t2.ucsd.edu
+Processors: 1
+NodeCount: 1
+WallDuration: 236613
+CpuDuration: 138
+NormalisedWallDuration: 3132756
+NormalisedCpuDuration: 1827
+NumberOfJobs: 120
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1435536000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vpremaku/CN=766223/CN=Vickram Narayn Premakumar
+Processors: 1
+NodeCount: 1
+WallDuration: 56328679
+CpuDuration: 4830317
+NormalisedWallDuration: 542557836
+NormalisedCpuDuration: 46525613
+NumberOfJobs: 15500
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1435536000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=taroni/CN=645054/CN=Silvia Taroni
+Processors: 1
+NodeCount: 1
+WallDuration: 4129563
+CpuDuration: 1608172
+NormalisedWallDuration: 39775950
+NormalisedCpuDuration: 15489912
+NumberOfJobs: 6868
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1435536000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=uhussain/CN=753367/CN=Usama Hussain
+Processors: 1
+NodeCount: 1
+WallDuration: 6809720
+CpuDuration: 537296
+NormalisedWallDuration: 65591223
+NormalisedCpuDuration: 5175235
+NumberOfJobs: 3597
+%%
+Site: TAMU_BRAZOS
+VO: cms
+EarliestEndTime: 1435536000
+LatestEndTime: 1435536000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=moralesm/CN=725145/CN=Jorge Daniel Morales Mendoza
+Processors: 1
+NodeCount: 1
+WallDuration: 97709
+CpuDuration: 4521
+NormalisedWallDuration: 1172508
+NormalisedCpuDuration: 54253
+NumberOfJobs: 14
+%%
+Site: FNAL_GPGRID_1
+VO: enmr.eu
+EarliestEndTime: 1433203200
+LatestEndTime: 1433203200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /O=dutchgrid/O=users/O=universiteit-utrecht/OU=chem/CN=Alexandre Bonvin
+Processors: 1
+NodeCount: 1
+WallDuration: 41893
+CpuDuration: 0
+NormalisedWallDuration: 502716
+NormalisedCpuDuration: 0
+NumberOfJobs: 11
+%%
+Site: FNAL_GPGRID_1
+VO: enmr.eu
+EarliestEndTime: 1433462400
+LatestEndTime: 1433808000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /O=dutchgrid/O=robots/O=universiteit-utrecht/OU=chem/CN=Robot: grid client - Alexandre Bonvin 2008
+Processors: 1
+NodeCount: 1
+WallDuration: 1537
+CpuDuration: 207
+NormalisedWallDuration: 18444
+NormalisedCpuDuration: 2484
+NumberOfJobs: 3
+%%
+Site: BNL-ATLAS
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435190400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 2
+NodeCount: 1
+WallDuration: 1111814800
+CpuDuration: 524785363
+NormalisedWallDuration: 11173738740
+NormalisedCpuDuration: 5274092898
+NumberOfJobs: 82402
+%%
+Site: CIT_CMS_T2
+VO: atlas
+EarliestEndTime: 1433289600
+LatestEndTime: 1433289600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 2
+NodeCount: 1
+WallDuration: 33906
+CpuDuration: 14072
+NormalisedWallDuration: 438879
+NormalisedCpuDuration: 182147
+NumberOfJobs: 5
+%%
+Site: Tusker
+VO: atlas
+EarliestEndTime: 1434499200
+LatestEndTime: 1435276800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 2
+NodeCount: 1
+WallDuration: 5427974
+CpuDuration: 724543
+NormalisedWallDuration: 65135688
+NormalisedCpuDuration: 8694522
+NumberOfJobs: 345
+%%
+Site: BNL-ATLAS
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 2
+NodeCount: 1
+WallDuration: 3537133430
+CpuDuration: 1635659505
+NormalisedWallDuration: 35548190971
+NormalisedCpuDuration: 16438378025
+NumberOfJobs: 318500
+%%
+Site: BNL-ATLAS
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 2
+NodeCount: 1
+WallDuration: 469558790
+CpuDuration: 206456740
+NormalisedWallDuration: 4719065839
+NormalisedCpuDuration: 2074890237
+NumberOfJobs: 50739
+%%
+Site: Tusker
+VO: atlas
+EarliestEndTime: 1435190400
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 2
+NodeCount: 1
+WallDuration: 14314426
+CpuDuration: 3409856
+NormalisedWallDuration: 171773112
+NormalisedCpuDuration: 40918278
+NumberOfJobs: 659
+%%
+Site: CIT_CMS_T2
+VO: cms
+EarliestEndTime: 1433289600
+LatestEndTime: 1433635200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 2
+NodeCount: 1
+WallDuration: 321472
+CpuDuration: 105876
+NormalisedWallDuration: 4161133
+NormalisedCpuDuration: 1370458
+NumberOfJobs: 14
+%%
+Site: Tusker
+VO: cms
+EarliestEndTime: 1433808000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 2
+NodeCount: 1
+WallDuration: 977098400
+CpuDuration: 71793446
+NormalisedWallDuration: 11725180800
+NormalisedCpuDuration: 861521352
+NumberOfJobs: 22341
+%%
+Site: Tusker
+VO: cms
+EarliestEndTime: 1433808000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 2
+NodeCount: 1
+WallDuration: 748802
+CpuDuration: 5093
+NormalisedWallDuration: 8985624
+NormalisedCpuDuration: 61121
+NumberOfJobs: 593
+%%
+Site: Tusker
+VO: cms
+EarliestEndTime: 1433808000
+LatestEndTime: 1434412800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 2
+NodeCount: 1
+WallDuration: 34740
+CpuDuration: 1135
+NormalisedWallDuration: 416880
+NormalisedCpuDuration: 13631
+NumberOfJobs: 30
+%%
+Site: Tusker
+VO: cms
+EarliestEndTime: 1433894400
+LatestEndTime: 1435449600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Processors: 2
+NodeCount: 1
+WallDuration: 541784
+CpuDuration: 13185
+NormalisedWallDuration: 6501408
+NormalisedCpuDuration: 158226
+NumberOfJobs: 151
+%%
+Site: AGLT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435017600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 8
+NodeCount: 1
+WallDuration: 1517608168
+CpuDuration: 1361430936
+NormalisedWallDuration: 14644918821
+NormalisedCpuDuration: 13137808532
+NumberOfJobs: 22126
+%%
+Site: BNL-ATLAS
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435190400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 8
+NodeCount: 1
+WallDuration: 5141474440
+CpuDuration: 4455533801
+NormalisedWallDuration: 51671818122
+NormalisedCpuDuration: 44778114700
+NumberOfJobs: 96018
+%%
+Site: BU_ATLAS_Tier2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435104000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 8
+NodeCount: 1
+WallDuration: 1184924448
+CpuDuration: 1035587816
+NormalisedWallDuration: 11635958079
+NormalisedCpuDuration: 10169472358
+NumberOfJobs: 13908
+%%
+Site: HU_ATLAS_Tier2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435363200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 8
+NodeCount: 1
+WallDuration: 520118320
+CpuDuration: 244170957
+NormalisedWallDuration: 4909916940
+NormalisedCpuDuration: 2304973834
+NumberOfJobs: 42074
+%%
+Site: LUCILLE
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435104000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 8
+NodeCount: 1
+WallDuration: 131462104
+CpuDuration: 117450482
+NormalisedWallDuration: 1196305146
+NormalisedCpuDuration: 1068799386
+NumberOfJobs: 1879
+%%
+Site: MWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435363200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 8
+NodeCount: 1
+WallDuration: 6749438688
+CpuDuration: 5960069216
+NormalisedWallDuration: 63984678762
+NormalisedCpuDuration: 56501456167
+NumberOfJobs: 44488
+%%
+Site: SWT2_CPB
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435276800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 8
+NodeCount: 1
+WallDuration: 466969664
+CpuDuration: 418423051
+NormalisedWallDuration: 3997260323
+NormalisedCpuDuration: 3581701316
+NumberOfJobs: 3907
+%%
+Site: UTA_SWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435363200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 8
+NodeCount: 1
+WallDuration: 291780824
+CpuDuration: 253691632
+NormalisedWallDuration: 2821520568
+NormalisedCpuDuration: 2453198081
+NumberOfJobs: 4610
+%%
+Site: AGLT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 8
+NodeCount: 1
+WallDuration: 4976262184
+CpuDuration: 4468665604
+NormalisedWallDuration: 48020930075
+NormalisedCpuDuration: 43122623078
+NumberOfJobs: 75718
+%%
+Site: BNL-ATLAS
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 8
+NodeCount: 1
+WallDuration: 11685998096
+CpuDuration: 9754136879
+NormalisedWallDuration: 117444280864
+NormalisedCpuDuration: 98029075633
+NumberOfJobs: 716234
+%%
+Site: BU_ATLAS_Tier2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 8
+NodeCount: 1
+WallDuration: 3072618048
+CpuDuration: 2601193310
+NormalisedWallDuration: 30173109231
+NormalisedCpuDuration: 25543718307
+NumberOfJobs: 38548
+%%
+Site: HU_ATLAS_Tier2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 8
+NodeCount: 1
+WallDuration: 1110760152
+CpuDuration: 593059489
+NormalisedWallDuration: 10485575834
+NormalisedCpuDuration: 5598481576
+NumberOfJobs: 96696
+%%
+Site: LUCILLE
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 8
+NodeCount: 1
+WallDuration: 505165264
+CpuDuration: 457670093
+NormalisedWallDuration: 4597003902
+NormalisedCpuDuration: 4164797846
+NumberOfJobs: 5961
+%%
+Site: MWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 8
+NodeCount: 1
+WallDuration: 7420396432
+CpuDuration: 6675823175
+NormalisedWallDuration: 70345358175
+NormalisedCpuDuration: 63286803699
+NumberOfJobs: 62412
+%%
+Site: SWT2_CPB
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 8
+NodeCount: 1
+WallDuration: 1880170720
+CpuDuration: 1692642755
+NormalisedWallDuration: 16094261363
+NormalisedCpuDuration: 14489021982
+NumberOfJobs: 14688
+%%
+Site: UTA_SWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 8
+NodeCount: 1
+WallDuration: 971331760
+CpuDuration: 847800528
+NormalisedWallDuration: 9392778119
+NormalisedCpuDuration: 8198231105
+NumberOfJobs: 15294
+%%
+Site: MWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=David Lesny 148
+Processors: 8
+NodeCount: 1
+WallDuration: 530064584
+CpuDuration: 374232986
+NormalisedWallDuration: 5067417423
+NormalisedCpuDuration: 3577667346
+NumberOfJobs: 25984
+%%
+Site: LUCILLE
+VO: atlas
+EarliestEndTime: 1433462400
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Saul Youssef 93
+Processors: 8
+NodeCount: 1
+WallDuration: 88
+CpuDuration: 0
+NormalisedWallDuration: 800
+NormalisedCpuDuration: 0
+NumberOfJobs: 13
+%%
+Site: WT2
+VO: atlas
+EarliestEndTime: 1435449600
+LatestEndTime: 1435449600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Saul Youssef 93
+Processors: 8
+NodeCount: 1
+WallDuration: 465824
+CpuDuration: 410505
+NormalisedWallDuration: 5152013
+NormalisedCpuDuration: 4540185
+NumberOfJobs: 1
+%%
+Site: WT2
+VO: atlas
+EarliestEndTime: 1433203200
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+Processors: 8
+NodeCount: 1
+WallDuration: 3284704
+CpuDuration: 2936140
+NormalisedWallDuration: 36328826
+NormalisedCpuDuration: 32473708
+NumberOfJobs: 15
+%%
+Site: AGLT2
+VO: atlas
+EarliestEndTime: 1435536000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 8
+NodeCount: 1
+WallDuration: 20299616
+CpuDuration: 17736928
+NormalisedWallDuration: 195891294
+NormalisedCpuDuration: 171161355
+NumberOfJobs: 694
+%%
+Site: BNL-ATLAS
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 8
+NodeCount: 1
+WallDuration: 1231470840
+CpuDuration: 920834659
+NormalisedWallDuration: 12376281942
+NormalisedCpuDuration: 9254388322
+NumberOfJobs: 192681
+%%
+Site: BU_ATLAS_Tier2
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 8
+NodeCount: 1
+WallDuration: 98738560
+CpuDuration: 79844638
+NormalisedWallDuration: 969612659
+NormalisedCpuDuration: 784074350
+NumberOfJobs: 1116
+%%
+Site: HU_ATLAS_Tier2
+VO: atlas
+EarliestEndTime: 1435363200
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 8
+NodeCount: 1
+WallDuration: 10623704
+CpuDuration: 6244992
+NormalisedWallDuration: 100287765
+NormalisedCpuDuration: 58952724
+NumberOfJobs: 1233
+%%
+Site: LUCILLE
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 8
+NodeCount: 1
+WallDuration: 32603840
+CpuDuration: 30014573
+NormalisedWallDuration: 296694944
+NormalisedCpuDuration: 273132614
+NumberOfJobs: 350
+%%
+Site: MWT2
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 8
+NodeCount: 1
+WallDuration: 595757040
+CpuDuration: 506265562
+NormalisedWallDuration: 5647776739
+NormalisedCpuDuration: 4799397527
+NumberOfJobs: 9042
+%%
+Site: SWT2_CPB
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 8
+NodeCount: 1
+WallDuration: 131833760
+CpuDuration: 121920081
+NormalisedWallDuration: 1128496985
+NormalisedCpuDuration: 1043635893
+NumberOfJobs: 1053
+%%
+Site: UTA_SWT2
+VO: atlas
+EarliestEndTime: 1435104000
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+Processors: 8
+NodeCount: 1
+WallDuration: 42208952
+CpuDuration: 35285791
+NormalisedWallDuration: 408160565
+NormalisedCpuDuration: 341213598
+NumberOfJobs: 563
+%%
+Site: Purdue-Carter
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 8
+NodeCount: 1
+WallDuration: 3821209376
+CpuDuration: 1312548160
+NormalisedWallDuration: 62667833766
+NormalisedCpuDuration: 21525789824
+NumberOfJobs: 14555
+%%
+Site: Purdue-Hammer
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 8
+NodeCount: 1
+WallDuration: 1672410120
+CpuDuration: 516087002
+NormalisedWallDuration: 20068921440
+NormalisedCpuDuration: 6193044024
+NumberOfJobs: 10497
+%%
+Site: Purdue-Hansen
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 8
+NodeCount: 1
+WallDuration: 2218945904
+CpuDuration: 1251245893
+NormalisedWallDuration: 19260450446
+NormalisedCpuDuration: 10860814351
+NumberOfJobs: 9917
+%%
+Site: Purdue-Rossmann
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 8
+NodeCount: 1
+WallDuration: 5986481216
+CpuDuration: 2716166433
+NormalisedWallDuration: 67288048867
+NormalisedCpuDuration: 30529710706
+NumberOfJobs: 23380
+%%
+Site: uprm-cms
+VO: cms
+EarliestEndTime: 1435276800
+LatestEndTime: 1435536000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 8
+NodeCount: 1
+WallDuration: 782864
+CpuDuration: 52943
+NormalisedWallDuration: 9394368
+NormalisedCpuDuration: 635316
+NumberOfJobs: 30
+%%
+Site: USCMS-FNAL-WC1
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 8
+NodeCount: 1
+WallDuration: 24693437800
+CpuDuration: 17122072262
+NormalisedWallDuration: 282492928432
+NormalisedCpuDuration: 195876506677
+NumberOfJobs: 91882
+%%
+Site: Purdue-Carter
+VO: cms
+EarliestEndTime: 1433203200
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Processors: 8
+NodeCount: 1
+WallDuration: 1679024
+CpuDuration: 3926
+NormalisedWallDuration: 27535993
+NormalisedCpuDuration: 64386
+NumberOfJobs: 149
+%%
+Site: Purdue-Hammer
+VO: cms
+EarliestEndTime: 1433203200
+LatestEndTime: 1435190400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Processors: 8
+NodeCount: 1
+WallDuration: 1086736
+CpuDuration: 2139
+NormalisedWallDuration: 13040832
+NormalisedCpuDuration: 25668
+NumberOfJobs: 92
+%%
+Site: Purdue-Hansen
+VO: cms
+EarliestEndTime: 1433203200
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Processors: 8
+NodeCount: 1
+WallDuration: 1319160
+CpuDuration: 2940
+NormalisedWallDuration: 11450308
+NormalisedCpuDuration: 25519
+NumberOfJobs: 128
+%%
+Site: Purdue-Rossmann
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Processors: 8
+NodeCount: 1
+WallDuration: 2430816
+CpuDuration: 5021
+NormalisedWallDuration: 27322371
+NormalisedCpuDuration: 56436
+NumberOfJobs: 220
+%%
+Site: USCMS-FNAL-WC1
+VO: cms
+EarliestEndTime: 1433116800
+LatestEndTime: 1433462400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+Processors: 8
+NodeCount: 1
+WallDuration: 6828832
+CpuDuration: 814121
+NormalisedWallDuration: 78121838
+NormalisedCpuDuration: 9313544
+NumberOfJobs: 348
+%%
+Site: uprm-cms
+VO: cms
+EarliestEndTime: 1435276800
+LatestEndTime: 1435536000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 8
+NodeCount: 1
+WallDuration: 65768
+CpuDuration: 1052
+NormalisedWallDuration: 789216
+NormalisedCpuDuration: 12624
+NumberOfJobs: 158
+%%
+Site: USCMS-FNAL-WC1
+VO: cms
+EarliestEndTime: 1433203200
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Processors: 8
+NodeCount: 1
+WallDuration: 31184
+CpuDuration: 0
+NormalisedWallDuration: 356744
+NormalisedCpuDuration: 0
+NumberOfJobs: 256
+%%
+Site: Purdue-Carter
+VO: cms
+EarliestEndTime: 1433808000
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 8
+NodeCount: 1
+WallDuration: 1208576
+CpuDuration: 143647
+NormalisedWallDuration: 19820646
+NormalisedCpuDuration: 2355810
+NumberOfJobs: 93
+%%
+Site: Purdue-Hadoop
+VO: cms
+EarliestEndTime: 1433721600
+LatestEndTime: 1434067200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 8
+NodeCount: 1
+WallDuration: 22056
+CpuDuration: 24
+NormalisedWallDuration: 272832
+NormalisedCpuDuration: 296
+NumberOfJobs: 3
+%%
+Site: Purdue-Hammer
+VO: cms
+EarliestEndTime: 1433721600
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 8
+NodeCount: 1
+WallDuration: 1141280
+CpuDuration: 10512
+NormalisedWallDuration: 13695360
+NormalisedCpuDuration: 126144
+NumberOfJobs: 97
+%%
+Site: Purdue-Hansen
+VO: cms
+EarliestEndTime: 1433808000
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 8
+NodeCount: 1
+WallDuration: 1308168
+CpuDuration: 122720
+NormalisedWallDuration: 11354898
+NormalisedCpuDuration: 1065209
+NumberOfJobs: 113
+%%
+Site: Purdue-Rossmann
+VO: cms
+EarliestEndTime: 1433721600
+LatestEndTime: 1434672000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 8
+NodeCount: 1
+WallDuration: 1841648
+CpuDuration: 157572
+NormalisedWallDuration: 20700123
+NormalisedCpuDuration: 1771109
+NumberOfJobs: 147
+%%
+Site: USCMS-FNAL-WC1
+VO: cms
+EarliestEndTime: 1433980800
+LatestEndTime: 1435017600
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot12/vocms0167.cern.ch
+Processors: 8
+NodeCount: 1
+WallDuration: 3245824
+CpuDuration: 3389
+NormalisedWallDuration: 37132226
+NormalisedCpuDuration: 38770
+NumberOfJobs: 287
+%%
+Site: Purdue-Hammer
+VO: cms
+EarliestEndTime: 1433894400
+LatestEndTime: 1433894400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=testpilot03/test-frontend-1.t2.ucsd.edu
+Processors: 8
+NodeCount: 1
+WallDuration: 34640
+CpuDuration: 74
+NormalisedWallDuration: 415680
+NormalisedCpuDuration: 888
+NumberOfJobs: 3
+%%
+Site: uprm-cms
+VO: cms
+EarliestEndTime: 1435276800
+LatestEndTime: 1435276800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=testpilot03/test-frontend-1.t2.ucsd.edu
+Processors: 8
+NodeCount: 1
+WallDuration: 11184
+CpuDuration: 21
+NormalisedWallDuration: 134208
+NormalisedCpuDuration: 252
+NumberOfJobs: 1
+%%
+Site: OU_OSCER_ATLAS
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1435536000
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 16
+NodeCount: 1
+WallDuration: 3703728
+CpuDuration: 2726559
+NormalisedWallDuration: 52667012
+NormalisedCpuDuration: 38771668
+NumberOfJobs: 195
+%%
+Site: OU_OSCER_ATLAS
+VO: atlas
+EarliestEndTime: 1433808000
+LatestEndTime: 1434931200
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=Jose Caballero 649
+Processors: 16
+NodeCount: 1
+WallDuration: 53279264
+CpuDuration: 42098646
+NormalisedWallDuration: 757631134
+NormalisedCpuDuration: 598642746
+NumberOfJobs: 2286
+%%
+Site: GLOW
+VO: cms
+EarliestEndTime: 1435276800
+LatestEndTime: 1435276800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ldodd/CN=725197/CN=Laura Margaret Dodd
+Processors: 16
+NodeCount: 1
+WallDuration: 16224
+CpuDuration: 712
+NormalisedWallDuration: 156269
+NormalisedCpuDuration: 6857
+NumberOfJobs: 1
+%%
+Site: MWT2
+VO: atlas
+EarliestEndTime: 1433116800
+LatestEndTime: 1433980800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=David Lesny 148
+Processors: 20
+NodeCount: 1
+WallDuration: 52527940
+CpuDuration: 15291195
+NormalisedWallDuration: 502167106
+NormalisedCpuDuration: 146183824
+NumberOfJobs: 5247
+%%
+Site: SMU_HPC
+VO: atlas
+EarliestEndTime: 1434412800
+LatestEndTime: 1434412800
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=John Hover 241
+Processors: 24
+NodeCount: 1
+WallDuration: 24
+CpuDuration: 0
+NormalisedWallDuration: 288
+NormalisedCpuDuration: 0
+NumberOfJobs: 1
+%%
+Site: MWT2
+VO: atlas
+EarliestEndTime: 1435363200
+LatestEndTime: 1435622400
+Month: 06
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=People/CN=David Lesny 148
+Processors: 60
+NodeCount: 1
+WallDuration: 14999820
+CpuDuration: 3841442
+NormalisedWallDuration: 143398279
+NormalisedCpuDuration: 36724185
+NumberOfJobs: 30
+%%
