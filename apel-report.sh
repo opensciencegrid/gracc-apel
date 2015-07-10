@@ -188,11 +188,15 @@ for cores in $coreslist ; do
                    mjobs=0
                    min_d=`date +%s`
                    max_d=0
+
+                   rg_resources=
+                   rg_nf=
                    for resource in $resources ; do
 ## get the resource group for this resource
                        rg=`res_rg $resource`
                        if [ "${rg}" = "${unique_rg}" ]; then
 
+                           rg_resources+=" $resource"
 ## Normalization factor
 ## attempt to get a normalization factor from oim
                            nftest=`mysql -u root oim -s <<< "
@@ -227,6 +231,8 @@ for cores in $coreslist ; do
                                now=`date`
                                echo "$now : Warning: Using global default normalization factor $nf for $resource">>$logdir/multicore.log
                            fi
+                           rg_nf=$nf
+
 ## get summed CPU and Wall time for this user on this resource
                            now=`date`
                            echo "$now : Getting results">>$logdir/multicore.log
