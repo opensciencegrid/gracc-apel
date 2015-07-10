@@ -1,18 +1,18 @@
 Tab-separated Fields for 2015-05.summary.dat
 
- 1  Reource Group   : BNL-ATLAS
- 2  NF              : 10.05
- 3  VO              : atlas
- 4  Jobs            : 2836398
- 5  CPU Hours       : 8278719
- 6  Wall Hours      : 10043800
- 7  Norm CPU Hours  : 83201123
- 8  Norm Wall Hours : 100940174
- 9  First Reported  : 2015-05-01
-10  Last Reported   : 2015-05-31
-11  Reported At     : 2015-06-09 14:41:36
-12  Federation Name : BNL_ATLAS_1
+ 1  Reource Group       : BNL-ATLAS
+ 2  NF                  : 10.05
+ 3  VO                  : atlas
+ 4  Jobs                : 2836398
+ 5  CPU Hours           : 8278719
+ 6  Wall Hours          : 10043800
+ 7  Norm CPU Hours      : 83201123
+ 8  Norm Wall Hours     : 100940174
+ 9  First Reported      : 2015-05-01
+10  Last Reported       : 2015-05-31
+11  Reported At         : 2015-06-09 14:41:36
+12  Federation Name     : BNL_ATLAS_1
 13  Resources Reporting : "BNL_ATLAS_1","BNL_ATLAS_2","BNL_ATLAS_3","BNL_ATLAS_4","BNL_ATLAS_5","BNL_ATLAS_6","BNL_ATLAS_7","BNL_ATLAS_8"
-14  Month           : 05
-15  Year            : 2015
+14  Month               : 05
+15  Year                : 2015
 
