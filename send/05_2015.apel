@@ -105,11 +105,11 @@ Infrastructure: Gratia-OSG
 GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
 Processors: 1
 NodeCount: 1
-WallDuration: 199191
-CpuDuration: 13262
-NormalisedWallDuration: 2203052
-NormalisedCpuDuration: 146677
-NumberOfJobs: 2812
+WallDuration: 364740
+CpuDuration: 176168
+NormalisedWallDuration: 4034024
+NormalisedCpuDuration: 1948418
+NumberOfJobs: 2814
 %%
 Site: AGLT2
 VO: atlas
@@ -1118,6 +1118,22 @@ CpuDuration: 29494
 NormalisedWallDuration: 282928
 NormalisedCpuDuration: 284617
 NumberOfJobs: 1
+%%
+Site: NERSC-PDSF
+VO: alice
+EarliestEndTime: 1430438400
+LatestEndTime: 1433030400
+Month: 05
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: generic alice user
+Processors: 1
+NodeCount: 1
+WallDuration: 2248259884
+CpuDuration: 1771753284
+NormalisedWallDuration: 37352589712
+NormalisedCpuDuration: 29435909060
+NumberOfJobs: 182779
 %%
 Site: GLOW
 VO: cms
