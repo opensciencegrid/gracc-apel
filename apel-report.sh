@@ -5,9 +5,15 @@ loc=$(dirname "$0")
 logdir=/var/log
 pubdir=/net/nas01/Public
 QQQ=${QQQ:-$loc/qqq}
+ZZZ=${ZZZ:-$loc/zzz}
 
 if [[ ! -r $QQQ ]]; then
   echo "Can't read mysql defaults file '$QQQ'" >&2
+  exit 1
+fi
+
+if [[ ! -r $ZZZ ]]; then
+  echo "Can't read mysql defaults file '$ZZZ'" >&2
   exit 1
 fi
 
@@ -22,23 +28,16 @@ fi
 function res_rg() {
 nlimit=2
 rg="NULL"
-tmp=`mysql -u root oim -s <<< "
-  select b.name
-    from resource a
-       , resource_group b
-   where a.name = '$1'
-     and a.resource_group_id = b.id ;"`
+
+tmp=`echo "use oim ; select b.name from resource a, resource_group b where a.name = '$1' and a.resource_group_id = b.id ;" | mysql --defaults-extra-file="$ZZZ" | tail -n +2`
+
 size=${#tmp}
 if [ "$size" -gt "$nlimit" ] ; then
     rg=$tmp
 else
 ##  proper use of names has failed, try using FQDN rather than name
-    tmp=`mysql -u root oim -s <<< "
-      select b.name
-        from resource a
-           , resource_group b
-       where a.fqdn = '$1'
-         and a.resource_group_id = b.id ;"`
+
+    tmp=`echo "use oim ; select b.name from resource a, resource_group b where a.fqdn = '$1' and a.resource_group_id = b.id ;" | mysql --defaults-extra-file="$ZZZ" | tail -n +2`
     size=${#tmp}
     if [ "$size" -gt "$nlimit" ] ; then
         rg=$tmp
@@ -202,12 +201,9 @@ for cores in $coreslist ; do
 
 ## Normalization factor
 ## attempt to get a normalization factor from oim
-                           nftest=`mysql -u root oim -s <<< "
-                             select b.apel_normal_factor
-                               from resource a
-                                  , resource_wlcg b
-                              where b.resource_id = a.id
-                                and a.name = '$resource';"`
+
+			   nftest=` echo "use oim; select b.apel_normal_factor from resource a, resource_wlcg b where b.resource_id = a.id and a.name = '$resource';" | mysql --defaults-extra-file="$ZZZ" | tail -n +2`
+
                            if [ -z "$nftest" ] ; then
                                nftest=12
                                now=`date`
