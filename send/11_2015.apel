@@ -4335,3 +4335,19 @@ NormalisedWallDuration: 392196
 NormalisedCpuDuration: 151629
 NumberOfJobs: 9
 %%
+Site: MIT_CMS
+VO: cms
+EarliestEndTime: 1446336000
+LatestEndTime: 1448841600
+Month: 11
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: extrapolated MIT_CMS accounting for November 13-25 2015
+Processors: 1
+NodeCount: 1
+WallDuration: 4164231415
+CpuDuration: 2984399213
+NormalisedWallDuration: 44973699286
+NormalisedCpuDuration: 32231511499
+NumberOfJobs: 67705
+%%
