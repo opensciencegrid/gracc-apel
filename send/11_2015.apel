@@ -1113,11 +1113,11 @@ Infrastructure: Gratia-OSG
 GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
 Processors: 1
 NodeCount: 1
-WallDuration: 768380
-CpuDuration: 46004
-NormalisedWallDuration: 8298504
-NormalisedCpuDuration: 496843
-NumberOfJobs: 3718
+WallDuration: 1022721
+CpuDuration: 68778
+NormalisedWallDuration: 11045386
+NormalisedCpuDuration: 742802
+NumberOfJobs: 5682
 %%
 Site: Nebraska
 VO: cms
@@ -1625,11 +1625,11 @@ Infrastructure: Gratia-OSG
 GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
 Processors: 1
 NodeCount: 1
-WallDuration: 12137007
-CpuDuration: 8127197
-NormalisedWallDuration: 131079675
-NormalisedCpuDuration: 87773727
-NumberOfJobs: 603
+WallDuration: 23295721
+CpuDuration: 14818932
+NormalisedWallDuration: 251593786
+NormalisedCpuDuration: 160044465
+NumberOfJobs: 1081
 %%
 Site: Nebraska
 VO: cms
@@ -1817,11 +1817,11 @@ Infrastructure: Gratia-OSG
 GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
 Processors: 1
 NodeCount: 1
-WallDuration: 6805898948
-CpuDuration: 5070954166
-NormalisedWallDuration: 73503708638
-NormalisedCpuDuration: 54766304992
-NumberOfJobs: 101357
+WallDuration: 9544826473
+CpuDuration: 6846644313
+NormalisedWallDuration: 103084125908
+NormalisedCpuDuration: 73943758580
+NumberOfJobs: 142645
 %%
 Site: Nebraska
 VO: cms
@@ -1870,6 +1870,22 @@ CpuDuration: 59690721
 NormalisedWallDuration: 1340566416
 NormalisedCpuDuration: 716288652
 NumberOfJobs: 6830
+%%
+Site: osu-cms
+VO: cms
+EarliestEndTime: 1446336000
+LatestEndTime: 1448841600
+Month: 11
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 11190352
+CpuDuration: 0
+NormalisedWallDuration: 134284224
+NormalisedCpuDuration: 0
+NumberOfJobs: 9185
 %%
 Site: Purdue-Hadoop
 VO: cms
@@ -2111,6 +2127,22 @@ NormalisedWallDuration: 486369620
 NormalisedCpuDuration: 0
 NumberOfJobs: 439
 %%
+Site: osu-cms
+VO: cms
+EarliestEndTime: 1446336000
+LatestEndTime: 1448841600
+Month: 11
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch/CN=proxy/CN=limited proxy
+Processors: 1
+NodeCount: 1
+WallDuration: 843036
+CpuDuration: 0
+NormalisedWallDuration: 10116432
+NormalisedCpuDuration: 0
+NumberOfJobs: 693
+%%
 Site: GLOW
 VO: cms
 EarliestEndTime: 1446422400
@@ -2265,11 +2297,11 @@ Infrastructure: Gratia-OSG
 GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
 Processors: 1
 NodeCount: 1
-WallDuration: 134256
-CpuDuration: 1785
-NormalisedWallDuration: 1449964
-NormalisedCpuDuration: 19278
-NumberOfJobs: 77
+WallDuration: 176436
+CpuDuration: 2289
+NormalisedWallDuration: 1905508
+NormalisedCpuDuration: 24721
+NumberOfJobs: 103
 %%
 Site: Nebraska
 VO: cms
@@ -2318,6 +2350,22 @@ CpuDuration: 378
 NormalisedWallDuration: 356040
 NormalisedCpuDuration: 4536
 NumberOfJobs: 14
+%%
+Site: osu-cms
+VO: cms
+EarliestEndTime: 1446595200
+LatestEndTime: 1448323200
+Month: 11
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+Processors: 1
+NodeCount: 1
+WallDuration: 24123
+CpuDuration: 0
+NormalisedWallDuration: 289476
+NormalisedCpuDuration: 0
+NumberOfJobs: 25
 %%
 Site: Purdue-Hadoop
 VO: cms
@@ -2639,6 +2687,22 @@ NormalisedWallDuration: 110902
 NormalisedCpuDuration: 74946
 NumberOfJobs: 12
 %%
+Site: osu-cms
+VO: cms
+EarliestEndTime: 1447200000
+LatestEndTime: 1447200000
+Month: 11
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch/CN=proxy/CN=limited proxy
+Processors: 1
+NodeCount: 1
+WallDuration: 699
+CpuDuration: 0
+NormalisedWallDuration: 8388
+NormalisedCpuDuration: 0
+NumberOfJobs: 1
+%%
 Site: Baylor-Tier3
 VO: cms
 EarliestEndTime: 1447804800
@@ -2798,6 +2862,22 @@ CpuDuration: 14047
 NormalisedWallDuration: 671700
 NormalisedCpuDuration: 168564
 NumberOfJobs: 15
+%%
+Site: osu-cms
+VO: cms
+EarliestEndTime: 1447286400
+LatestEndTime: 1447804800
+Month: 11
+Year: 2015
+Infrastructure: Gratia-OSG
+GlobalUserName: /DC=com/DC=DigiCert-Grid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+Processors: 1
+NodeCount: 1
+WallDuration: 25424
+CpuDuration: 0
+NormalisedWallDuration: 305088
+NormalisedCpuDuration: 0
+NumberOfJobs: 21
 %%
 Site: Purdue-Hadoop
 VO: cms
