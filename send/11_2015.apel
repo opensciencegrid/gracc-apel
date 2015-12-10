@@ -4345,9 +4345,9 @@ Infrastructure: Gratia-OSG
 GlobalUserName: extrapolated MIT_CMS accounting for November 13-25 2015
 Processors: 1
 NodeCount: 1
-WallDuration: 4164231415
-CpuDuration: 2984399213
-NormalisedWallDuration: 44973699286
-NormalisedCpuDuration: 32231511499
-NumberOfJobs: 67705
+WallDuration: 7348643674
+CpuDuration: 5266586846
+NormalisedWallDuration: 79365351681
+NormalisedCpuDuration: 56879137940
+NumberOfJobs: 119480
 %%
