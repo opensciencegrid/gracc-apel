@@ -107,8 +107,8 @@ Processors: 1
 NodeCount: 1
 WallDuration: 42289
 CpuDuration: 1577
-NormalisedWallDuration: 361993
-NormalisedCpuDuration: 13499
+NormalisedWallDuration: 408088
+NormalisedCpuDuration: 15218
 NumberOfJobs: 1864
 %%
 Site: WT2
@@ -379,8 +379,8 @@ Processors: 1
 NodeCount: 1
 WallDuration: 750520548
 CpuDuration: 671425049
-NormalisedWallDuration: 6424455890
-NormalisedCpuDuration: 5747398419
+NormalisedWallDuration: 7242523288
+NormalisedCpuDuration: 6479251722
 NumberOfJobs: 104680
 %%
 Site: UConn-OSG
@@ -571,8 +571,8 @@ Processors: 1
 NodeCount: 1
 WallDuration: 5721547215
 CpuDuration: 5332791128
-NormalisedWallDuration: 48976444160
-NormalisedCpuDuration: 45648692055
+NormalisedWallDuration: 55212930624
+NormalisedCpuDuration: 51461434385
 NumberOfJobs: 588023
 %%
 Site: UTA_SWT2
@@ -3467,8 +3467,8 @@ Processors: 8
 NodeCount: 1
 WallDuration: 82912017
 CpuDuration: 575116972
-NormalisedWallDuration: 709726865
-NormalisedCpuDuration: 4923001280
+NormalisedWallDuration: 800100964
+NormalisedCpuDuration: 5549878779
 NumberOfJobs: 4807
 %%
 Site: UTA_SWT2
@@ -3595,8 +3595,8 @@ Processors: 8
 NodeCount: 1
 WallDuration: 369130510
 CpuDuration: 2560732925
-NormalisedWallDuration: 3159757165
-NormalisedCpuDuration: 21919873838
+NormalisedWallDuration: 3562109421
+NormalisedCpuDuration: 24711072726
 NumberOfJobs: 27163
 %%
 Site: UTA_SWT2
