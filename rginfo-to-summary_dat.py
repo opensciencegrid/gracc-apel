@@ -1,6 +1,5 @@
 #!/usr/bin/python
 
-import collections
 import time
 import sys
 import os
@@ -44,9 +43,12 @@ def mkdate(epoch):
 def mkdate_time(epoch):
     return time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime(epoch))
 
-class RGInfo(collections.namedtuple('RGInfo', field_names)):
+class RGInfo:
     def __init__(self, line):
-        super(RGInfo, self).__init__(line.rstrip('\n').split('\t'))
+        items = line.rstrip('\n').split('\t')
+        for i,field in field_names:
+            setattr(self, field, items[i])
+
         self.nf = set(map(float, self.nf.split()))
         for field in int_fields:
             setattr(self, field, int(getattr(self, field)))
