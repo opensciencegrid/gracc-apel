@@ -46,7 +46,10 @@ def mkdate_time(epoch):
 class RGInfo:
     def __init__(self, line):
         items = line.rstrip('\n').split('\t')
-        for i,field in field_names:
+        if len(items) != len(field_names):
+            print >>sys.stderr, "explode!"
+            sys.exit(1)
+        for i,field in enumerate(field_names):
             setattr(self, field, items[i])
 
         self.nf = set(map(float, self.nf.split()))
@@ -73,7 +76,8 @@ class RGInfo:
         nf = list(self.nf)
         if len(nf) > 1:
             print >>sys.stderr, "Warning, resource group %s has multiple" \
-              " unique values for NF; using %s" % (self.resource_group, nf[0])
+                " unique values for NF: (%s); using %s" % (
+                    self.resource_group, ', '.join(map(str,nf)), nf[0])
         sfields.append(nf[0])
         sfields.append(self.vo)
         sfields.append(self.jobs)
@@ -85,9 +89,9 @@ class RGInfo:
         sfields.append(mkdate(self.first_reported))
         sfields.append(mkdate(self.last_reported))
         sfields.append(mkdate_time(self.reported_at))
-        sfields.append(mkdate(self.federation))
+        sfields.append(self.federation)
 
-        sfields.append(self.resources_reporting)
+        sfields.append(','.join('"%s"' % x for x in self.resources_reporting))
         sfields.append(self.month)
         sfields.append(self.year)
 
