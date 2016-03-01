@@ -73,12 +73,12 @@ class RGInfo:
     def __str__(self):
         sfields = []
         sfields.append(self.resource_group)
-        nf = list(self.nf)
-        if len(nf) > 1:
+        nf = min(self.nf)
+        if len(self.nf) > 1:
             print >>sys.stderr, "Warning, resource group %s has multiple" \
                 " unique values for NF: (%s); using %s" % (
-                    self.resource_group, ', '.join(map(str,nf)), nf[0])
-        sfields.append(nf[0])
+                    self.resource_group, ', '.join(map(str,self.nf)), nf)
+        sfields.append(nf)
         sfields.append(self.vo)
         sfields.append(self.jobs)
         sfields.append(self.cpu)
