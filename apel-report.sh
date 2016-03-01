@@ -4,6 +4,18 @@ loc=$(dirname "$0")
 
 logdir=/var/log
 pubdir=/net/nas01/Public
+QQQ=${QQQ:-$loc/qqq}
+ZZZ=${ZZZ:-$loc/zzz}
+
+if [[ ! -r $QQQ ]]; then
+  echo "Can't read mysql defaults file '$QQQ'" >&2
+  exit 1
+fi
+
+if [[ ! -r $ZZZ ]]; then
+  echo "Can't read mysql defaults file '$ZZZ'" >&2
+  exit 1
+fi
 
 # test run; log under current dir
 if [[ $1 = -t ]]; then
@@ -16,7 +28,7 @@ fi
 function res_rg() {
 nlimit=2
 rg="NULL"
-tmp=`mysql -u root oim -s <<< "
+tmp=`mysql --defaults-extra-file="$ZZZ" oim -s <<< "
   select b.name
     from resource a
        , resource_group b
@@ -27,7 +39,7 @@ if [ "$size" -gt "$nlimit" ] ; then
     rg=$tmp
 else
 ##  proper use of names has failed, try using FQDN rather than name
-    tmp=`mysql -u root oim -s <<< "
+    tmp=`mysql --defaults-extra-file="$ZZZ" oim -s <<< "
       select b.name
         from resource a
            , resource_group b
@@ -102,10 +114,10 @@ coreslist=`echo "use gratia ;
     from MasterSummaryData m
        , VONameCorrection v
    where m.VOcorrid = v.corrid
-     and v.ReportableVOName in ($volist_in)
+     and lower(v.ReportableVOName) in ($volist_in)
      and m.EndTime >= '$year-$month-01'
      and m.EndTime <  '$year-$month-01' + INTERVAL 1 MONTH;
-" | mysql --defaults-extra-file=$loc/qqq | tail -n +2`
+" | mysql --defaults-extra-file="$QQQ" | tail -n +2`
 
 for cores in $coreslist ; do
    for vo in $volist ; do
@@ -118,11 +130,11 @@ for cores in $coreslist ; do
            from MasterSummaryData m
               , VONameCorrection v
           where m.VOcorrid = v.corrid
-            and v.ReportableVOName = '$vo'
+            and lower(v.ReportableVOName) = '$vo'
             and m.Cores = $cores
             and m.EndTime >= '$year-$month-01'
             and m.EndTime <  '$year-$month-01' + INTERVAL 1 MONTH;
-       " | mysql --defaults-extra-file=$loc/qqq | tail -n +2`
+       " | mysql --defaults-extra-file="$QQQ" | tail -n +2`
 
        now=`date`
        echo "$now : Found $nusers users">>$logdir/multicore.log
@@ -136,12 +148,12 @@ for cores in $coreslist ; do
                from MasterSummaryData m
                   , VONameCorrection v
               where m.VOcorrid = v.corrid
-                and v.ReportableVOName = '$vo'
+                and lower(v.ReportableVOName) = '$vo'
                 and m.Cores = $cores
                 and m.EndTime >= '$year-$month-01'
                 and m.EndTime <  '$year-$month-01' + INTERVAL 1 MONTH
               limit $user_index,1;
-           " | mysql --defaults-extra-file=$loc/qqq | tail -n +2`
+           " | mysql --defaults-extra-file="$QQQ" | tail -n +2`
 
 ## escape user dn, which can contain apostrophies...
            user_esc=${user//"'"/"''"}
@@ -162,12 +174,12 @@ for cores in $coreslist ; do
               where m.VOcorrid = v.corrid
                 and s.siteid = p.siteid
                 and p.probename = m.ProbeName
-                and v.ReportableVOName = '$vo'
+                and lower(v.ReportableVOName) = '$vo'
                 and m.Cores=$cores
                 and m.EndTime >= '$year-$month-01'
                 and m.EndTime <  '$year-$month-01' + INTERVAL 1 MONTH
                 and m.DistinguishedName = '$user_esc';
-           " | mysql --defaults-extra-file=$loc/qqq | tail -n +2`
+           " | mysql --defaults-extra-file="$QQQ" | tail -n +2`
            size=${#resources}
            if [ "$size" -gt "$nlimit" ] ; then
 ## have a non-null resources list, find the resource groups of the resources
@@ -200,7 +212,7 @@ for cores in $coreslist ; do
                            rg_resources+=",\"$resource\""
 ## Normalization factor
 ## attempt to get a normalization factor from oim
-                           nftest=`mysql -u root oim -s <<< "
+                           nftest=`mysql --defaults-extra-file="$ZZZ" oim -s <<< "
                              select b.apel_normal_factor
                                from resource a
                                   , resource_wlcg b
@@ -253,12 +265,12 @@ for cores in $coreslist ; do
                                 and s.siteid = p.siteid
                                 and p.probename = m.ProbeName
                                 and s.SiteName = '$resource'
-                                and v.ReportableVOName = '$vo'
+                                and lower(v.ReportableVOName) = '$vo'
                                 and m.Cores=$cores
                                 and m.EndTime >= '$year-$month-01'
                                 and m.EndTime <  '$year-$month-01' + INTERVAL 1 MONTH
                                 and m.DistinguishedName = '$user_esc' ;
-                           " | mysql --defaults-extra-file=$loc/qqq | tail -n +2`
+                           " | mysql --defaults-extra-file="$QQQ" | tail -n +2`
 
 ## find the max and min job end times for the jobs defining usage.
 ## This is per request from APEL and is different that John W report
@@ -274,13 +286,13 @@ for cores in $coreslist ; do
                               where m.VOcorrid = v.corrid
                                 and s.siteid = p.siteid
                                 and p.probename = m.ProbeName
-                                and v.ReportableVOName = '$vo'
+                                and lower(v.ReportableVOName) = '$vo'
                                 and m.Cores=$cores
                                 and m.EndTime >= '$year-$month-01'
                                 and m.EndTime <  '$year-$month-01' + INTERVAL 1 MONTH
                                 and m.DistinguishedName = '$user_esc'
                                 and s.SiteName = '$resource';
-                           " | mysql --defaults-extra-file=$loc/qqq | tail -n +2`
+                           " | mysql --defaults-extra-file="$QQQ" | tail -n +2`
 
                            echo $results | grep NULL >/dev/null
 ## sum up the results for this user, there may be more than one resource in this resource group
@@ -288,13 +300,13 @@ for cores in $coreslist ; do
 
                                now=`date`
                                x=`echo $results | awk '{ print $1 }'`
-                               wall=`echo "$wall+$cores*$x" | bc`
+                               wall=`echo "$wall+$x" | bc`
 
                                x=`echo $results | awk '{ print $2 }'`
                                cpu=`echo "$cpu+$x" | bc`
 
                                x=`echo $results | awk '{ print $1 }'`
-                               nwall=`echo "$nwall+$cores*$x*$nf" | bc`
+                               nwall=`echo "$nwall+$x*$nf" | bc`
 
                                x=`echo $results | awk '{ print $2 }'`
                                ncpu=`echo "$ncpu+$x*$nf" | bc`
