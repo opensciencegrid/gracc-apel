@@ -100,7 +100,7 @@ class RGInfo:
 totals = {}
 for line in open(rginfo_file):
     rginfo = RGInfo(line)
-    key = (rginfo.vo, rginfo.resource_group)
+    key = (rginfo.resource_group, rginfo.vo)
     if key not in totals:
         totals[key] = rginfo
     else:
