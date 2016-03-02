@@ -393,6 +393,9 @@ for cores in $coreslist ; do
 done
 }>$pubdir/send/${month}_$year.apel
 
+# generate YYYY-MM.summary.dat from rginfo.txt
+$loc/rginfo-to-summary_dat.py tmp/rginfo.txt > $pubdir/send/$year-$month.summary.dat 2>>$pubdir/tmp/problems_${month}_$year
+
 ## post generation section
 chmod ugoa+rw $pubdir/send/${month}_$year.apel
 cp $pubdir/send/${month}_$year.apel $pubdir/tmp/current.apel
