@@ -65,12 +65,17 @@ fi
 echo $rg
 }
 
+get_unique () {
+  echo $(printf '%s\n' $@ | sort -u)
+}
+
 ## for small core count, node count is 1
 nodes=1
 
 ## send a report for last month for the first 3 days of this month
 ## this allow last month to finalize and data to be generated for this month
 day=`date +%d`
+now_timestamp=`date +%s`
 if [[ $1 = 20[0-9][0-9] && $2 = [0-9][0-9] ]]; then
     year=$1
     month=$2
@@ -88,6 +93,7 @@ fi
 ## if there was no data newer that "cutoff" days, there is a problem, log it.
 cutoff=2.00
 rm -f $pubdir/tmp/problems_${month}_$year
+rm -f $pubdir/tmp/rginfo.txt
 
 ## get rid of any old reports
 rm -f $pubdir/send/*.apel
@@ -209,7 +215,7 @@ for cores in $coreslist ; do
                        rg=`res_rg $resource`
                        if [ "${rg}" = "${unique_rg}" ]; then
 
-                           rg_resources+=",\"$resource\""
+                           rg_resources+="$resource "
 ## Normalization factor
 ## attempt to get a normalization factor from oim
                            nftest=`mysql --defaults-extra-file="$ZZZ" oim -s <<< "
@@ -373,9 +379,11 @@ for cores in $coreslist ; do
                       }>>$pubdir/tmp/problems_${month}_$year
                    fi
 
-                   rg_resources=${rg_resources#,}
-                   rg_nf=$(echo $(echo $rg_nf | tr ' ' '\n' | sort -u))
-                   echo "vo=$vo rg=$unique_rg nf=($rg_nf) resources=$rg_resources" \
+                   rg_resources=$(get_unique $rg_resources)
+                   rg_nf=$(get_unique $rg_nf)
+                   printf '%s\t%s\t%s\t%.0f\t%.0f\t%.0f\t%.0f\t%.0f\t%s\t%s\t%s\t%s\t%s\t%s\t%s\n' \
+                        "$unique_rg" "$rg_nf" "$vo" "$kjobs" "$cpu" "$wall" "$ncpu" "$nwall" \
+                        "$min_d" "$max_d" "$now_timestamp" "federation_name_unavailable" "$rg_resources" "$month" "$year" \
                    >> $pubdir/tmp/rginfo.txt
                done
            fi
