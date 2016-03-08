@@ -43,6 +43,9 @@ def mkdate(epoch):
 def mkdate_time(epoch):
     return time.strftime("%Y-%m-%d %H:%M:%S", time.gmtime(epoch))
 
+def sec2hrs(s):
+    return int(s/3600.0)
+
 class RGInfo:
     def __init__(self, line):
         items = line.rstrip('\n').split('\t')
@@ -81,10 +84,11 @@ class RGInfo:
         sfields.append(nf)
         sfields.append(self.vo)
         sfields.append(self.jobs)
-        sfields.append(self.cpu)
-        sfields.append(self.wall)
-        sfields.append(self.ncpu)
-        sfields.append(self.nwall)
+        # convert the cpu/wall duration fields from seconds to hours
+        sfields.append(sec2hrs(self.cpu))
+        sfields.append(sec2hrs(self.wall))
+        sfields.append(sec2hrs(self.ncpu))
+        sfields.append(sec2hrs(self.nwall))
 
         sfields.append(mkdate(self.first_reported))
         sfields.append(mkdate(self.last_reported))
