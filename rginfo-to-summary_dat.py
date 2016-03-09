@@ -46,6 +46,9 @@ def mkdate_time(epoch):
 def sec2hrs(s):
     return int(s/3600.0)
 
+def res_reporting_str(resources_reporting):
+    return ','.join('"%s"' % x for x in sorted(resources_reporting))
+
 class RGInfo:
     def __init__(self, line):
         items = line.rstrip('\n').split('\t')
@@ -95,7 +98,7 @@ class RGInfo:
         sfields.append(mkdate_time(self.reported_at))
         sfields.append(self.federation)
 
-        sfields.append(','.join('"%s"' % x for x in self.resources_reporting))
+        sfields.append(res_reporting_str(self.resources_reporting))
         sfields.append(self.month)
         sfields.append(self.year)
 
