@@ -841,27 +841,11 @@ Infrastructure: Gratia-OSG
 GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
 Processors: 1
 NodeCount: 1
-WallDuration: 1123980
-CpuDuration: 369570
-NormalisedWallDuration: 12633535
-NormalisedCpuDuration: 4153966
-NumberOfJobs: 17501
-%%
-Site: Nebraska-HCC
-VO: cms
-EarliestEndTime: 1451606400
-LatestEndTime: 1453420800
-Month: 01
-Year: 2016
-Infrastructure: Gratia-OSG
-GlobalUserName: /DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
-Processors: 1
-NodeCount: 1
-WallDuration: 1200129
-CpuDuration: 32860
-NormalisedWallDuration: 14401548
-NormalisedCpuDuration: 394322
-NumberOfJobs: 2190
+WallDuration: 2324109
+CpuDuration: 402430
+NormalisedWallDuration: 27035083
+NormalisedCpuDuration: 4548289
+NumberOfJobs: 19691
 %%
 Site: NWICG_NDCMS
 VO: cms
@@ -1345,22 +1329,6 @@ NumberOfJobs: 587
 %%
 Site: Nebraska
 VO: cms
-EarliestEndTime: 1451779200
-LatestEndTime: 1452470400
-Month: 01
-Year: 2016
-Infrastructure: Gratia-OSG
-GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
-Processors: 1
-NodeCount: 1
-WallDuration: 131872
-CpuDuration: 2259
-NormalisedWallDuration: 1482241
-NormalisedCpuDuration: 25391
-NumberOfJobs: 106
-%%
-Site: Nebraska-HCC
-VO: cms
 EarliestEndTime: 1451692800
 LatestEndTime: 1454025600
 Month: 01
@@ -1369,11 +1337,11 @@ Infrastructure: Gratia-OSG
 GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
 Processors: 1
 NodeCount: 1
-WallDuration: 48975
-CpuDuration: 1736
-NormalisedWallDuration: 587700
-NormalisedCpuDuration: 20840
-NumberOfJobs: 37
+WallDuration: 180847
+CpuDuration: 3995
+NormalisedWallDuration: 2069941
+NormalisedCpuDuration: 46231
+NumberOfJobs: 143
 %%
 Site: Purdue-Carter
 VO: cms
@@ -1577,27 +1545,11 @@ Infrastructure: Gratia-OSG
 GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
 Processors: 1
 NodeCount: 1
-WallDuration: 6316018947
-CpuDuration: 4955240577
-NormalisedWallDuration: 70992052964
-NormalisedCpuDuration: 55696904085
-NumberOfJobs: 156149
-%%
-Site: Nebraska-HCC
-VO: cms
-EarliestEndTime: 1451606400
-LatestEndTime: 1454198400
-Month: 01
-Year: 2016
-Infrastructure: Gratia-OSG
-GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
-Processors: 1
-NodeCount: 1
-WallDuration: 1497007954
-CpuDuration: 87225708
-NormalisedWallDuration: 17964095448
-NormalisedCpuDuration: 1046708506
-NumberOfJobs: 22017
+WallDuration: 7813026901
+CpuDuration: 5042466285
+NormalisedWallDuration: 88956148412
+NormalisedCpuDuration: 56743612591
+NumberOfJobs: 178166
 %%
 Site: NWICG_NDCMS
 VO: cms
@@ -2105,27 +2057,11 @@ Infrastructure: Gratia-OSG
 GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
 Processors: 1
 NodeCount: 1
-WallDuration: 8440344
-CpuDuration: 176569
-NormalisedWallDuration: 94869466
-NormalisedCpuDuration: 1984635
-NumberOfJobs: 5391
-%%
-Site: Nebraska-HCC
-VO: cms
-EarliestEndTime: 1451779200
-LatestEndTime: 1454198400
-Month: 01
-Year: 2016
-Infrastructure: Gratia-OSG
-GlobalUserName: /DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
-Processors: 1
-NodeCount: 1
-WallDuration: 2070654
-CpuDuration: 28501
-NormalisedWallDuration: 24847848
-NormalisedCpuDuration: 342022
-NumberOfJobs: 270
+WallDuration: 10510998
+CpuDuration: 205070
+NormalisedWallDuration: 119717314
+NormalisedCpuDuration: 2326658
+NumberOfJobs: 5661
 %%
 Site: NWICG_NDCMS
 VO: cms
@@ -2591,7 +2527,7 @@ NormalisedWallDuration: 359666322
 NormalisedCpuDuration: 279820300
 NumberOfJobs: 26544
 %%
-Site: Nebraska-HCC
+Site: Nebraska
 VO: cms
 EarliestEndTime: 1453334400
 LatestEndTime: 1453334400
@@ -3327,7 +3263,7 @@ NormalisedWallDuration: 21691997475
 NormalisedCpuDuration: 17418019674
 NumberOfJobs: 263320
 %%
-Site: Nebraska-HCC
+Site: Nebraska
 VO: atlas
 EarliestEndTime: 1451606400
 LatestEndTime: 1453248000
@@ -3343,7 +3279,7 @@ NormalisedWallDuration: 85401816
 NormalisedCpuDuration: 1327900
 NumberOfJobs: 919
 %%
-Site: Nebraska-HCC
+Site: Nebraska
 VO: cms
 EarliestEndTime: 1451606400
 LatestEndTime: 1453248000
@@ -3375,7 +3311,7 @@ NormalisedWallDuration: 56638594
 NormalisedCpuDuration: 34661883
 NumberOfJobs: 49
 %%
-Site: Nebraska-HCC
+Site: Nebraska
 VO: cms
 EarliestEndTime: 1451606400
 LatestEndTime: 1454198400
@@ -3391,7 +3327,7 @@ NormalisedWallDuration: 9250232592
 NormalisedCpuDuration: 715442212
 NumberOfJobs: 17408
 %%
-Site: Nebraska-HCC
+Site: Nebraska
 VO: cms
 EarliestEndTime: 1452038400
 LatestEndTime: 1454198400
@@ -3439,7 +3375,7 @@ NormalisedWallDuration: 31557
 NormalisedCpuDuration: 0
 NumberOfJobs: 2
 %%
-Site: Nebraska-HCC
+Site: Nebraska
 VO: cms
 EarliestEndTime: 1452902400
 LatestEndTime: 1452902400
@@ -3471,7 +3407,7 @@ NormalisedWallDuration: 815
 NormalisedCpuDuration: 0
 NumberOfJobs: 1
 %%
-Site: Nebraska-HCC
+Site: Nebraska
 VO: cms
 EarliestEndTime: 1453075200
 LatestEndTime: 1453075200
