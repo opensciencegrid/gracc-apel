@@ -1,0 +1,286 @@
+AGLT2	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+AGLT2	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=diehl/CN=490810/CN=Edward Diehl
+AGLT2	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+AGLT2	atlas	8	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+BNL-ATLAS	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+BNL-ATLAS	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+BNL-ATLAS	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+BNL-ATLAS	atlas	2	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+BNL-ATLAS	atlas	2	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+BNL-ATLAS	atlas	8	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+BNL-ATLAS	atlas	8	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhover/CN=653174/CN=John Raymond Hover
+BNL-ATLAS	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+BU_ATLAS_Tier2	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+BU_ATLAS_Tier2	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+BU_ATLAS_Tier2	atlas	1	generic atlas user
+BU_ATLAS_Tier2	atlas	8	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+BU_ATLAS_Tier2	atlas	8	generic atlas user
+Baylor-Tier3	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhutches/CN=710584/CN=James Michael Hutcheson
+Baylor-Tier3	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jhutches/CN=710584/CN=James Michael Hutcheson/CN=1508997945
+CIT_CMS_T2	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+CIT_CMS_T2	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bockjoo/CN=556538/CN=Bockjoo Kim
+CIT_CMS_T2	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+CIT_CMS_T2	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+CIT_CMS_T2	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+CIT_CMS_T2	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+CIT_CMS_T2	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+CIT_CMS_T2	cms	1	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+CIT_CMS_T2	cms	4	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/test-001.t2.ucsd.edu
+CIT_CMS_T2	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+CIT_CMS_T2	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+CIT_CMS_T2	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+CIT_CMS_T2	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+CIT_CMS_T2	cms	8	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+CIT_CMS_T2	cms	8	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/test-001.t2.ucsd.edu
+CIT_CMS_T2	cms	16	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/test-001.t2.ucsd.edu
+CIT_CMS_T2	cms	24	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/test-001.t2.ucsd.edu
+CIT_CMS_T2	cms	32	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/test-001.t2.ucsd.edu
+COMET	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+COMET	cms	24	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Clemson-Palmetto	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+Clemson-Palmetto	atlas	1	generic atlas user
+Clemson-Palmetto	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Clemson-Palmetto	cms	1	generic cms user
+FLTECH	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+FLTECH	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+FLTECH	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+FLTECH	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+FLTECH	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+FLTECH	cms	1	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+FNAL_FERMIGRID	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+GLOW	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+GLOW	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bockjoo/CN=556538/CN=Bockjoo Kim
+GLOW	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+GLOW	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+GLOW	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+GLOW	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+GLOW	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+GLOW	cms	8	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+HU_ATLAS_Tier2	atlas	2	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+HU_ATLAS_Tier2	atlas	2	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+HU_ATLAS_Tier2	atlas	2	generic atlas user
+HU_ATLAS_Tier2	atlas	8	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+HU_ATLAS_Tier2	atlas	8	generic atlas user
+Hyak	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+Hyak	atlas	1	generic atlas user
+LUCILLE	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+LUCILLE	atlas	8	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+MIT_CMS	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+MIT_CMS	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bockjoo/CN=556538/CN=Bockjoo Kim
+MIT_CMS	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+MIT_CMS	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+MIT_CMS	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+MIT_CMS	cms	8	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+MIT_CMS	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+MIT_CMS	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+MIT_CMS	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+MIT_CMS	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+MIT_CMS	cms	8	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+MWT2	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+MWT2	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dlesny/CN=681464/CN=David Lesny
+MWT2	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+MWT2	atlas	8	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=dlesny/CN=681464/CN=David Lesny
+MWT2	atlas	8	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+MWT2	atlas	8	generic atlas user
+MWT2	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+MWT2	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+NERSC-PDSF	alice	1	generic alice user
+NWICG_Earth	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=khurtado/CN=764581/CN=Kenyi Paolo Hurtado Anampa
+NYSGRID_CORNELL_NYS1	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+NYSGRID_CORNELL_NYS1	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+NYSGRID_CORNELL_NYS1	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+NYSGRID_CORNELL_NYS1	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+NYSGRID_CORNELL_NYS1	cms	1	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+NYSGRID_CORNELL_NYS1	cms	1	generic cms user
+Nebraska	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bockjoo/CN=556538/CN=Bockjoo Kim
+Nebraska	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jiafulow/CN=673625/CN=Jia Fu Low
+Nebraska	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Nebraska	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Nebraska	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Nebraska	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+Nebraska	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+Nebraska	cms	1	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+Nebraska	cms	2	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Nebraska	cms	2	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Nebraska	cms	2	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Nebraska	cms	2	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+Nebraska	cms	2	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+Nebraska	cms	2	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+Nebraska	cms	3	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Nebraska	cms	3	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Nebraska	cms	3	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Nebraska	cms	3	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+Nebraska	cms	4	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Nebraska	cms	4	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Nebraska	cms	4	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Nebraska	cms	4	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+Nebraska	cms	4	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+Nebraska	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Nebraska	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Nebraska	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+Nebraska	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+Nebraska	cms	8	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+Nebraska	cms	8	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=testpilot03/test-frontend-1.t2.ucsd.edu
+Nebraska	cms	56	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Nebraska	cms	56	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+OUHEP_OSG	atlas	1	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=People/CN=Horst Severini 27
+OU_OCHEP_SWT2	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+OU_OCHEP_SWT2	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+OU_OSCER_ATLAS	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+OU_OSCER_ATLAS	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+OU_OSCER_ATLAS	atlas	1	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=People/CN=Horst Severini 27
+OU_OSCER_ATLAS	atlas	1	generic atlas user
+OU_OSCER_ATLAS	atlas	16	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+OU_OSCER_ATLAS	atlas	16	generic atlas user
+Purdue-Carter	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Purdue-Carter	cms	1	generic cms user
+Purdue-Carter	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Purdue-Carter	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Purdue-Carter	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+Purdue-Carter	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+Purdue-Carter	cms	8	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+Purdue-Carter	cms	8	generic cms user
+Purdue-Conte	cms	8	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Purdue-Conte	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Purdue-Conte	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Purdue-Conte	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+Purdue-Conte	cms	8	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+Purdue-Conte	cms	8	generic cms user
+Purdue-Hadoop	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+Purdue-Hadoop	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bockjoo/CN=556538/CN=Bockjoo Kim
+Purdue-Hadoop	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Purdue-Hadoop	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Purdue-Hadoop	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Purdue-Hadoop	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+Purdue-Hadoop	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+Purdue-Hadoop	cms	1	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+Purdue-Hadoop	cms	1	generic cms user
+Purdue-Hammer	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Purdue-Hammer	cms	1	generic cms user
+Purdue-Hammer	cms	10	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Purdue-Hammer	cms	10	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Purdue-Hammer	cms	10	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+Purdue-Hammer	cms	10	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+Purdue-Hammer	cms	10	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+Purdue-Hammer	cms	10	generic cms user
+Purdue-Rice	cms	8	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=marabgol/CN=653155/CN=Majid Arabgol/CN=1984335585
+Purdue-Rice	cms	8	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Purdue-Rice	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Purdue-Rice	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Purdue-Rice	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+Purdue-Rice	cms	8	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+Purdue-Rice	cms	8	generic cms user
+Rice	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jramirez/CN=662428/CN=Juan Eduardo Ramirez Vargas
+Rice	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+Rice	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+Rice	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+Rice	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+SPRACE	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+SPRACE	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+SPRACE	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+SPRACE	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+SPRACE	cms	1	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+SU-OG	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+SU-OG	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+SU-OG	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+SU-OG	cms	1	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+SWT2_CPB	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+SWT2_CPB	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+SWT2_CPB	atlas	1	generic atlas user
+SWT2_CPB	atlas	8	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+SWT2_CPB	atlas	8	generic atlas user
+TAMU_BRAZOS	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=moralesm/CN=725145/CN=Jorge Daniel Morales Mendoza
+TAMU_BRAZOS	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+TAMU_BRAZOS	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+TAMU_BRAZOS	cms	1	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+TAMU_BRAZOS	cms	1	generic cms user
+TAMU_BRAZOS	cms	2	generic cms user
+TAMU_BRAZOS	cms	3	generic cms user
+TAMU_BRAZOS	cms	4	generic cms user
+UCR-HEP	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+UCR-HEP	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+UCR-HEP	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+UCR-HEP	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+UCR-HEP	cms	1	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+UCSDT2	atlas	8	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+UCSDT2	atlas	8	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/uclhc-fe-1.t2.ucsd.edu
+UCSDT2	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bockjoo/CN=556538/CN=Bockjoo Kim
+UCSDT2	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+UCSDT2	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=terrence/CN=637414/CN=Terrence Martin/CN=proxy
+UCSDT2	cms	1	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/test-001.t2.ucsd.edu
+UCSDT2	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+UCSDT2	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+UCSDT2	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+UCSDT2	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+UCSDT2	cms	8	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+UCSDT2	cms	8	undefined
+UCSD_GlideinWMS_Submit_r1	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bemarsh/CN=759897/CN=Bennett James Marsh
+UCSD_GlideinWMS_Submit_r1	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=cwelke/CN=738057/CN=Charles Vincent Welke
+UCSD_GlideinWMS_Submit_r1	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=fgolf/CN=677018/CN=Frank Golf
+UCSD_GlideinWMS_Submit_r1	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=haweber/CN=713242/CN=Hannsjorg Weber
+UCSD_GlideinWMS_Submit_r1	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=isuarez/CN=709291/CN=Indara Suarez
+UCSD_GlideinWMS_Submit_r1	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jgwood/CN=709590/CN=John Garland Wood
+UCSD_GlideinWMS_Submit_r1	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jletts/CN=409293/CN=James Letts
+UCSD_GlideinWMS_Submit_r1	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=lshchuts/CN=652558/CN=Lesya Shchutska
+UCSD_GlideinWMS_Submit_r1	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mderdzin/CN=760843/CN=Mark Derdzinski
+UCSD_GlideinWMS_Submit_r1	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=mliu/CN=680612/CN=Miaoyuan Liu
+UCSD_GlideinWMS_Submit_r1	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=namin/CN=746430/CN=Nick J Amin
+UCSD_GlideinWMS_Submit_r1	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=olivito/CN=663475/CN=Dominick John Olivito
+UCSD_GlideinWMS_Submit_r1	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=rcoelhol/CN=754088/CN=Rafael Coelho Lopes De Sa
+UCSD_GlideinWMS_Submit_r1	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=scasasso/CN=720565/CN=Stefano Casasso
+UCSD_GlideinWMS_Submit_r1	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=vdutta/CN=696509/CN=Valentina Dutta
+UColorado_HEP	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+UColorado_HEP	cms	1	generic cms user
+UColorado_HEP	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+UColorado_HEP	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+UColorado_HEP	cms	8	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+UColorado_HEP	cms	8	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=testpilot03/test-frontend-1.t2.ucsd.edu
+UColorado_HEP	cms	8	generic cms user
+UConn-OSG	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+UFlorida-HPC	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=bockjoo/CN=556538/CN=Bockjoo Kim
+UFlorida-HPC	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+UFlorida-HPC	cms	1	generic cms user
+UFlorida-HPC	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot01/vocms080.cern.ch
+UFlorida-HPC	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+UFlorida-HPC	cms	8	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+UFlorida-HPC	cms	8	generic cms user
+UMissHEP	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+UMissHEP	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+UMissHEP	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+UMissHEP	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+UMissHEP	cms	1	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+USCMS-FNAL-WC1	atlas	8	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+USCMS-FNAL-WC1	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+USCMS-FNAL-WC1	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+USCMS-FNAL-WC1	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+USCMS-FNAL-WC1	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+USCMS-FNAL-WC1	cms	8	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=cmssrv279.fnal.gov
+USCMS-FNAL-WC1	cms	8	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+USCMS-FNAL-WC1	cms	8	undefined
+UTA_SWT2	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+UTA_SWT2	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+UTA_SWT2	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=pnilsson/CN=418516/CN=Paul Nilsson
+UTA_SWT2	atlas	1	generic atlas user
+UTA_SWT2	atlas	8	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=jcaballe/CN=620333/CN=Jose Caballero Bejar
+UTA_SWT2	atlas	8	generic atlas user
+WT2	atlas	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=ddmadmin/CN=531497/CN=Robot: ATLAS Data Management
+WT2	atlas	1	generic atlas user
+WT2	atlas	2	generic atlas user
+WT2	atlas	4	generic atlas user
+rutgers-cms	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+rutgers-cms	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+rutgers-cms	cms	1	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+umd-cms	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+umd-cms	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+umd-cms	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+umd-cms	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+umd-cms	cms	1	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+uprm-cms	cms	1	/DC=ch/DC=cern/OU=Organic Units/OU=Users/CN=sciaba/CN=430796/CN=Andrea Sciaba
+uprm-cms	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+uprm-cms	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+uprm-cms	cms	1	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+uprm-cms	cms	1	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
+uprm-cms	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot02/vocms080.cern.ch
+uprm-cms	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot03/vocms080.cern.ch
+uprm-cms	cms	8	/DC=ch/DC=cern/OU=computers/CN=cmspilot04/vocms080.cern.ch
+uprm-cms	cms	8	/DC=org/DC=opensciencegrid/O=Open Science Grid/OU=Services/CN=pilot/cmsgwms-frontend.fnal.gov
